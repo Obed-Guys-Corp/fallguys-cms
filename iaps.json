@@ -607,6 +607,46 @@
     }
   },
   {
+    "id": "old_primos_1000",
+    "type": "consumable",
+    "dailyspendincrease": 899,
+    "android": {
+      "product_id": "test1"
+    },
+    "ios": {
+      "product_id": "test1"
+    },
+    "windows": {
+      "product_id": "test1"
+    },
+    "steam": {
+      "item_id": 201,
+      "price_usd": 899,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_0899_steam_tiers"
+    },
+    "steam_dlc": {},
+    "psn": {
+      "product_id": "PRIM01",
+      "product_label": "SMALLPRIMOPACK1K"
+    },
+    "amazon": {},
+    "egs": {
+      "product_id": "1d8bea5103c84878b76f6652d52860a9",
+      "audience_item_id": "15db195bec844b8ebd8cabd5051d212d"
+    },
+    "onestore": {
+      "product_id": "fg1000primos"
+    },
+    "switch": {
+      "product_id": "SMALLPRIMOPACK1K"
+    },
+    "xbox": {
+      "consumption_method": "consumable",
+      "consumable_product_id": "9NJD6NZJ3B9N"
+    }
+  },
+  {
     "id": "old_primos_600",
     "type": "consumable",
     "dailyspendincrease": 599,
@@ -635,6 +675,40 @@
     "xbox": {
       "consumption_method": "consumable",
       "consumable_product_id": "9N7X8CG5H1F8"
+    }
+  },
+  {
+    "id": "old_primos_800",
+    "type": "consumable",
+    "dailyspendincrease": 749,
+    "android": {},
+    "ios": {},
+    "windows": {},
+    "steam": {
+      "item_id": 3925490,
+      "price_usd": 749,
+      "description": "Tiny Show-Bucks Pack",
+      "price_tier": "usd_0749_steam_tiers"
+    },
+    "steam_dlc": {},
+    "psn": {
+      "product_id": "INC800",
+      "product_label": "INC8000000000000"
+    },
+    "amazon": {},
+    "egs": {
+      "product_id": "14446b67d6d14985adc516d0579112bf",
+      "audience_item_id": "c1e73556e32848c8bf7a1e621fa45260"
+    },
+    "onestore": {
+      "product_id": "one_sb_800inc"
+    },
+    "switch": {
+      "product_id": "fgbucks800"
+    },
+    "xbox": {
+      "consumption_method": "consumable",
+      "consumable_product_id": "9NLXW9ZDDFW2"
     }
   },
   {
@@ -1437,15 +1511,15 @@
   {
     "id": "primos_100",
     "type": "consumable",
-    "dailyspendincrease": 99,
+    "dailyspendincrease": 199,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3923410,
-      "price_usd": 99,
+      "price_usd": 199,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0099_steam_tiers"
+      "price_tier": "usd_0199_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1471,21 +1545,15 @@
   {
     "id": "primos_1000",
     "type": "consumable",
-    "dailyspendincrease": 899,
-    "android": {
-      "product_id": "test1"
-    },
-    "ios": {
-      "product_id": "test1"
-    },
-    "windows": {
-      "product_id": "test1"
-    },
+    "dailyspendincrease": 1299,
+    "android": {},
+    "ios": {},
+    "windows": {},
     "steam": {
-      "item_id": 201,
-      "price_usd": 899,
+      "item_id": 4510670,
+      "price_usd": 1299,
       "description": "Small Show-Bucks Pack",
-      "price_tier": "usd_0899_steam_tiers"
+      "price_tier": "usd_1299_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1494,32 +1562,32 @@
     },
     "amazon": {},
     "egs": {
-      "product_id": "1d8bea5103c84878b76f6652d52860a9",
-      "audience_item_id": "15db195bec844b8ebd8cabd5051d212d"
+      "product_id": "46baa93af851495fb62cea1bfe3721bd",
+      "audience_item_id": "81b0dacfd5434b1d9553c52c32b0bddc"
     },
     "onestore": {
-      "product_id": "fg1000primos"
+      "product_id": "fgpack1000"
     },
     "switch": {
-      "product_id": "SMALLPRIMOPACK1K"
+      "product_id": "FGPACK1000"
     },
     "xbox": {
       "consumption_method": "consumable",
-      "consumable_product_id": "9NJD6NZJ3B9N"
+      "consumable_product_id": "9N2BDJVL3N35"
     }
   },
   {
     "id": "primos_1100",
     "type": "consumable",
-    "dailyspendincrease": 999,
+    "dailyspendincrease": 1499,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925510,
-      "price_usd": 999,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0999_steam_tiers"
+      "price_usd": 1499,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_1499_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1545,15 +1613,15 @@
   {
     "id": "primos_1200",
     "type": "consumable",
-    "dailyspendincrease": 1099,
+    "dailyspendincrease": 1699,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925520,
-      "price_usd": 1099,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1099_steam_tiers"
+      "price_usd": 1699,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_1699_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1577,17 +1645,51 @@
     }
   },
   {
+    "id": "primos_12500",
+    "type": "consumable",
+    "dailyspendincrease": 8999,
+    "android": {},
+    "ios": {},
+    "windows": {},
+    "steam": {
+      "item_id": 4510710,
+      "price_usd": 8999,
+      "description": "Giant Show-Bucks Pack",
+      "price_tier": "usd_8999_steam_tiers_02"
+    },
+    "steam_dlc": {},
+    "psn": {
+      "product_id": "SB1250",
+      "product_label": "FGSHOWBUCKS12500"
+    },
+    "amazon": {},
+    "egs": {
+      "product_id": "6d6252216abf4b20966341dbd310bee2",
+      "audience_item_id": "c6e6b8118aa24b63add91d847ad17f77"
+    },
+    "onestore": {
+      "product_id": "fgpack12500"
+    },
+    "switch": {
+      "product_id": "FGPACK12500"
+    },
+    "xbox": {
+      "consumption_method": "consumable",
+      "consumable_product_id": "9P7SF7DQ02PF"
+    }
+  },
+  {
     "id": "primos_1300",
     "type": "consumable",
-    "dailyspendincrease": 1199,
+    "dailyspendincrease": 1899,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925530,
-      "price_usd": 1199,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1199_steam_tiers"
+      "price_usd": 1899,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_1899_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1647,15 +1749,15 @@
   {
     "id": "primos_1400",
     "type": "consumable",
-    "dailyspendincrease": 1249,
+    "dailyspendincrease": 2099,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925610,
-      "price_usd": 1249,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1249_steam_tiers"
+      "price_usd": 2099,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2099_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1681,15 +1783,15 @@
   {
     "id": "primos_1500",
     "type": "consumable",
-    "dailyspendincrease": 1349,
+    "dailyspendincrease": 2249,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925630,
-      "price_usd": 1349,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1349_steam_tiers"
+      "price_usd": 2249,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2249_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1715,15 +1817,15 @@
   {
     "id": "primos_1600",
     "type": "consumable",
-    "dailyspendincrease": 1399,
+    "dailyspendincrease": 2249,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925640,
-      "price_usd": 1399,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1399_steam_tiers"
+      "price_usd": 2249,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2249_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1749,15 +1851,15 @@
   {
     "id": "primos_1700",
     "type": "consumable",
-    "dailyspendincrease": 1499,
+    "dailyspendincrease": 2249,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925650,
-      "price_usd": 1499,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1499_steam_tiers"
+      "price_usd": 2249,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2249_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1783,15 +1885,15 @@
   {
     "id": "primos_1800",
     "type": "consumable",
-    "dailyspendincrease": 1599,
+    "dailyspendincrease": 2249,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925660,
-      "price_usd": 1599,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1599_steam_tiers"
+      "price_usd": 2249,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2249_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1817,15 +1919,15 @@
   {
     "id": "primos_1900",
     "type": "consumable",
-    "dailyspendincrease": 1649,
+    "dailyspendincrease": 2249,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925670,
-      "price_usd": 1649,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1649_steam_tiers"
+      "price_usd": 2249,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2249_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1851,15 +1953,15 @@
   {
     "id": "primos_200",
     "type": "consumable",
-    "dailyspendincrease": 199,
+    "dailyspendincrease": 399,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925440,
-      "price_usd": 199,
+      "price_usd": 399,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0199_steam_tiers"
+      "price_tier": "usd_0399_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1885,15 +1987,15 @@
   {
     "id": "primos_2000",
     "type": "consumable",
-    "dailyspendincrease": 1749,
+    "dailyspendincrease": 2249,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925690,
-      "price_usd": 1749,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_1749_steam_tiers"
+      "price_usd": 2249,
+      "description": "Small Show-Bucks Pack",
+      "price_tier": "usd_2249_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1917,17 +2019,51 @@
     }
   },
   {
-    "id": "primos_2800",
+    "id": "primos_2400",
     "type": "consumable",
     "dailyspendincrease": 2299,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
-      "item_id": 202,
+      "item_id": 4510690,
       "price_usd": 2299,
       "description": "Medium Show-Bucks Pack",
       "price_tier": "usd_2299_steam_tiers_02"
+    },
+    "steam_dlc": {},
+    "psn": {
+      "product_id": "FGSB24",
+      "product_label": "SHOWBUCKS2400000"
+    },
+    "amazon": {},
+    "egs": {
+      "product_id": "cef53fcbb7d54923ac13358dfb39d5e5",
+      "audience_item_id": "5c30aa782b4a4bc9bf15a9a04865ae11"
+    },
+    "onestore": {
+      "product_id": "fgpack2400"
+    },
+    "switch": {
+      "product_id": "FGPACK2400"
+    },
+    "xbox": {
+      "consumption_method": "consumable",
+      "consumable_product_id": "9P6W5XVJLZHF"
+    }
+  },
+  {
+    "id": "primos_2800",
+    "type": "consumable",
+    "dailyspendincrease": 3099,
+    "android": {},
+    "ios": {},
+    "windows": {},
+    "steam": {
+      "item_id": 202,
+      "price_usd": 3099,
+      "description": "Medium Show-Bucks Pack",
+      "price_tier": "usd_3099_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1953,15 +2089,15 @@
   {
     "id": "primos_300",
     "type": "consumable",
-    "dailyspendincrease": 299,
+    "dailyspendincrease": 599,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925450,
-      "price_usd": 299,
+      "price_usd": 599,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0299_steam_tiers"
+      "price_tier": "usd_0599_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -1987,15 +2123,15 @@
   {
     "id": "primos_400",
     "type": "consumable",
-    "dailyspendincrease": 399,
+    "dailyspendincrease": 799,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925460,
-      "price_usd": 399,
+      "price_usd": 799,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0399_steam_tiers"
+      "price_tier": "usd_0799_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -2019,17 +2155,51 @@
     }
   },
   {
+    "id": "primos_4500",
+    "type": "consumable",
+    "dailyspendincrease": 3699,
+    "android": {},
+    "ios": {},
+    "windows": {},
+    "steam": {
+      "item_id": 4510700,
+      "price_usd": 3699,
+      "description": "Large Show-Bucks Pack",
+      "price_tier": "usd_3699_steam_tiers_02"
+    },
+    "steam_dlc": {},
+    "psn": {
+      "product_id": "FGSB45",
+      "product_label": "SHOWBUCKS4500000"
+    },
+    "amazon": {},
+    "egs": {
+      "product_id": "c2f49752d7c944a2bc79303b2326e457",
+      "audience_item_id": "64a92bf7418744749c0772b623b68a46"
+    },
+    "onestore": {
+      "product_id": "fgpack4500"
+    },
+    "switch": {
+      "product_id": "FGPACK4500"
+    },
+    "xbox": {
+      "consumption_method": "consumable",
+      "consumable_product_id": "9NQ9P0DQTS0N"
+    }
+  },
+  {
     "id": "primos_500",
     "type": "consumable",
-    "dailyspendincrease": 499,
+    "dailyspendincrease": 849,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925470,
-      "price_usd": 499,
+      "price_usd": 849,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0499_steam_tiers"
+      "price_tier": "usd_0849_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -2089,15 +2259,15 @@
   {
     "id": "primos_600",
     "type": "consumable",
-    "dailyspendincrease": 599,
+    "dailyspendincrease": 849,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925700,
-      "price_usd": 599,
+      "price_usd": 849,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0599_steam_tiers"
+      "price_tier": "usd_0849_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -2123,15 +2293,15 @@
   {
     "id": "primos_700",
     "type": "consumable",
-    "dailyspendincrease": 649,
+    "dailyspendincrease": 849,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925480,
-      "price_usd": 649,
+      "price_usd": 849,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0649_steam_tiers"
+      "price_tier": "usd_0849_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
@@ -2157,49 +2327,49 @@
   {
     "id": "primos_800",
     "type": "consumable",
-    "dailyspendincrease": 749,
+    "dailyspendincrease": 899,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
-      "item_id": 3925490,
-      "price_usd": 749,
+      "item_id": 4510680,
+      "price_usd": 899,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0749_steam_tiers"
+      "price_tier": "usd_0899_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {
-      "product_id": "INC800",
-      "product_label": "INC8000000000000"
+      "product_id": "SB8000",
+      "product_label": "FGSHOWBUCKS80000"
     },
     "amazon": {},
     "egs": {
-      "product_id": "14446b67d6d14985adc516d0579112bf",
-      "audience_item_id": "c1e73556e32848c8bf7a1e621fa45260"
+      "product_id": "18bd67af2f9140b2aedbfda8b2de2a20",
+      "audience_item_id": "a85f2c0f21b64f0aa3efb2d62d052c57"
     },
     "onestore": {
-      "product_id": "one_sb_800inc"
+      "product_id": "fgpack800"
     },
     "switch": {
-      "product_id": "fgbucks800"
+      "product_id": "FGPACK800"
     },
     "xbox": {
       "consumption_method": "consumable",
-      "consumable_product_id": "9NLXW9ZDDFW2"
+      "consumable_product_id": "9MTXT4LC1WXV"
     }
   },
   {
     "id": "primos_900",
     "type": "consumable",
-    "dailyspendincrease": 849,
+    "dailyspendincrease": 1099,
     "android": {},
     "ios": {},
     "windows": {},
     "steam": {
       "item_id": 3925500,
-      "price_usd": 849,
+      "price_usd": 1099,
       "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0849_steam_tiers"
+      "price_tier": "usd_1099_steam_tiers"
     },
     "steam_dlc": {},
     "psn": {

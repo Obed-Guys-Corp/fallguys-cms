@@ -57557,13 +57557,13 @@
       "purchase_options": {
         "payment_type": "iap",
         "purchase_quantity": 1,
-        "iap": "primos_13500"
+        "iap": "primos_12500"
       },
       "cosmetics": [],
       "extra": [
         {
           "type": "currencies",
-          "quantity": 13500,
+          "quantity": 12500,
           "item_id": "gems"
         }
       ]
@@ -57576,8 +57576,8 @@
     "category": "currency",
     "bundle_tile_image": "sym_bundle_primos_giant_fg",
     "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2",
-    "ribbon_label_text": "bundle_ribbon_extra35",
-    "corner_label_text": "bundle_ribbon_extra35"
+    "ribbon_label_text": "bundle_ribbon_extra56",
+    "corner_label_text": "bundle_ribbon_extra56"
   },
   {
     "id": "primos_large_1x2",
@@ -57586,13 +57586,13 @@
       "purchase_options": {
         "payment_type": "iap",
         "purchase_quantity": 1,
-        "iap": "primos_5000"
+        "iap": "primos_4500"
       },
       "cosmetics": [],
       "extra": [
         {
           "type": "currencies",
-          "quantity": 5000,
+          "quantity": 4500,
           "item_id": "gems"
         }
       ]
@@ -57605,8 +57605,8 @@
     "category": "currency",
     "bundle_tile_image": "sym_bundle_primos_large_fg",
     "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2",
-    "ribbon_label_text": "bundle_ribbon_extra22",
-    "corner_label_text": "bundle_ribbon_extra22"
+    "ribbon_label_text": "bundle_ribbon_extra36",
+    "corner_label_text": "bundle_ribbon_extra36"
   },
   {
     "id": "primos_medium_1x2",
@@ -57615,13 +57615,13 @@
       "purchase_options": {
         "payment_type": "iap",
         "purchase_quantity": 1,
-        "iap": "primos_2800"
+        "iap": "primos_2400"
       },
       "cosmetics": [],
       "extra": [
         {
           "type": "currencies",
-          "quantity": 2800,
+          "quantity": 2400,
           "item_id": "gems"
         }
       ]
@@ -57634,8 +57634,8 @@
     "category": "currency",
     "bundle_tile_image": "sym_bundle_primos_medium_fg",
     "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2",
-    "ribbon_label_text": "bundle_ribbon_extra09",
-    "corner_label_text": "bundle_ribbon_extra09"
+    "ribbon_label_text": "bundle_ribbon_extra17",
+    "corner_label_text": "bundle_ribbon_extra17"
   },
   {
     "id": "primos_small_1x2",
@@ -57644,13 +57644,13 @@
       "purchase_options": {
         "payment_type": "iap",
         "purchase_quantity": 1,
-        "iap": "primos_1000"
+        "iap": "primos_800"
       },
       "cosmetics": [],
       "extra": [
         {
           "type": "currencies",
-          "quantity": 1000,
+          "quantity": 800,
           "item_id": "gems"
         }
       ]
@@ -57660,7 +57660,7 @@
     "bundle_type_subtitle": "bundle_subtitle_currency",
     "rarity": "legendary",
     "category": "currency",
-    "bundle_tile_image": "sym_bundle_primos_small_fg",
+    "bundle_tile_image": "sym_bundle_primos_tiny_fg",
     "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2"
   },
   {
@@ -57713,6 +57713,32 @@
     "rarity": "legendary",
     "category": "currency",
     "bundle_tile_image": "sym_bundle_primos_tiny_fg",
+    "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2"
+  },
+  {
+    "id": "primos_top_1000_1x2",
+    "bundle_type": {
+      "bundle_type": "default",
+      "purchase_options": {
+        "payment_type": "iap",
+        "purchase_quantity": 1,
+        "iap": "primos_1000"
+      },
+      "cosmetics": [],
+      "extra": [
+        {
+          "type": "currencies",
+          "quantity": 1000,
+          "item_id": "gems"
+        }
+      ]
+    },
+    "display_name": "currency_name_gems",
+    "bundle_description": "iap_disclaimer_default",
+    "bundle_type_subtitle": "bundle_subtitle_currency",
+    "rarity": "legendary",
+    "category": "currency",
+    "bundle_tile_image": "sym_bundle_primos_small_fg",
     "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2"
   },
   {

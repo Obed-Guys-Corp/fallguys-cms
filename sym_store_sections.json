@@ -1106,7 +1106,7 @@
           "tile_height": 2
         },
         "is_hidden": true,
-        "bundle_slot": "primos_top_800_1x2"
+        "bundle_slot": "primos_top_900_1x2"
       },
       {
         "layout": {
@@ -1114,7 +1114,7 @@
           "tile_height": 2
         },
         "is_hidden": true,
-        "bundle_slot": "primos_top_900_1x2"
+        "bundle_slot": "primos_top_1000_1x2"
       },
       {
         "layout": {
@@ -2295,7 +2295,7 @@
           "tile_height": 2
         },
         "is_hidden": true,
-        "bundle_slot": "primos_top_800_1x2"
+        "bundle_slot": "primos_top_900_1x2"
       },
       {
         "layout": {
@@ -2303,7 +2303,7 @@
           "tile_height": 2
         },
         "is_hidden": true,
-        "bundle_slot": "primos_top_900_1x2"
+        "bundle_slot": "primos_top_1000_1x2"
       },
       {
         "layout": {

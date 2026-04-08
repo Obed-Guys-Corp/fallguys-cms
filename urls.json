@@ -38,5 +38,9 @@
   {
     "id": "website",
     "url": "https://fallguys.com/"
+  },
+  {
+    "id": "xbox_unlink_account_url",
+    "url": "https://www.epicgames.com/help/en-US/account-c-202300000001645/linked-accounts-c-202300000001754/how-do-i-unlink-my-console-account-from-my-epic-games-account-a202300000015187"
   }
 ]

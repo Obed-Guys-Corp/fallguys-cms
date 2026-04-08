@@ -6744,6 +6744,10 @@
     "text": "+12%"
   },
   {
+    "id": "bundle_ribbon_extra17",
+    "text": "+17%"
+  },
+  {
     "id": "bundle_ribbon_extra20",
     "text": "+20%"
   },
@@ -6764,8 +6768,16 @@
     "text": "+35%"
   },
   {
+    "id": "bundle_ribbon_extra36",
+    "text": "+36%"
+  },
+  {
     "id": "bundle_ribbon_extra50",
     "text": "+50%"
+  },
+  {
+    "id": "bundle_ribbon_extra56",
+    "text": "+56%"
   },
   {
     "id": "bundle_ribbon_new",
@@ -11726,6 +11738,10 @@
   {
     "id": "connection_error_update_client",
     "text": "Update required. Please update the game in the store and restart."
+  },
+  {
+    "id": "console_account",
+    "text": "Console Account"
   },
   {
     "id": "content_download_declined_quit_message",
@@ -23845,7 +23861,7 @@
   },
   {
     "id": "iap_extra_buck_percentage_explainer",
-    "text": "*Extra percentage in USD equivalent and as compared to price of 1000 Show-Bucks pack. Your regional equivalent may slightly vary."
+    "text": "*Extra percentage in USD equivalent and as compared to price of 800 Show-Bucks pack. Your regional equivalent may slightly vary."
   },
   {
     "id": "iap_extra_buck_percentage_explainer_copy",
@@ -44714,6 +44730,10 @@
   {
     "id": "unclaimed_event_reward",
     "text": "UNCLAIMED REWARD"
+  },
+  {
+    "id": "unlink_epic_account",
+    "text": "Unlink Epic Account"
   },
   {
     "id": "unlock_desc_le_challenge_single",
