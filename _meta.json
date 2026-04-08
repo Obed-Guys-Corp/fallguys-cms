@@ -645,7 +645,7 @@
     "total": 831
   },
   "sym_store_bundles": {
-    "total": 1921
+    "total": 1925
   },
   "sym_store_sections": {
     "total": 260
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "86c85e37854a346ee57ce51e87dcb0e24063d183",
+  "_content_version": "f187d2ae84382262ff7ab175b02f8569dceac1d0",
   "_segments": [
     "high_res"
   ]
