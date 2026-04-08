@@ -58164,7 +58164,7 @@
       "purchase_options": {
         "payment_type": "iap",
         "purchase_quantity": 1,
-        "iap": "primos_800"
+        "iap": "old_primos_800"
       },
       "cosmetics": [],
       "extra": [
