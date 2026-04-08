@@ -252,7 +252,7 @@
     "total": 1
   },
   "iaps": {
-    "total": 226
+    "total": 249
   },
   "level_tag_weightings": {
     "total": 86
@@ -645,7 +645,7 @@
     "total": 831
   },
   "sym_store_bundles": {
-    "total": 1925
+    "total": 1948
   },
   "sym_store_sections": {
     "total": 260
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "f187d2ae84382262ff7ab175b02f8569dceac1d0",
+  "_content_version": "fc919a029b297a50386db33f9ed002a014ff8744",
   "_segments": [
     "high_res"
   ]
