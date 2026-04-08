@@ -1602,31 +1602,6 @@
     }
   },
   {
-    "id": "primos_100_redirect",
-    "type": "consumable",
-    "dailyspendincrease": 199,
-    "android": {},
-    "ios": {},
-    "windows": {},
-    "steam": {
-      "price_usd": 199,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0199_steam_tiers"
-    },
-    "steam_dlc": {},
-    "psn": {},
-    "amazon": {},
-    "egs": {
-      "product_id": "d3f63336a9854774b021c6edc068b0ea",
-      "audience_item_id": "FG_100_SB"
-    },
-    "onestore": {},
-    "switch": {},
-    "xbox": {
-      "consumption_method": null
-    }
-  },
-  {
     "id": "primos_1100",
     "type": "consumable",
     "dailyspendincrease": 1499,
@@ -1677,7 +1652,7 @@
     "amazon": {},
     "egs": {
       "product_id": "a00d5edfdf0d4ea496df554f2ac6558f",
-      "audience_item_id": "FG_1100_SB"
+      "audience_item_id": "FG_1100_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -1736,7 +1711,7 @@
     "amazon": {},
     "egs": {
       "product_id": "6272b1b5457d4da2a512d4439c2dab05",
-      "audience_item_id": "FG_1200_SB"
+      "audience_item_id": "FG_1200_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -1854,7 +1829,7 @@
     "amazon": {},
     "egs": {
       "product_id": "195a5789f8b54eea8c31f838a80e90b4",
-      "audience_item_id": "FG_1300_SB"
+      "audience_item_id": "FG_1300_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -1947,7 +1922,7 @@
     "amazon": {},
     "egs": {
       "product_id": "fff848abb2c14d9b813ede029138751b",
-      "audience_item_id": "FG_1400_SB"
+      "audience_item_id": "FG_1400_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2006,7 +1981,7 @@
     "amazon": {},
     "egs": {
       "product_id": "84a6dbd6218e4fbea49c8c03f1048de7",
-      "audience_item_id": "FG_1500_SB"
+      "audience_item_id": "FG_1500_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2065,7 +2040,7 @@
     "amazon": {},
     "egs": {
       "product_id": "4168a92a83aa4bac819520459e2be511",
-      "audience_item_id": "FG_1600_SB"
+      "audience_item_id": "FG_1600_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2124,7 +2099,7 @@
     "amazon": {},
     "egs": {
       "product_id": "bdfa674888894fcc9157c57e6a0eb2ce",
-      "audience_item_id": "FG_1700_SB"
+      "audience_item_id": "FG_1700_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2183,7 +2158,7 @@
     "amazon": {},
     "egs": {
       "product_id": "02dbad1bdb594c1cad5406b161af5379",
-      "audience_item_id": "FG_1800_SB"
+      "audience_item_id": "FG_1800_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2242,7 +2217,7 @@
     "amazon": {},
     "egs": {
       "product_id": "a9fcfce6d6e74fa1a93500492d221ff2",
-      "audience_item_id": "FG_1900_SB"
+      "audience_item_id": "FG_1900_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2335,32 +2310,7 @@
     "amazon": {},
     "egs": {
       "product_id": "d58741623f1f46ba9e56bd6c7a69a950",
-      "audience_item_id": "FG_2000_SB"
-    },
-    "onestore": {},
-    "switch": {},
-    "xbox": {
-      "consumption_method": null
-    }
-  },
-  {
-    "id": "primos_200_redirect",
-    "type": "consumable",
-    "dailyspendincrease": 399,
-    "android": {},
-    "ios": {},
-    "windows": {},
-    "steam": {
-      "price_usd": 399,
-      "description": "Tiny Show-Bucks Pack",
-      "price_tier": "usd_0399_steam_tiers"
-    },
-    "steam_dlc": {},
-    "psn": {},
-    "amazon": {},
-    "egs": {
-      "product_id": "3bde8adda227412fbc5f9e75df63a959",
-      "audience_item_id": "FG_200_SB"
+      "audience_item_id": "FG_2000_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2512,7 +2462,7 @@
     "amazon": {},
     "egs": {
       "product_id": "465e55144a234df9b6f97f2f844ec613",
-      "audience_item_id": "FG_300_SB"
+      "audience_item_id": "FG_300_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2571,7 +2521,7 @@
     "amazon": {},
     "egs": {
       "product_id": "089ad8da95e747a0ba888c9c2547a3cd",
-      "audience_item_id": "FG_400_SB"
+      "audience_item_id": "FG_400_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2723,7 +2673,7 @@
     "amazon": {},
     "egs": {
       "product_id": "c4cb5ba6fbd146d3be5e964b5d642ab0",
-      "audience_item_id": "FG_500_SB"
+      "audience_item_id": "FG_500_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2782,7 +2732,7 @@
     "amazon": {},
     "egs": {
       "product_id": "5f19f6d125f744a492d34434ece7cf58",
-      "audience_item_id": "FG_600_SB"
+      "audience_item_id": "FG_600_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2841,7 +2791,7 @@
     "amazon": {},
     "egs": {
       "product_id": "3e73d3438e144168955104dc9b34dd0d",
-      "audience_item_id": "FG_700_SB"
+      "audience_item_id": "FG_700_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
@@ -2959,7 +2909,7 @@
     "amazon": {},
     "egs": {
       "product_id": "62e8006e1fa24e0faf1c729fdd49e2e6",
-      "audience_item_id": "FG_900_SB"
+      "audience_item_id": "FG_900_SHOWBUCKS"
     },
     "onestore": {},
     "switch": {},
