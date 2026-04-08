@@ -1197,9 +1197,7 @@
         "bundle_slot": "primos_top_2000_1x2"
       }
     ],
-    "target_ids": [
-      "after_prime_global_launch"
-    ],
+    "target_ids": [],
     "name": "sym_storesection_title_primos",
     "storefront": "insufficient_funds_storefront_currency"
   },
@@ -2386,9 +2384,7 @@
         "bundle_slot": "primos_top_2000_1x2"
       }
     ],
-    "target_ids": [
-      "after_prime_global_launch"
-    ],
+    "target_ids": [],
     "name": "sym_storesection_title_primos",
     "storefront": "evergreen_storefront_currency"
   },
