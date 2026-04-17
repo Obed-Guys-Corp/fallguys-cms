@@ -252,7 +252,7 @@
     "total": 1
   },
   "iaps": {
-    "total": 247
+    "total": 244
   },
   "level_tag_weightings": {
     "total": 86
@@ -642,10 +642,10 @@
     "total": 12
   },
   "sym_store_bundle_slots": {
-    "total": 831
+    "total": 829
   },
   "sym_store_bundles": {
-    "total": 1946
+    "total": 1943
   },
   "sym_store_sections": {
     "total": 260
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "1c6bb53dc12cffe918d18cf013f73ae2c75b2cd2",
+  "_content_version": "83287be483a7a64054e7770908d3c9e7bf8bdd04",
   "_segments": [
     "high_res"
   ]

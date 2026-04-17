@@ -7909,18 +7909,6 @@
     ]
   },
   {
-    "id": "primos_tiny_1x2_old",
-    "bundle": [
-      {
-        "weight": 100,
-        "bundle_id": "primos_tiny_1x2_old"
-      }
-    ],
-    "target_ids": [
-      "after_prime_global_launch"
-    ]
-  },
-  {
     "id": "primos_top_1000_1x2",
     "bundle": [
       {
@@ -8118,18 +8106,6 @@
       {
         "weight": 100,
         "bundle_id": "primos_top_700_1x2"
-      }
-    ],
-    "target_ids": [
-      "after_prime_global_launch"
-    ]
-  },
-  {
-    "id": "primos_top_800_1x2",
-    "bundle": [
-      {
-        "weight": 100,
-        "bundle_id": "primos_top_800_1x2"
       }
     ],
     "target_ids": [
