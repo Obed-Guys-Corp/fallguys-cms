@@ -57551,6 +57551,32 @@
     "bundle_background_custom_gradient_image": "background_1x2_wasteland"
   },
   {
+    "id": "primos_1000_old",
+    "bundle_type": {
+      "bundle_type": "default",
+      "purchase_options": {
+        "payment_type": "iap",
+        "purchase_quantity": 1,
+        "iap": "old_primos_1000"
+      },
+      "cosmetics": [],
+      "extra": [
+        {
+          "type": "currencies",
+          "quantity": 1000,
+          "item_id": "gems"
+        }
+      ]
+    },
+    "display_name": "currency_name_gems",
+    "bundle_description": "iap_disclaimer_default",
+    "bundle_type_subtitle": "bundle_subtitle_currency",
+    "rarity": "legendary",
+    "category": "currency",
+    "bundle_tile_image": "sym_bundle_primos_small_fg",
+    "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2"
+  },
+  {
     "id": "primos_13500_old",
     "bundle_type": {
       "bundle_type": "default",
@@ -57871,6 +57897,32 @@
         "payment_type": "iap",
         "purchase_quantity": 1,
         "iap": "primos_600"
+      },
+      "cosmetics": [],
+      "extra": [
+        {
+          "type": "currencies",
+          "quantity": 600,
+          "item_id": "gems"
+        }
+      ]
+    },
+    "display_name": "currency_name_gems",
+    "bundle_description": "iap_disclaimer_default",
+    "bundle_type_subtitle": "bundle_subtitle_currency",
+    "rarity": "legendary",
+    "category": "currency",
+    "bundle_tile_image": "sym_bundle_primos_tiny_fg",
+    "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2"
+  },
+  {
+    "id": "primos_tiny_1x2_old",
+    "bundle_type": {
+      "bundle_type": "default",
+      "purchase_options": {
+        "payment_type": "iap",
+        "purchase_quantity": 1,
+        "iap": "old_primos_600"
       },
       "cosmetics": [],
       "extra": [
@@ -58735,6 +58787,32 @@
         {
           "type": "currencies",
           "quantity": 700,
+          "item_id": "gems"
+        }
+      ]
+    },
+    "display_name": "currency_name_gems",
+    "bundle_description": "iap_disclaimer_default",
+    "bundle_type_subtitle": "bundle_subtitle_currency",
+    "rarity": "legendary",
+    "category": "currency",
+    "bundle_tile_image": "sym_bundle_primos_tiny_fg",
+    "bundle_background_custom_gradient_image": "sym_bg_bundle_primos_green1x2"
+  },
+  {
+    "id": "primos_top_800_1x2",
+    "bundle_type": {
+      "bundle_type": "default",
+      "purchase_options": {
+        "payment_type": "iap",
+        "purchase_quantity": 1,
+        "iap": "old_primos_800"
+      },
+      "cosmetics": [],
+      "extra": [
+        {
+          "type": "currencies",
+          "quantity": 800,
           "item_id": "gems"
         }
       ]
