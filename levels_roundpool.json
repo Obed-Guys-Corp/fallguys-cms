@@ -4228,7 +4228,7 @@
         "cannot_be_on_these_stages": []
       },
       {
-        "round": "levels_round.ranked_roll_on_opener",
+        "round": "levels_round.ranked_roll_on_opener_latest",
         "can_only_be_on_these_stages": [
           1
         ],
@@ -5173,7 +5173,7 @@
         "cannot_be_on_these_stages": []
       },
       {
-        "round": "levels_round.ranked_roll_on_opener",
+        "round": "levels_round.ranked_roll_on_opener_latest",
         "can_only_be_on_these_stages": [
           1
         ],
