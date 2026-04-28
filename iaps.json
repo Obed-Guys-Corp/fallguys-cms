@@ -626,10 +626,7 @@
       "price_tier": "usd_0899_steam_tiers"
     },
     "steam_dlc": {},
-    "psn": {
-      "product_id": "PRIM01",
-      "product_label": "SMALLPRIMOPACK1K"
-    },
+    "psn": {},
     "amazon": {},
     "egs": {
       "product_id": "1d8bea5103c84878b76f6652d52860a9",
