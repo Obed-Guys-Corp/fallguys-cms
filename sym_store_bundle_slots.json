@@ -4753,6 +4753,18 @@
     ]
   },
   {
+    "id": "bundle_s19_tugboat_03",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s19_tugboat_03"
+      }
+    ],
+    "target_ids": [
+      "target_s19_tugboat_03_not_owned"
+    ]
+  },
+  {
     "id": "bundle_s20_labrat_02",
     "bundle": [
       {
@@ -5833,6 +5845,18 @@
     ]
   },
   {
+    "id": "bundleslot_famepass_25",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_famepass_25"
+      }
+    ],
+    "target_ids": [
+      "target_famepass_fp25_notowned"
+    ]
+  },
+  {
     "id": "bundleslot_single_costumeset_1x2_cuphead",
     "bundle": [
       {
@@ -6366,6 +6390,18 @@
       {
         "weight": 1,
         "bundle_id": "fp24_tier_skip_bundle"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp25_tier_skip_bundle",
+    "bundle": [
+      {
+        "weight": 1,
+        "bundle_id": "fp25_tier_skip_bundle"
       }
     ],
     "target_ids": [

@@ -21904,6 +21904,26 @@
     "text": "Open Ending"
   },
   {
+    "id": "event_evg_summertime_01",
+    "text": "Pleasant Breeze"
+  },
+  {
+    "id": "event_evg_summertime_02",
+    "text": "Mellow Stretch"
+  },
+  {
+    "id": "event_evg_summertime_03",
+    "text": "Warm Gesture"
+  },
+  {
+    "id": "event_evg_summertime_04",
+    "text": "Sunny Stride"
+  },
+  {
+    "id": "event_evg_summertime_05",
+    "text": "Scorching Crown"
+  },
+  {
     "id": "event_evg_valentines_01",
     "text": "Power of Us"
   },
@@ -23012,6 +23032,14 @@
     "text": "Bundle Bonus: Jokester Drabs"
   },
   {
+    "id": "fp25_content_a_line_5",
+    "text": "Instant Reward: Helter Skelter"
+  },
+  {
+    "id": "fp25_content_a_line_7",
+    "text": "Bundle Bonus: Old Boaty"
+  },
+  {
     "id": "fp4_content_a_line_5",
     "text": "Instant Reward: Fat Chocobo"
   },
@@ -23206,6 +23234,10 @@
   {
     "id": "fp_title_24",
     "text": "Fame Pass March '26"
+  },
+  {
+    "id": "fp_title_25",
+    "text": "Fame Pass May '26"
   },
   {
     "id": "fp_title_name",
@@ -24392,6 +24424,14 @@
     "text": "Foolish Falls"
   },
   {
+    "id": "le_evg_summertime_desc",
+    "text": "Escape the heat, grab a slushy, and enjoy some relaxed summer fun. Unwind and enjoy these challenges to unlock cool rewards. Don't forget the sunscreen!"
+  },
+  {
+    "id": "le_evg_summertime_title",
+    "text": "Summer Chillout"
+  },
+  {
     "id": "le_evg_valentines_desc",
     "text": "Celebrate the big hugs, the little gestures, and everything in between. Party up, complete challenges and unbox some sweet treats!"
   },
@@ -24586,6 +24626,14 @@
   {
     "id": "le_nf_evg_april_fools_desc",
     "text": "Pranksters have been hard at work in the Blunderdome and everything feels a little... backwards! Dive into Tuokconk and prove you’re worthy of the crown no matter how scrambled the roundpool! And the Mastery Challenges? Totally untouched by the chaos, wrap them up for extra rewards!"
+  },
+  {
+    "id": "le_nf_evg_summertime_desc",
+    "text": "Throw on your shades and escape the heat with our Summer Chillout event! Fall into Solos Chill for laid-back vibes and good company, or dive into Knockout for some casual competition. If you're ready to turn up the heat, take on the Mastery Challenges to earn even cooler (or hotter) rewards!"
+  },
+  {
+    "id": "le_nf_evg_summertime_title",
+    "text": "Summer Sizzler"
   },
   {
     "id": "le_nf_evg_valentines_desc",
@@ -24946,6 +24994,10 @@
   {
     "id": "le_summer_squads_event_title",
     "text": "SUMMER SQUADS"
+  },
+  {
+    "id": "le_summertime_master_tab_title",
+    "text": "Summer Mastery"
   },
   {
     "id": "le_victoria_event_desc",
@@ -30692,6 +30744,14 @@
     "text": "Our Fools Folly Fame Pass is almost over and you'll feel a little foolish if you dont complete it soon! Earn 2x Fame in game right now and earn these silly cosmetics for your collection!"
   },
   {
+    "id": "newsfeed_famepass_25_available_desc",
+    "text": "There's Aquatic Antics a plenty in the Blunderdome. Dive off the pier and see what you can find! Unlock the Coral Reef and Scuba Pigeon costumes, as well as Show Bucks and more. Squids like hugs too right?"
+  },
+  {
+    "id": "newsfeed_famepass_25_lastchance_desc",
+    "text": "Our Aquatic Antics Fame Pass is almost over and it'll be time to get your feet back on dry land! Earn 2x Fame in game right now, just watch out for sharks!"
+  },
+  {
     "id": "newsfeed_famepass_5_available_desc",
     "text": "Get ready for the weird and the wonderful - Falloween is coming back! Unlock the Eldritch Sky Captain and Pawly Repaired costumes, plus more items and Show Bucks, in the new Trick or Yeet Fame Pass, running until November 7th."
   },
@@ -31166,6 +31226,10 @@
   {
     "id": "newsfeed_mrc_rollcall_title",
     "text": "Roll Call Mastery Ranked"
+  },
+  {
+    "id": "newsfeed_mrc_xtreme_squads_title",
+    "text": "X-treme Squads Mastery Ranked"
   },
   {
     "id": "newsfeed_mrc_xtremesolos_title",
@@ -32852,6 +32916,10 @@
     "text": "Feeling Foolish"
   },
   {
+    "id": "nickname_25_0_01",
+    "text": "I can't swim!"
+  },
+  {
     "id": "nickname_anniversary_fp12",
     "text": "Ready Four a Party"
   },
@@ -33658,6 +33726,18 @@
   {
     "id": "nickname_s23_mrc1_silver",
     "text": "Finals Master Silver C1"
+  },
+  {
+    "id": "nickname_s25_mrc1_bronze",
+    "text": "X-treme Squads Master Bronze C1"
+  },
+  {
+    "id": "nickname_s25_mrc1_gold",
+    "text": "X-treme Squads Master Gold C1"
+  },
+  {
+    "id": "nickname_s25_mrc1_silver",
+    "text": "X-treme Squads Master Silver C1"
   },
   {
     "id": "nickname_s4_001",
@@ -37528,6 +37608,10 @@
     "text": "Ranked Xtreme Solos - Cycle 1"
   },
   {
+    "id": "ranked_xtreme_squads_cycle_1",
+    "text": "Ranked X-treme Squads - Cycle 1"
+  },
+  {
     "id": "ready",
     "text": "READY"
   },
@@ -39766,6 +39850,10 @@
   {
     "id": "show_name_xtreme_squads",
     "text": "X-treme Squads"
+  },
+  {
+    "id": "show_name_xtreme_squads_ranked",
+    "text": "X-treme Squads Ranked"
   },
   {
     "id": "show_name_xtremeparty",

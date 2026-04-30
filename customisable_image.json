@@ -516,6 +516,14 @@
     "custom_image": "bg_bundle_s24_tier_skip_bg"
   },
   {
+    "id": "bg_bundle_s25_bonus_bundle_bg",
+    "custom_image": "bg_bundle_s25_bonus_bundle_bg"
+  },
+  {
+    "id": "bg_bundle_s25_tier_skip_bg",
+    "custom_image": "bg_bundle_s25_tier_skip_bg"
+  },
+  {
     "id": "bg_bundle_seasonpass18_background",
     "custom_image": "bg_bundle_seasonpass18_background"
   },
@@ -530,6 +538,10 @@
   {
     "id": "bg_bundle_seasonpass24_storebundle_background",
     "custom_image": "bg_bundle_seasonpass24_storebundle_background"
+  },
+  {
+    "id": "bg_bundle_seasonpass25_storebundle",
+    "custom_image": "bg_bundle_seasonpass25_storebundle"
   },
   {
     "id": "bg_bundle_seasonpass_20",

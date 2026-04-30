@@ -5549,6 +5549,18 @@
     "reward_id": "fame_12000"
   },
   {
+    "id": "win_any_game_summertime_01",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 100,
+    "goal_id": "win_any",
+    "reward_id": "fame_12000"
+  },
+  {
     "id": "win_any_game_valentines_01",
     "active": true,
     "rarity_id": "challenge_rarity.special",
@@ -5911,13 +5923,37 @@
   {
     "id": "win_hoverboarding_time_ltm_01",
     "active": true,
+    "rarity_id": "challenge_rarity.common",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 100,
+    "goal_id": "win_hoverboarding_time_ltm_01",
+    "reward_id": "crown_shard_20"
+  },
+  {
+    "id": "win_hoverboarding_time_ltm_02",
+    "active": true,
+    "rarity_id": "challenge_rarity.uncommon",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 90,
+    "goal_id": "win_hoverboarding_time_ltm_02",
+    "reward_id": "crown_shard_40"
+  },
+  {
+    "id": "win_hoverboarding_time_ltm_03",
+    "active": true,
     "rarity_id": "challenge_rarity.rare",
     "crown_ranks": {
       "minimum_level": 1,
       "maximum_level": 1000
     },
     "priority": 80,
-    "goal_id": "win_hoverboarding_time_ltm_01",
+    "goal_id": "win_hoverboarding_time_ltm_03",
     "reward_id": "crown_shard_60"
   },
   {
@@ -6075,6 +6111,30 @@
     "priority": 60,
     "goal_id": "win_ranked_knockout_april_fools_05",
     "reward_id": "top_s20_cyborgpumpkin_02"
+  },
+  {
+    "id": "win_ranked_knockout_summertime_03",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 80,
+    "goal_id": "win_ranked_knockout_summertime",
+    "reward_id": "pattern_s21_seashells"
+  },
+  {
+    "id": "win_ranked_knockout_summertime_05",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 60,
+    "goal_id": "win_ranked_knockout_summertime_05",
+    "reward_id": "top_s21_1_whalespout_02"
   },
   {
     "id": "win_ranked_knockout_valentines_03",
@@ -6303,6 +6363,30 @@
     "priority": 70,
     "goal_id": "win_solos_april_fools_05",
     "reward_id": "bottom_s20_cyborgpumpkin_02"
+  },
+  {
+    "id": "win_solos_summertime_03",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 90,
+    "goal_id": "win_solos_summertime_03",
+    "reward_id": "crown_shard_90"
+  },
+  {
+    "id": "win_solos_summertime_05",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 70,
+    "goal_id": "win_solos_summertime_05",
+    "reward_id": "bottom_s21_1_whalespout_02"
   },
   {
     "id": "win_soloschill_01",

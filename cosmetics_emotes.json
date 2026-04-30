@@ -1142,13 +1142,13 @@
   {
     "id": "emote_s21_swimming",
     "name": "localised_strings.emote_s21_swimming",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   },
   {
     "id": "emote_s21_swingandamiss",
     "name": "localised_strings.emote_s21_swingandamiss",
-    "rarity": "rarities.common",
+    "rarity": "rarities.rare",
     "platform_id": "any"
   },
   {

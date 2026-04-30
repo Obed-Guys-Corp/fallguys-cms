@@ -7256,7 +7256,7 @@
   {
     "id": "bottom_s19_tugboat_01",
     "name": "localised_strings.costume_s19_tugboat_01",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7268,7 +7268,7 @@
   {
     "id": "bottom_s19_tugboat_03",
     "name": "localised_strings.costume_s19_tugboat_03",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7616,13 +7616,13 @@
   {
     "id": "bottom_s21_1_whalespout_01",
     "name": "localised_strings.costume_s21_1_whalespout_01",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_1_whalespout_02",
     "name": "localised_strings.costume_s21_1_whalespout_02",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
@@ -7706,13 +7706,13 @@
   {
     "id": "bottom_s21_aquaticpigeon_01",
     "name": "localised_strings.costume_s21_aquaticpigeon_01",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_aquaticpigeon_02",
     "name": "localised_strings.costume_s21_aquaticpigeon_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -8012,13 +8012,13 @@
   {
     "id": "bottom_s21_hammerheadshark_02",
     "name": "localised_strings.costume_s21_hammerheadshark_02",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_hammerheadshark_03",
     "name": "localised_strings.costume_s21_hammerheadshark_03",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
@@ -8234,7 +8234,7 @@
   {
     "id": "bottom_s21_pineapplerevisitone_01",
     "name": "localised_strings.costume_s21_pineapplerevisitone_01",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8558,13 +8558,13 @@
   {
     "id": "bottom_s21_squid_02",
     "name": "localised_strings.costume_s21_squid_02",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_squid_03",
     "name": "localised_strings.costume_s21_squid_03",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8666,7 +8666,7 @@
   {
     "id": "bottom_s21_waterslide_01",
     "name": "localised_strings.costume_s21_waterslide_01",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -8678,7 +8678,7 @@
   {
     "id": "bottom_s21_waterslide_03",
     "name": "localised_strings.costume_s21_waterslide_03",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {

@@ -282,6 +282,13 @@
     "conditions": []
   },
   {
+    "id": "classic_explore_weekly",
+    "condition_ids": [
+      "classic_explore_weekly"
+    ],
+    "conditions": []
+  },
+  {
     "id": "condor_fp6",
     "condition_ids": [
       "condor_fp6"
@@ -4458,6 +4465,13 @@
         }
       }
     ]
+  },
+  {
+    "id": "dynamic_duos_weekly",
+    "condition_ids": [
+      "dynamic_duos_weekly"
+    ],
+    "conditions": []
   },
   {
     "id": "emote_fp10_01",
@@ -9586,6 +9600,13 @@
     "conditions": []
   },
   {
+    "id": "fp25_active_dates",
+    "condition_ids": [
+      "fp25_active_dates"
+    ],
+    "conditions": []
+  },
+  {
     "id": "fp25_blackbird",
     "condition_ids": [
       "fp25_blackbird"
@@ -12244,6 +12265,13 @@
     "conditions": []
   },
   {
+    "id": "hoverboarding_time_weekly",
+    "condition_ids": [
+      "hoverboarding_time_weekly"
+    ],
+    "conditions": []
+  },
+  {
     "id": "icterid_fp6",
     "condition_ids": [
       "icterid_fp6"
@@ -12304,6 +12332,13 @@
     "id": "is_mobile_user",
     "condition_ids": [
       "is_mobile_user"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "jump_around_weekly",
+    "condition_ids": [
+      "jump_around_weekly"
     ],
     "conditions": []
   },
@@ -13301,6 +13336,13 @@
     "conditions": []
   },
   {
+    "id": "nature_ltm_weekly",
+    "condition_ids": [
+      "nature_ltm_weekly"
+    ],
+    "conditions": []
+  },
+  {
     "id": "newsfeed_pimlico_launch",
     "condition_ids": [
       "newsfeed_pimlico_launch",
@@ -14283,6 +14325,13 @@
     "id": "s23_le_valentines",
     "condition_ids": [
       "s23_le_valentines"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "s25_le_summertime",
+    "condition_ids": [
+      "s25_le_summertime"
     ],
     "conditions": []
   },
@@ -16637,6 +16686,13 @@
     "conditions": []
   },
   {
+    "id": "snowday_stumble_weekly",
+    "condition_ids": [
+      "snowday_stumble_weekly"
+    ],
+    "conditions": []
+  },
+  {
     "id": "solos_chill_weeklies",
     "condition_ids": [
       "solos_chill_weeklies"
@@ -16647,6 +16703,20 @@
     "id": "sports_weeklies",
     "condition_ids": [
       "sports_weeklies"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "sports_weekly",
+    "condition_ids": [
+      "sports_weekly"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "squadcelebration_weekly",
+    "condition_ids": [
+      "squadcelebration_weekly"
     ],
     "conditions": []
   },
@@ -17392,6 +17462,13 @@
     "conditions": []
   },
   {
+    "id": "target_famepass_fp25_notowned",
+    "condition_ids": [
+      "target_famepass_fp25_notowned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "condition_ids": [
       "target_famepass_fp4_notowned"
@@ -17620,6 +17697,14 @@
     "conditions": []
   },
   {
+    "id": "target_fp25_pass_owned_dates",
+    "condition_ids": [
+      "fp25_active_dates",
+      "target_fp25_pass_owned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_fp4_pass_owned_dates",
     "condition_ids": [
       "target_famepass_fp4_owned",
@@ -17774,6 +17859,14 @@
     "condition_ids": [
       "target_s19_dolphin_03_not_owned",
       "fp20_active_dates"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "target_s19_tugboat_03_not_owned",
+    "condition_ids": [
+      "target_s19_tugboat_03_not_owned",
+      "fp25_active_dates"
     ],
     "conditions": []
   },
@@ -17939,6 +18032,13 @@
     "id": "time_attack_weeklies",
     "condition_ids": [
       "time_attack_weeklies"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "timeattack_shuffle_weekly",
+    "condition_ids": [
+      "timeattack_shuffle_weekly"
     ],
     "conditions": []
   },

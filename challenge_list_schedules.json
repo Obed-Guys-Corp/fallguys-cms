@@ -35,6 +35,13 @@
     "challenge_list_id": "soloschill_kudos_challenges"
   },
   {
+    "id": "classic_explore_weekly",
+    "target_ids": [
+      "classic_explore_weekly"
+    ],
+    "challenge_list_id": "classic_explore_weekly"
+  },
+  {
     "id": "classic_knockout_challenges",
     "target_ids": [
       "disabled_year_1900"
@@ -161,6 +168,13 @@
     "challenge_list_id": "dynamic_duos_challenges"
   },
   {
+    "id": "dynamic_duos_weekly",
+    "target_ids": [
+      "dynamic_duos_weekly"
+    ],
+    "challenge_list_id": "dynamic_duos_weekly"
+  },
+  {
     "id": "event_kudos",
     "target_ids": [
       "event_kudos"
@@ -252,11 +266,25 @@
     "challenge_list_id": "hoverboarding_time_ltm_challenges"
   },
   {
+    "id": "hoverboarding_time_weekly",
+    "target_ids": [
+      "hoverboarding_time_weekly"
+    ],
+    "challenge_list_id": "hoverboarding_time_weekly"
+  },
+  {
     "id": "jump_around_challenges_win",
     "target_ids": [
       "disabled_year_1900"
     ],
     "challenge_list_id": "jump_around_challenges_win"
+  },
+  {
+    "id": "jump_around_weekly",
+    "target_ids": [
+      "jump_around_weekly"
+    ],
+    "challenge_list_id": "jump_around_weekly"
   },
   {
     "id": "master_challenges_april_fools_evg",
@@ -280,6 +308,13 @@
     "challenge_list_id": "master_challenges_fp21_halloween"
   },
   {
+    "id": "master_challenges_summertime_evg",
+    "target_ids": [
+      "after_prime_global_launch"
+    ],
+    "challenge_list_id": "master_challenges_summertime"
+  },
+  {
     "id": "master_challenges_valentines_evg",
     "target_ids": [
       "after_prime_global_launch"
@@ -292,6 +327,13 @@
       "disabled_year_1900"
     ],
     "challenge_list_id": "nature_ltm_challenges"
+  },
+  {
+    "id": "nature_ltm_weekly",
+    "target_ids": [
+      "nature_ltm_weekly"
+    ],
+    "challenge_list_id": "nature_ltm_weekly"
   },
   {
     "id": "noelim_explore_challenges",
@@ -357,11 +399,25 @@
     "challenge_list_id": "snowday_stumble_play_challenges"
   },
   {
+    "id": "snowday_stumble_weekly",
+    "target_ids": [
+      "snowday_stumble_weekly"
+    ],
+    "challenge_list_id": "snowday_stumble_weekly"
+  },
+  {
     "id": "solos_chill_weekly_challenges",
     "target_ids": [
       "solos_chill_weeklies"
     ],
     "challenge_list_id": "solos_chill_weekly_challenges"
+  },
+  {
+    "id": "sports_weekly",
+    "target_ids": [
+      "sports_weekly"
+    ],
+    "challenge_list_id": "sports_weekly"
   },
   {
     "id": "sports_weekly_challenges",
@@ -378,11 +434,25 @@
     "challenge_list_id": "squadcelebration_ltm_challenges"
   },
   {
+    "id": "squadcelebration_weekly",
+    "target_ids": [
+      "squadcelebration_weekly"
+    ],
+    "challenge_list_id": "squadcelebration_weekly"
+  },
+  {
     "id": "timeattack_shuffle_challenges",
     "target_ids": [
       "disabled_year_1900"
     ],
     "challenge_list_id": "timeattack_shuffle_challenges"
+  },
+  {
+    "id": "timeattack_shuffle_weekly",
+    "target_ids": [
+      "timeattack_shuffle_weekly"
+    ],
+    "challenge_list_id": "timeattack_shuffle_weekly"
   },
   {
     "id": "weekly_big_yeetus_tour",

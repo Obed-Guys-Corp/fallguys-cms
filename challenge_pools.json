@@ -55,6 +55,17 @@
     ]
   },
   {
+    "id": "classic_explore_weekly",
+    "challenge_ids": [
+      "challenges.play_classic_explore_1",
+      "challenges.play_classic_explore_3",
+      "challenges.play_classic_explore_5",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
+    ]
+  },
+  {
     "id": "classic_knockout_challenges_pool",
     "challenge_ids": [
       "challenges.win_classic_knockout_01",
@@ -777,6 +788,17 @@
     ]
   },
   {
+    "id": "dynamic_duos_weekly",
+    "challenge_ids": [
+      "challenges.win_dynamic_duos_01",
+      "challenges.win_dynamic_duos_02",
+      "challenges.win_dynamic_duos_03",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
+    ]
+  },
+  {
     "id": "event_kudos",
     "challenge_ids": [
       "challenges.kudoscelebration_play_rounds_10",
@@ -883,11 +905,33 @@
     ]
   },
   {
+    "id": "hoverboarding_time_weekly",
+    "challenge_ids": [
+      "challenges.win_hoverboarding_time_ltm_01",
+      "challenges.win_hoverboarding_time_ltm_02",
+      "challenges.win_hoverboarding_time_ltm_03",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
+    ]
+  },
+  {
     "id": "jump_around_challenges_pool",
     "challenge_ids": [
       "challenges.win_jump_around_01",
       "challenges.win_jump_around_02",
       "challenges.win_jump_around_03"
+    ]
+  },
+  {
+    "id": "jump_around_weekly",
+    "challenge_ids": [
+      "challenges.win_jump_around_01",
+      "challenges.win_jump_around_02",
+      "challenges.win_jump_around_03",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
     ]
   },
   {
@@ -908,6 +952,16 @@
       "challenges.win_ranked_knockout_april_fools_03",
       "challenges.win_squads_april_fools_05",
       "challenges.win_ranked_knockout_april_fools_05"
+    ]
+  },
+  {
+    "id": "master_challenges_pool_summertime",
+    "challenge_ids": [
+      "challenges.win_any_game_summertime_01",
+      "challenges.win_solos_summertime_03",
+      "challenges.win_ranked_knockout_summertime_03",
+      "challenges.win_solos_summertime_05",
+      "challenges.win_ranked_knockout_summertime_05"
     ]
   },
   {
@@ -953,6 +1007,17 @@
       "challenges.silver_medal_nature",
       "challenges.reach_final_round_nature_ltm",
       "challenges.qualify_without_respawning_nature"
+    ]
+  },
+  {
+    "id": "nature_ltm_weekly",
+    "challenge_ids": [
+      "challenges.play_nature_ltm_03",
+      "challenges.play_nature_ltm_05",
+      "challenges.win_nature_ltm_01",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
     ]
   },
   {
@@ -1055,6 +1120,17 @@
     ]
   },
   {
+    "id": "snowday_stumble_weekly",
+    "challenge_ids": [
+      "challenges.play_snowday_stumble_03",
+      "challenges.play_snowday_stumble_05",
+      "challenges.win_snowday_stumble_01",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
+    ]
+  },
+  {
     "id": "solos_chill_weekly_challenges",
     "challenge_ids": [
       "challenges.play_solos_chill_01",
@@ -1073,6 +1149,17 @@
       "challenges.player_emotes_solos_chill",
       "challenges.earn_bronze_medal_solos_chill",
       "challenges.reach_final_round_solos_chill"
+    ]
+  },
+  {
+    "id": "sports_weekly",
+    "challenge_ids": [
+      "challenges.weekly_play_sports_ltm_common",
+      "challenges.weekly_gold_medal_sports_ltm_uncommon",
+      "challenges.weekly_win_sports_ltm_rare",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
     ]
   },
   {
@@ -1095,11 +1182,33 @@
     ]
   },
   {
+    "id": "squadcelebration_weekly",
+    "challenge_ids": [
+      "challenges.win_squadcelebration_ltm_01",
+      "challenges.win_squadcelebration_ltm_02",
+      "challenges.win_squadcelebration_ltm_03",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
+    ]
+  },
+  {
     "id": "timeattack_shuffle_challenges_pool",
     "challenge_ids": [
       "challenges.win_timeattack_shuffle_01",
       "challenges.win_timeattack_shuffle_02",
       "challenges.win_timeattack_shuffle_03"
+    ]
+  },
+  {
+    "id": "timeattack_shuffle_weekly",
+    "challenge_ids": [
+      "challenges.win_timeattack_shuffle_01",
+      "challenges.win_timeattack_shuffle_02",
+      "challenges.win_timeattack_shuffle_03",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
     ]
   },
   {

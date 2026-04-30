@@ -48,6 +48,9 @@
           "gate": "schedule_items.xtreme_solos_ranked"
         },
         {
+          "gate": "schedule_items.xtreme_squads_ranked"
+        },
+        {
           "gate": "schedule_items.invisibeans_pistachio_template",
           "scheduled_tag": "event_scheduled_tag"
         },
@@ -59,18 +62,7 @@
           "scheduled_tag": "event_april_fools_scheduled_tag"
         },
         {
-          "gate": "schedule_items.show_snowday_stumble",
-          "scheduled_tag": "event_scheduled_tag"
-        },
-        {
-          "gate": "schedule_items.dynamic_duos",
-          "scheduled_tag": "event_scheduled_tag"
-        },
-        {
           "gate": "schedule_items.fall_ball_cup"
-        },
-        {
-          "gate": "schedule_items.sports_ltm"
         },
         {
           "gate": "schedule_items.beasty_guys_ltm"
@@ -79,16 +71,11 @@
           "gate": "schedule_items.xtreme_squads"
         },
         {
-          "gate": "schedule_items.no_elimination_show"
+          "gate": "schedule_items.no_elimination_show",
+          "scheduled_tag": "event_scheduled_tag"
         },
         {
           "gate": "schedule_items.roll_call"
-        },
-        {
-          "gate": "schedule_items.no_elimination_explore"
-        },
-        {
-          "gate": "schedule_items.nature_ltm"
         },
         {
           "gate": "schedule_items.greatestsquads_ltm"
@@ -97,13 +84,7 @@
           "gate": "schedule_items.wle_mrs_bouncy_bean_time"
         },
         {
-          "gate": "schedule_items.timeattack_shuffle"
-        },
-        {
           "gate": "schedule_items.big_yeetus_tour_show"
-        },
-        {
-          "gate": "schedule_items.hoverboarding_time"
         },
         {
           "gate": "schedule_items.day_at_the_races_ltm"
@@ -131,6 +112,33 @@
         },
         {
           "gate": "schedule_items.event_only_slime_climb_2"
+        },
+        {
+          "gate": "schedule_items.show_snowday_stumble"
+        },
+        {
+          "gate": "schedule_items.no_elimination_explore"
+        },
+        {
+          "gate": "schedule_items.hoverboarding_time"
+        },
+        {
+          "gate": "schedule_items.nature_ltm"
+        },
+        {
+          "gate": "schedule_items.show_s10_squad_celebration_01"
+        },
+        {
+          "gate": "schedule_items.timeattack_shuffle"
+        },
+        {
+          "gate": "schedule_items.jump_around"
+        },
+        {
+          "gate": "schedule_items.sports_ltm"
+        },
+        {
+          "gate": "schedule_items.dynamic_duos"
         }
       ]
     }

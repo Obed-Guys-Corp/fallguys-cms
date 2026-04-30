@@ -434,13 +434,13 @@
   {
     "id": "ch_fallguys_colourveryred",
     "name": "localised_strings.ch_fallguys_colourveryred",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
     "id": "ch_fallguys_colourveryyellow",
     "name": "localised_strings.ch_fallguys_colourveryyellow",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {

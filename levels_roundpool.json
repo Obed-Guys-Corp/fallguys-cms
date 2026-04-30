@@ -5354,6 +5354,235 @@
     "discovery_queries": []
   },
   {
+    "id": "ranked_show_cycle_8_roundpool",
+    "config": {
+      "type": "legacy"
+    },
+    "stages": [
+      {
+        "round": "levels_round.ranked_lilyleapers_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_speedcircuit_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_dizzyheights_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_bigfans_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_trackattack_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_fulltilt_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_dragondashers_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_clumsycarnival_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_clumsycrusade_opener",
+        "can_only_be_on_these_stages": [
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_reboundrun_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_slippyslopes_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_crumblecave_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_buttonbashers_filler",
+        "can_only_be_on_these_stages": [
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_slimescraper_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_skifall_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_slimeclimb_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_franticfactory_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_swiveller_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_hoopsielegends_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_leadinglight_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_topofthetrash_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_bubblingbrook_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_slimesaloon_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_hexagone_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_rolloff_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_krakenslam_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_blastball_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_cycleoslime_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_dodgedivesurvive_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_pineclimb_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      }
+    ],
+    "discovery_queries": []
+  },
+  {
     "id": "reversed_knockout_roundpool",
     "config": {
       "type": "legacy"
@@ -11009,6 +11238,14 @@
           4
         ],
         "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_solos_hyperdriveheroes",
+        "cannot_be_on_these_stages": [
+          1,
+          4
+        ],
+        "can_only_be_on_these_stages": []
       }
     ]
   },
@@ -11383,6 +11620,199 @@
       },
       {
         "round": "levels_round.round_jumpshowdown_event_elimination_squads",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      }
+    ]
+  },
+  {
+    "id": "roundpool_event_elimination_squad_ranked",
+    "config": {
+      "type": "legacy"
+    },
+    "discovery_queries": [],
+    "stages": [
+      {
+        "round": "levels_round.ranked_xtreme_squads_biggestfan",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_see_saw_360",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_chompchomp",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_gauntlet_04",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_drumtop",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_see_saw",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_slide_chute",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_gauntlet_03",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_gauntlet_07",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_gauntlet_05",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_gauntlet_06",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_lava",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_slimeclimb_2",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_tunnel_race",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_blastball_arenasurvival",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_floor_fall",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_hexaring",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_hexsnake",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_kraken_attack",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_tunnel_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_thin_ice",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_gauntlet_08",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_pipedup",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_hyperdriveheroes",
+        "cannot_be_on_these_stages": [
+          1,
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_hoverboardsurvival",
+        "cannot_be_on_these_stages": [
+          1,
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_squads_jumpshowdown",
         "can_only_be_on_these_stages": [
           4
         ],

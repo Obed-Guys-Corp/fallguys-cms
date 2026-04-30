@@ -198,15 +198,6 @@
     "scheduled_tag": "newlevel_scheduled_tag"
   },
   {
-    "id": "timeattack_shuffle",
-    "entry_point": {
-      "type": "individual",
-      "individual_gate_entry": {
-        "gate": "schedule_items.fp17_timeattack_shuffle"
-      }
-    }
-  },
-  {
     "id": "xtreme_solos",
     "entry_point": {
       "type": "individual",

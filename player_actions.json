@@ -921,6 +921,26 @@
     }
   },
   {
+    "id": "earn_bronze_medal_knockout",
+    "config": {
+      "metric_id": "badge_awarded_bronze",
+      "dimensions": [
+        {
+          "dimension_id": "is_private_lobby",
+          "operator": "equal",
+          "boolean_value": "false",
+          "dimension_type": "boolean_dimension"
+        },
+        {
+          "dimension_id": "show_id",
+          "operator": "equal",
+          "dimension_type": "string_dimension",
+          "string_value": "knockout_mode"
+        }
+      ]
+    }
+  },
+  {
     "id": "earn_bronze_medal_race",
     "config": {
       "metric_id": "badge_awarded_bronze",
@@ -6497,6 +6517,26 @@
           "operator": "equal",
           "dimension_type": "string_dimension",
           "string_value": "classic_solo_main_show"
+        }
+      ]
+    }
+  },
+  {
+    "id": "player_jumped_solos_chill",
+    "config": {
+      "metric_id": "player_jumped",
+      "dimensions": [
+        {
+          "dimension_id": "is_private_lobby",
+          "operator": "equal",
+          "boolean_value": "false",
+          "dimension_type": "boolean_dimension"
+        },
+        {
+          "dimension_id": "show_id",
+          "operator": "equal",
+          "dimension_type": "string_dimension",
+          "string_value": "no_elimination_show"
         }
       ]
     }

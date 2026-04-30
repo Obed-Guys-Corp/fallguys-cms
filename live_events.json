@@ -1682,6 +1682,123 @@
     "reward_icon_image": "ui-liveevents-ss1-peanut-token"
   },
   {
+    "id": "le_evg_summertime",
+    "title": "localised_strings.le_evg_summertime_title",
+    "description": "localised_strings.le_evg_summertime_desc",
+    "target_ids": [
+      "s25_le_summertime"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_01"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_02"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_03"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_04"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_05"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_06"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_07"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_08"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_09"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_summertime_10"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 200,
+        "reward_id": "kudos_bonus_2000"
+      },
+      {
+        "xp_required": 400,
+        "reward_id": "crown_shard_20"
+      },
+      {
+        "xp_required": 600,
+        "reward_id": "nameplateui_s21_whalespout"
+      },
+      {
+        "xp_required": 800,
+        "reward_id": "bottom_s21_1_whalespout_01"
+      },
+      {
+        "xp_required": 1000,
+        "reward_id": "top_s21_1_whalespout_01"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui_liveevent_summertime_tooltip",
+    "background_image": "gb_liveevent_summertime_art_1",
+    "promotional_image": "promo_liveevent_summertime_character_2",
+    "reward_icon_image": "icon_liveevent_summertime-icecream_cone"
+  },
+  {
     "id": "le_evg_valentines",
     "title": "localised_strings.le_evg_valentines_title",
     "description": "localised_strings.le_evg_valentines_desc",

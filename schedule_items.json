@@ -451,8 +451,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-02-01T12:00:00",
-      "ends_at": "2026-03-01T11:59:59"
+      "starts_at": "2026-06-30T12:00:00",
+      "ends_at": "2026-07-07T11:59:59"
     }
   },
   {
@@ -511,8 +511,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-02-01T12:00:00",
-      "ends_at": "2026-03-01T11:59:59"
+      "starts_at": "2026-06-01T12:00:00",
+      "ends_at": "2026-07-01T11:59:59"
     }
   },
   {
@@ -1248,18 +1248,6 @@
     }
   },
   {
-    "id": "fp16_wk8_timeattack_shuffle",
-    "item": {
-      "group_id": "matchmaking_gates",
-      "item_id": "timeattack_shuffle"
-    },
-    "config": {
-      "type": "absolute",
-      "starts_at": "2025-01-26T10:00:00",
-      "ends_at": "2025-02-04T09:59:59"
-    }
-  },
-  {
     "id": "fp17_dragoncave_background",
     "item": {
       "group_id": "main_menu_background",
@@ -1269,18 +1257,6 @@
       "type": "absolute",
       "starts_at": "2024-12-15T10:00:00",
       "ends_at": "2025-04-01T10:00:00"
-    }
-  },
-  {
-    "id": "fp17_timeattack_shuffle",
-    "item": {
-      "group_id": "matchmaking_gates",
-      "item_id": "timeattack_shuffle"
-    },
-    "config": {
-      "type": "absolute",
-      "starts_at": "2025-02-04T11:00:00",
-      "ends_at": "2025-02-25T10:59:59"
     }
   },
   {
@@ -1788,6 +1764,114 @@
     }
   },
   {
+    "id": "fp25_wk1_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "snowday_stumble_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-05T12:00:00",
+      "ends_at": "2026-05-12T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk2_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "classic_explore_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-12T12:00:00",
+      "ends_at": "2026-05-19T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk3_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "hoverboarding_time_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-19T12:00:00",
+      "ends_at": "2026-05-26T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk4_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "nature_ltm_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-26T12:00:00",
+      "ends_at": "2026-06-02T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk5_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "squadcelebration_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-06-02T12:00:00",
+      "ends_at": "2026-06-09T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk6_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "timeattack_shuffle_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-06-09T12:00:00",
+      "ends_at": "2026-06-16T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk7_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "jump_around_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-06-16T12:00:00",
+      "ends_at": "2026-06-23T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk8_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "sports_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-06-23T12:00:00",
+      "ends_at": "2026-06-30T11:59:59"
+    }
+  },
+  {
+    "id": "fp25_wk9_weekly_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "dynamic_duos_weekly"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-06-30T12:00:00",
+      "ends_at": "2026-07-07T11:59:59"
+    }
+  },
+  {
     "id": "fp26_festival_background",
     "item": {
       "group_id": "main_menu_background",
@@ -1939,8 +2023,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-02-17T12:00:00",
-      "ends_at": "2026-02-24T11:59:59"
+      "starts_at": "2026-05-19T12:00:00",
+      "ends_at": "2026-05-26T11:59:59"
     }
   },
   {
@@ -1975,8 +2059,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-09-30T12:00:00",
-      "ends_at": "2025-10-07T11:59:59"
+      "starts_at": "2026-06-16T12:00:00",
+      "ends_at": "2026-06-23T11:59:59"
     }
   },
   {
@@ -2052,6 +2136,18 @@
     }
   },
   {
+    "id": "master_challenges_summertime_evg",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "master_challenges_summertime_evg"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-06-01T12:00:00",
+      "ends_at": "2026-07-01T11:59:59"
+    }
+  },
+  {
     "id": "master_challenges_valentines_evg",
     "item": {
       "group_id": "challenge_list_schedules",
@@ -2095,8 +2191,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-01-13T12:00:00",
-      "ends_at": "2026-01-20T11:59:59"
+      "starts_at": "2026-05-26T12:00:00",
+      "ends_at": "2026-06-02T11:59:59"
     }
   },
   {
@@ -2215,8 +2311,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-01-06T12:00:00",
-      "ends_at": "2026-01-13T11:59:59"
+      "starts_at": "2026-05-12T12:00:00",
+      "ends_at": "2026-05-19T11:59:59"
     }
   },
   {
@@ -2239,8 +2335,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-12-23T12:00:00",
-      "ends_at": "2025-12-30T11:59:59"
+      "starts_at": "2026-06-01T12:00:00",
+      "ends_at": "2026-07-01T11:59:59"
     }
   },
   {
@@ -2385,6 +2481,18 @@
       "type": "absolute",
       "starts_at": "2026-03-01T12:00:00",
       "ends_at": "2026-05-01T11:59:59"
+    }
+  },
+  {
+    "id": "ranking_cycle_instance_8",
+    "item": {
+      "group_id": "ranking_cycle_instances",
+      "item_id": "ranking_cycle_instance_8"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-01T12:00:00",
+      "ends_at": "2026-07-01T11:59:59"
     }
   },
   {
@@ -2601,8 +2709,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-01-16T10:00:00",
-      "ends_at": "2025-01-22T09:59:59"
+      "starts_at": "2026-06-02T12:00:00",
+      "ends_at": "2026-06-09T11:59:59"
     }
   },
   {
@@ -2661,8 +2769,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-12-01T12:00:00",
-      "ends_at": "2026-01-01T11:59:59"
+      "starts_at": "2026-05-05T12:00:00",
+      "ends_at": "2026-05-12T11:59:59"
     }
   },
   {
@@ -2824,8 +2932,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-11-11T12:00:00",
-      "ends_at": "2025-11-18T11:59:59"
+      "starts_at": "2026-06-23T12:00:00",
+      "ends_at": "2026-06-30T11:59:59"
     }
   },
   {
@@ -2920,8 +3028,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-02-03T12:00:00",
-      "ends_at": "2026-02-10T11:59:59"
+      "starts_at": "2026-06-09T12:00:00",
+      "ends_at": "2026-06-16T11:59:59"
     }
   },
   {
@@ -4062,6 +4170,30 @@
       "type": "absolute",
       "starts_at": "2025-12-16T12:00:00",
       "ends_at": "2025-12-23T11:59:59"
+    }
+  },
+  {
+    "id": "xtreme_squads_ranked",
+    "item": {
+      "group_id": "matchmaking_gates",
+      "item_id": "xtreme_squads_ranked"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-01T12:00:00",
+      "ends_at": "2026-06-01T11:59:59"
+    }
+  },
+  {
+    "id": "xtreme_squads_ranked_cycle",
+    "item": {
+      "group_id": "ranking_cycle_instances",
+      "item_id": "ranking_xtreme_squads_cycle_instance_1"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-05-01T12:00:00",
+      "ends_at": "2026-06-01T11:59:59"
     }
   }
 ]

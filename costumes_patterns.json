@@ -1646,7 +1646,7 @@
   {
     "id": "pattern_s11_houndstooth",
     "name": "localised_strings.pattern_s11_houndstooth",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1796,7 +1796,7 @@
   {
     "id": "pattern_s21_comet",
     "name": "localised_strings.pattern_s21_comet",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "id": "pattern_s21_navigator",
     "name": "localised_strings.pattern_s21_navigator",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1886,7 +1886,7 @@
   {
     "id": "pattern_s21_seashells",
     "name": "localised_strings.pattern_s21_seashells",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {

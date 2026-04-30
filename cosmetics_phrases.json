@@ -326,7 +326,7 @@
   {
     "id": "phraseui_s21_0_splash",
     "name": "localised_strings.phraseui_s21_0_splash",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   }
 ]

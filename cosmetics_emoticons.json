@@ -470,7 +470,7 @@
   {
     "id": "emojiui_s21_0_slipandslide",
     "name": "localised_strings.emojiui_s21_0_slipandslide",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   },
   {
@@ -488,7 +488,7 @@
   {
     "id": "emojiui_s21_0_unleashthekraken",
     "name": "localised_strings.emojiui_s21_0_unleashthekraken",
-    "rarity": "rarities.common",
+    "rarity": "rarities.rare",
     "platform_id": "any"
   },
   {
@@ -614,25 +614,25 @@
   {
     "id": "emojiui_s21_rankedc8_water_ace",
     "name": "localised_strings.emojiui_s21_rankedc8_water_ace",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
     "id": "emojiui_s21_rankedc8_water_gold",
     "name": "localised_strings.emojiui_s21_rankedc8_water_gold",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
     "id": "emojiui_s21_rankedc8_water_star",
     "name": "localised_strings.emojiui_s21_rankedc8_water_star",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
     "id": "emojiui_s21_rankedc8_water_superstar",
     "name": "localised_strings.emojiui_s21_rankedc8_water_superstar",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
