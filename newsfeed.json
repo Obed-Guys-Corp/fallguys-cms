@@ -2269,10 +2269,10 @@
         "header": "localised_strings.newsfeed_title_available_now",
         "title": "localised_strings.newsfeed_ss2_hazlenut_title",
         "message": "localised_strings.le_crownshard_desc",
-        "ends_at": "localised_strings.newsfeed_date",
         "deeplink_data": {
           "deeplink_type": "live_event"
         },
+        "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
           {
             "type": "localised",
@@ -2301,6 +2301,9 @@
         "header": "localised_strings.newsfeed_title_available_now",
         "title": "localised_strings.newsfeed_pretzel_event_now_title",
         "message": "localised_strings.newsfeed_kudos_celebration_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
         "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
           {
@@ -2312,9 +2315,6 @@
             "localised_value": "localised_strings.month_march"
           }
         ],
-        "deeplink_data": {
-          "deeplink_type": "live_event"
-        },
         "starts_at_description": [],
         "image": "newsfeed_ui_kudos_carnival_02"
       }
@@ -2432,10 +2432,10 @@
         "header": "localised_strings.newsfeed_title_available_now",
         "title": "localised_strings.newsfeed_ss2_hazlenut_title",
         "message": "localised_strings.le_crownshard_desc",
-        "ends_at": "localised_strings.newsfeed_date",
         "deeplink_data": {
           "deeplink_type": "live_event"
         },
+        "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
           {
             "type": "localised",
@@ -2443,7 +2443,7 @@
           },
           {
             "type": "localised",
-            "localised_value": "localised_strings.month_june"
+            "localised_value": "localised_strings.month_may"
           }
         ],
         "starts_at_description": [],
@@ -2464,6 +2464,9 @@
         "header": "localised_strings.newsfeed_title_available_now",
         "title": "localised_strings.newsfeed_pretzel_event_now_title",
         "message": "localised_strings.newsfeed_kudos_celebration_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
         "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
           {
@@ -2475,9 +2478,6 @@
             "localised_value": "localised_strings.month_may"
           }
         ],
-        "deeplink_data": {
-          "deeplink_type": "live_event"
-        },
         "starts_at_description": [],
         "image": "newsfeed_ui_kudos_carnival_02"
       }
@@ -2595,10 +2595,10 @@
         "header": "localised_strings.newsfeed_title_available_now",
         "title": "localised_strings.newsfeed_ss2_hazlenut_title",
         "message": "localised_strings.le_crownshard_desc",
-        "ends_at": "localised_strings.newsfeed_date",
         "deeplink_data": {
           "deeplink_type": "live_event"
         },
+        "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
           {
             "type": "localised",
@@ -2627,6 +2627,9 @@
         "header": "localised_strings.newsfeed_title_available_now",
         "title": "localised_strings.newsfeed_pretzel_event_now_title",
         "message": "localised_strings.newsfeed_kudos_celebration_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
         "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
           {
@@ -2638,9 +2641,6 @@
             "localised_value": "localised_strings.month_july"
           }
         ],
-        "deeplink_data": {
-          "deeplink_type": "live_event"
-        },
         "starts_at_description": [],
         "image": "newsfeed_ui_kudos_carnival_02"
       }
