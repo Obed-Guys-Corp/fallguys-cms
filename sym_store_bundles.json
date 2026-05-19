@@ -59691,6 +59691,35 @@
     "category": "costume"
   },
   {
+    "id": "promo_bundle_egs_mega_costume_26",
+    "has_stock": true,
+    "stock": 1,
+    "bundle_type": {
+      "bundle_type": "default",
+      "purchase_options": {
+        "payment_type": "iap",
+        "purchase_quantity": 1,
+        "iap": "egs_mega_costume_26"
+      },
+      "cosmetics": [
+        {
+          "type": "costumes_upper",
+          "item_id": "top_s10_doesnotcompute_03"
+        },
+        {
+          "type": "costumes_lower",
+          "item_id": "bottom_s10_doesnotcompute_03"
+        }
+      ],
+      "extra": []
+    },
+    "show_refresh_timer": true,
+    "bundle_description": "blank_sym_store_bundle_desc",
+    "bundle_type_subtitle": "blank_sym_store_bundle_subtitle",
+    "rarity": "legendary",
+    "category": "currency"
+  },
+  {
     "id": "promo_bundle_egs_mega_costume_fa",
     "has_stock": true,
     "stock": 1,

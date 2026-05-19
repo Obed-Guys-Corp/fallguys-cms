@@ -6877,6 +6877,18 @@
     ]
   },
   {
+    "id": "hidden_slot_egs_mega_costume_26",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "promo_bundle_egs_mega_costume_26"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
     "id": "hidden_slot_egs_mega_costume_fa",
     "bundle": [
       {
