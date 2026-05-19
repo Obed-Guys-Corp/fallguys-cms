@@ -98,6 +98,14 @@
     "platforms_whitelist": []
   },
   {
+    "id": "base_iap_pack_primos_quantity",
+    "value": 800,
+    "target_ids": [
+      "after_prime_global_launch"
+    ],
+    "platforms_whitelist": []
+  },
+  {
     "id": "cabin_mode_enabled",
     "value": true,
     "target_ids": [
@@ -599,7 +607,7 @@
     "id": "fall_feed_enabled",
     "value": true,
     "target_ids": [
-      "disabled_year_1900"
+      "after_prime_global_launch"
     ],
     "platforms_whitelist": []
   },
