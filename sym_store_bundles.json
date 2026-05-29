@@ -18862,8 +18862,8 @@
     "bundle_type_subtitle": "bundle_subtitle_costumeset_default",
     "rarity": "special_4",
     "category": "costume",
-    "bundle_tile_image": "ui_bundle_s10_9_meantrex_03",
-    "bundle_background_custom_gradient_image": "bg_bundle_s19_bagel_2x2"
+    "bundle_tile_image": "ui_costumeset_bundle_s19_pridedino_26",
+    "bundle_background_custom_gradient_image": "bg_costumeset_s19_bagel_1x2"
   },
   {
     "id": "bundle_costumeset_s10_icterid01",
@@ -18977,8 +18977,8 @@
     "bundle_type_subtitle": "bundle_subtitle_costumeset_default",
     "rarity": "special_4",
     "category": "costume",
-    "bundle_tile_image": "bundle_2x2_bagel_title",
-    "bundle_background_custom_gradient_image": "bg_bundle_s19_bagel_2x2"
+    "bundle_tile_image": "ui_costumeset_bundle_ss10_mermaid_2x2",
+    "bundle_background_custom_gradient_image": "bg_costumeset_s19_bagel_1x2"
   },
   {
     "id": "bundle_costumeset_s11_4_ip_gul01_01",
@@ -19203,6 +19203,37 @@
     "bundle_tile_image": "ui_costumeset_ch_quail02",
     "bundle_background_custom_gradient_image": "bg_costumeset_s11_19_quail_1x2",
     "ribbon_label_text": "storelabel_discount_primos"
+  },
+  {
+    "id": "bundle_costumeset_s21_pegwincosplayrevisitone_01",
+    "has_stock": true,
+    "stock": 1,
+    "bundle_type": {
+      "bundle_type": "default",
+      "purchase_options": {
+        "payment_type": "free",
+        "purchase_quantity": 1
+      },
+      "cosmetics": [
+        {
+          "type": "costumes_upper",
+          "item_id": "top_s21_pegwincosplayrevisitone_01"
+        },
+        {
+          "type": "costumes_lower",
+          "item_id": "bottom_s21_pegwincosplayrevisitone_01"
+        }
+      ],
+      "extra": []
+    },
+    "show_refresh_timer": true,
+    "display_name": "costume_s21_pegwincosplayrevisitone_01",
+    "bundle_description": "bundle_desc_bagel",
+    "bundle_type_subtitle": "bundle_subtitle_costumeset_default",
+    "rarity": "special_4",
+    "category": "costume",
+    "bundle_tile_image": "ui_bundle_ch_pegwincosplayrevisitone_new",
+    "bundle_background_custom_gradient_image": "bg_bundle_s19_bagel_2x2"
   },
   {
     "id": "bundle_costumeset_s3_koala_02",

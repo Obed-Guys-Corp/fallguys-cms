@@ -106,6 +106,17 @@
     }
   },
   {
+    "id": "bagel_2026",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-06-01T10:00:00",
+        "end": "2026-07-01T09:59:59"
+      }
+    }
+  },
+  {
     "id": "beasty_guys_weeklies",
     "parameters": {
       "type": "date_time",
@@ -13770,6 +13781,21 @@
         },
         "bundle": {
           "id": "ss001_legacypack_psn_jp"
+        }
+      }
+    }
+  },
+  {
+    "id": "has_not_purchased_pegwincosplayrevisitone_01",
+    "parameters": {
+      "type": "purchase_history",
+      "data": {
+        "bundle": {
+          "id": "bundle_costumeset_s21_pegwincosplayrevisitone_01"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
         }
       }
     }

@@ -1610,6 +1610,13 @@
     }
   },
   {
+    "id": "bg_newsfeed_bg_cmp_s11_pridemonth_16x9_newsfeed",
+    "dlc_item": {
+      "path": "/1f6a5262-6b1b-4211-8803-52ac3a71d266-high_res.jpg",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "bg_newsfeed_budgie_2",
     "dlc_item": {
       "path": "/e5160ef2-30ce-41ac-9569-5a01135853b0-high_res.jpeg",
@@ -14448,6 +14455,13 @@
     }
   },
   {
+    "id": "ui_bundle_ch_pegwincosplayrevisitone_new",
+    "dlc_item": {
+      "path": "/c1edf503-fedf-43c2-b785-54fbec2cdabe-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "ui_bundle_dotd_bride_groom_bundle",
     "dlc_item": {
       "path": "/4c7b4ec6-6713-4ffc-88b9-c4dc1378dc19-high_res.png",
@@ -15004,6 +15018,20 @@
     "id": "ui_costumeset_bundle_1x2_costumeset_vulture0301tag",
     "dlc_item": {
       "path": "/6f05587b-65dc-4e8b-be8e-d50c946d2044-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_costumeset_bundle_s19_pridedino_26",
+    "dlc_item": {
+      "path": "/fdfe7027-d528-4cb2-bfd4-2e59ce5aa09a-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_costumeset_bundle_ss10_mermaid_2x2",
+    "dlc_item": {
+      "path": "/a4e5ba1c-f0bb-4cd0-9aaf-9c2dae226e3b-high_res.png",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },

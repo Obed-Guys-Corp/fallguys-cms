@@ -168,7 +168,7 @@
     "total": 81
   },
   "dlc_images": {
-    "total": 2676
+    "total": 2680
   },
   "dlc_levels": {
     "total": 450
@@ -351,7 +351,7 @@
     "total": 12
   },
   "newsfeed": {
-    "total": 313
+    "total": 314
   },
   "nicknames": {
     "total": 2
@@ -642,13 +642,13 @@
     "total": 12
   },
   "sym_store_bundle_slots": {
-    "total": 835
+    "total": 836
   },
   "sym_store_bundles": {
-    "total": 1950
+    "total": 1951
   },
   "sym_store_sections": {
-    "total": 262
+    "total": 263
   },
   "sym_storefronts": {
     "total": 45
@@ -657,10 +657,10 @@
     "total": 2
   },
   "target_conditions": {
-    "total": 2181
+    "total": 2183
   },
   "targets": {
-    "total": 2339
+    "total": 2341
   },
   "targets_targeted_items": {
     "total": 0
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "c215a7d39f9aebb3c02c514f1294b32368c71321",
+  "_content_version": "51fd8a641568bd8906aaed8c73bad1a608ed228e",
   "_segments": [
     "high_res"
   ]

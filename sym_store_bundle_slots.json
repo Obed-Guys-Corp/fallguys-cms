@@ -1800,6 +1800,18 @@
     ]
   },
   {
+    "id": "bundle_costumeset_s21_pegwincosplayrevisitone_01",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_costumeset_s21_pegwincosplayrevisitone_01"
+      }
+    ],
+    "target_ids": [
+      "single_purchase_bundle_pegwincosplayrevisitone_01"
+    ]
+  },
+  {
     "id": "bundle_costumeset_shoveler01",
     "bundle": [
       {

@@ -178,6 +178,13 @@
     "conditions": []
   },
   {
+    "id": "bagel_2026",
+    "condition_ids": [
+      "bagel_2026"
+    ],
+    "conditions": []
+  },
+  {
     "id": "beasty_guys_weeklies",
     "condition_ids": [
       "beasty_guys_weeklies"
@@ -5786,7 +5793,7 @@
   {
     "id": "fp11_single_purchase_sif_cloudsliders_01",
     "condition_ids": [
-      "fp19_bagel",
+      "bagel_2026",
       "has_not_purchased_sif_cloudsliders_01"
     ],
     "conditions": []
@@ -14197,7 +14204,7 @@
   {
     "id": "s10_single_purchase_bundle_s10_mermaid_01",
     "condition_ids": [
-      "fp19_bagel",
+      "bagel_2026",
       "has_not_purchased_s10_mermaid_01"
     ],
     "conditions": []
@@ -16632,9 +16639,17 @@
     "conditions": []
   },
   {
+    "id": "single_purchase_bundle_pegwincosplayrevisitone_01",
+    "condition_ids": [
+      "bagel_2026",
+      "has_not_purchased_pegwincosplayrevisitone_01"
+    ],
+    "conditions": []
+  },
+  {
     "id": "single_purchase_bundle_s10_9_meantrex_03",
     "condition_ids": [
-      "fp19_bagel",
+      "bagel_2026",
       "has_not_purchased_s10_9_meantrex_03"
     ],
     "conditions": []
