@@ -252,11 +252,25 @@
     "challenge_list_id": "fp22_winter_master_challenges"
   },
   {
+    "id": "fp26_anniversary_master_challenges",
+    "target_ids": [
+      "anniversary_fp26"
+    ],
+    "challenge_list_id": "fp26_anniversary_master_challenges"
+  },
+  {
     "id": "greatest_squads_challenges",
     "target_ids": [
       "greatest_squads_challenges"
     ],
     "challenge_list_id": "greatest_squads_challenges"
+  },
+  {
+    "id": "hex_a_thon_challenges",
+    "target_ids": [
+      "hex_a_thon_weeklies"
+    ],
+    "challenge_list_id": "hex_a_thon_challenges"
   },
   {
     "id": "hoverboarding_time_ltm_challenges",
@@ -800,7 +814,7 @@
   {
     "id": "weekly_pool_fp19_wk8",
     "target_ids": [
-      "time_attack_weeklies"
+      "disabled_year_1900"
     ],
     "challenge_list_id": "weekly_pool_fp19_wk8"
   },
@@ -821,7 +835,7 @@
   {
     "id": "weekly_pool_fp20_wk4",
     "target_ids": [
-      "big_yeetus_tour_weeklies"
+      "disabled_year_1900"
     ],
     "challenge_list_id": "weekly_pool_fp20_wk4"
   },

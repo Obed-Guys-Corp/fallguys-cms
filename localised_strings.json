@@ -23040,6 +23040,14 @@
     "text": "Bundle Bonus: Old Boaty"
   },
   {
+    "id": "fp26_content_a_line_5",
+    "text": "Instant Reward: Stumped"
+  },
+  {
+    "id": "fp26_content_a_line_7",
+    "text": "Bundle Bonus: Busy Buzzing"
+  },
+  {
     "id": "fp4_content_a_line_5",
     "text": "Instant Reward: Fat Chocobo"
   },
@@ -23238,6 +23246,10 @@
   {
     "id": "fp_title_25",
     "text": "Fame Pass May '26"
+  },
+  {
+    "id": "fp_title_26",
+    "text": "Fame Pass July '26"
   },
   {
     "id": "fp_title_name",
@@ -30752,6 +30764,14 @@
     "text": "Our Aquatic Antics Fame Pass is almost over and it'll be time to get your feet back on dry land! Earn 2x Fame in game right now, just watch out for sharks!"
   },
   {
+    "id": "newsfeed_famepass_26_available_desc",
+    "text": "The woodlands are alive this summer! Bees are buzzing, honey is plentiful and so are the bears! Unlock the Fall Guy and Bee-licious costumes, as well as Show Bucks and more. Don't get stung!"
+  },
+  {
+    "id": "newsfeed_famepass_26_lastchance_desc",
+    "text": "Our Fall Forests Fame Pass is almost over, so finish up your woodland picnic soon! Earn 2x Fame in game right now because there's bearly any time left!"
+  },
+  {
     "id": "newsfeed_famepass_5_available_desc",
     "text": "Get ready for the weird and the wonderful - Falloween is coming back! Unlock the Eldritch Sky Captain and Pawly Repaired costumes, plus more items and Show Bucks, in the new Trick or Yeet Fame Pass, running until November 7th."
   },
@@ -31206,6 +31226,10 @@
   {
     "id": "newsfeed_magpie_title",
     "text": "Dungeon Crawling Capers"
+  },
+  {
+    "id": "newsfeed_mrc_button_bashers_royale_title",
+    "text": "Button Bashers Mastery Ranked"
   },
   {
     "id": "newsfeed_mrc_desc",
@@ -32920,6 +32944,10 @@
     "text": "I can't swim!"
   },
   {
+    "id": "nickname_26_0_01",
+    "text": "The Bee's Knees"
+  },
+  {
     "id": "nickname_anniversary_fp12",
     "text": "Ready Four a Party"
   },
@@ -33738,6 +33766,18 @@
   {
     "id": "nickname_s25_mrc1_silver",
     "text": "X-treme Squads Master Silver C1"
+  },
+  {
+    "id": "nickname_s26_mrc1_bronze",
+    "text": "Button Bashers Bronze C1"
+  },
+  {
+    "id": "nickname_s26_mrc1_gold",
+    "text": "Button Bashers Gold C1"
+  },
+  {
+    "id": "nickname_s26_mrc1_silver",
+    "text": "Button Bashers Silver C1"
   },
   {
     "id": "nickname_s4_001",
@@ -37520,6 +37560,10 @@
     "text": "Bubbling Brook"
   },
   {
+    "id": "ranked_button_bashers_royale_cycle_1",
+    "text": "Ranked Button Bashers - Cycle 1"
+  },
+  {
     "id": "ranked_clumsycrusade_opener",
     "text": "Clumsy Crusade"
   },
@@ -39550,6 +39594,10 @@
   {
     "id": "show_name_blast_ball_banger",
     "text": "Blast Ball Bangers"
+  },
+  {
+    "id": "show_name_button_bashers_royale_ranked",
+    "text": "Button Basher Royale Ranked"
   },
   {
     "id": "show_name_cashew",

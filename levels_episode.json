@@ -593,6 +593,15 @@
     "mode": "knockout"
   },
   {
+    "id": "episode_event_only_button_bashers_ranked",
+    "director": "levels_director.director_no_weightings_round_repetition",
+    "roundpool": "levels_roundpool.roundpool_event_only_button_bashers_ranked",
+    "debug_player_count_multiplier": 3,
+    "fallback_round": "levels_round.round_1v1_button_basher_event_only_fallback",
+    "bucket_override_roundpools": [],
+    "mode": "knockout"
+  },
+  {
     "id": "episode_event_only_day_at_races",
     "director": "levels_director.director_event_only_day_at_races",
     "roundpool": "levels_roundpool.roundpool_event_only_squads_day_at_races",
@@ -1436,7 +1445,7 @@
   {
     "id": "episode_ranked_mode",
     "director": "levels_director.director_ranked",
-    "roundpool": "levels_roundpool.ranked_show_cycle_8_roundpool",
+    "roundpool": "levels_roundpool.ranked_show_cycle_9_roundpool",
     "debug_player_count_multiplier": 3,
     "fallback_round": "levels_round.ranked_hexagone_final",
     "bucket_override_roundpools": [],

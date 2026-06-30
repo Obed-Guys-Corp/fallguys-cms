@@ -290,7 +290,7 @@
   {
     "id": "ch_fallguys_colourolive",
     "name": "localised_strings.ch_fallguys_colourolive",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -308,7 +308,7 @@
   {
     "id": "ch_fallguys_colourpinkparia",
     "name": "localised_strings.ch_fallguys_colourpinkparia",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {

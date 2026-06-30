@@ -1376,7 +1376,7 @@
   {
     "id": "pattern_s10_9_music",
     "name": "localised_strings.pattern_s10_9_music",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1634,7 +1634,7 @@
   {
     "id": "pattern_s11_crownsgalore",
     "name": "localised_strings.pattern_s11_crownsgalore",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
@@ -1778,7 +1778,7 @@
   {
     "id": "pattern_s21_butterflies",
     "name": "localised_strings.pattern_s21_butterflies",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1856,7 +1856,7 @@
   {
     "id": "pattern_s21_orderedstripes",
     "name": "localised_strings.pattern_s21_orderedstripes",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {

@@ -120,6 +120,13 @@
     "crossplay_config": "default"
   },
   {
+    "id": "event_only_button_bashers_ranked",
+    "min_match_size": 16,
+    "ranking_cycle_chainkey": "ranking_cycle_chainkeys.ranked_chainkey_button_bashers",
+    "show_id": "event_only_button_bashers_ranked",
+    "crossplay_config": "default"
+  },
+  {
     "id": "event_only_slime_climb_2",
     "min_match_size": 11,
     "show_id": "event_only_slime_climb_2_template",
@@ -207,7 +214,7 @@
   },
   {
     "id": "hexathon",
-    "min_match_size": 16,
+    "min_match_size": 5,
     "show_id": "event_walnut_template",
     "crossplay_config": "default"
   },

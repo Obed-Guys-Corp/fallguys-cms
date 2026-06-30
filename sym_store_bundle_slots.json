@@ -4525,11 +4525,47 @@
     ]
   },
   {
+    "id": "bundle_s10_6_chameleon_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s10_6_chameleon_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
     "id": "bundle_s10_7_chinesedragonhat_02",
     "bundle": [
       {
         "weight": 100,
         "bundle_id": "bundle_s10_7_chinesedragonhat_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "bundle_s10_8_mushroomguy_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s10_8_mushroomguy_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "bundle_s10_8_pickle_03",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s10_8_pickle_03"
       }
     ],
     "target_ids": [
@@ -4765,6 +4801,18 @@
     ]
   },
   {
+    "id": "bundle_s19_icetea_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s19_icetea_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
     "id": "bundle_s19_tugboat_03",
     "bundle": [
       {
@@ -4786,6 +4834,18 @@
     ],
     "target_ids": [
       "target_s20_labrat_02_not_owned"
+    ]
+  },
+  {
+    "id": "bundle_s21_bumblebee_03",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s21_bumblebee_03"
+      }
+    ],
+    "target_ids": [
+      "target_s21_bumblebee_03_not_owned"
     ]
   },
   {
@@ -5869,6 +5929,18 @@
     ]
   },
   {
+    "id": "bundleslot_famepass_26",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_famepass_26"
+      }
+    ],
+    "target_ids": [
+      "target_famepass_fp26_notowned"
+    ]
+  },
+  {
     "id": "bundleslot_single_costumeset_1x2_cuphead",
     "bundle": [
       {
@@ -6414,6 +6486,18 @@
       {
         "weight": 1,
         "bundle_id": "fp25_tier_skip_bundle"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp26_tier_skip_bundle",
+    "bundle": [
+      {
+        "weight": 1,
+        "bundle_id": "fp26_tier_skip_bundle"
       }
     ],
     "target_ids": [

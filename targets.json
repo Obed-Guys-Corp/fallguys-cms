@@ -171,6 +171,13 @@
     "conditions": []
   },
   {
+    "id": "anniversary_fp26",
+    "condition_ids": [
+      "anniversary_fp26"
+    ],
+    "conditions": []
+  },
+  {
     "id": "baad_wolf",
     "condition_ids": [
       "baad_wolf"
@@ -9761,6 +9768,13 @@
     "conditions": []
   },
   {
+    "id": "fp26_active_dates",
+    "condition_ids": [
+      "fp26_active_dates"
+    ],
+    "conditions": []
+  },
+  {
     "id": "fp26_blackbird",
     "condition_ids": [
       "fp26_blackbird"
@@ -9827,6 +9841,13 @@
     "id": "fp26_kingfisher",
     "condition_ids": [
       "fp26_kingfisher"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "fp26_kudos_ongoing_master",
+    "condition_ids": [
+      "fp26_kudos_ongoing_master"
     ],
     "conditions": []
   },
@@ -12268,6 +12289,13 @@
     "id": "has_purchased_s10_minermole_01",
     "condition_ids": [
       "has_purchased_s10_minermole_01"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "hex_a_thon_weeklies",
+    "condition_ids": [
+      "hex_a_thon_weeklies"
     ],
     "conditions": []
   },
@@ -17484,6 +17512,13 @@
     "conditions": []
   },
   {
+    "id": "target_famepass_fp26_notowned",
+    "condition_ids": [
+      "target_famepass_fp26_notowned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "condition_ids": [
       "target_famepass_fp4_notowned"
@@ -17720,6 +17755,14 @@
     "conditions": []
   },
   {
+    "id": "target_fp26_pass_owned_dates",
+    "condition_ids": [
+      "fp26_active_dates",
+      "target_fp26_pass_owned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_fp4_pass_owned_dates",
     "condition_ids": [
       "target_famepass_fp4_owned",
@@ -17890,6 +17933,14 @@
     "condition_ids": [
       "target_s20_labrat_02_not_owned",
       "fp21_active_dates"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "target_s21_bumblebee_03_not_owned",
+    "condition_ids": [
+      "target_s21_bumblebee_03_not_owned",
+      "fp26_active_dates"
     ],
     "conditions": []
   },

@@ -386,7 +386,7 @@
   {
     "id": "emojiui_s21_0_angrybear",
     "name": "localised_strings.emojiui_s21_0_angrybear",
-    "rarity": "rarities.common",
+    "rarity": "rarities.rare",
     "platform_id": "any"
   },
   {
@@ -434,7 +434,7 @@
   {
     "id": "emojiui_s21_0_honeypot",
     "name": "localised_strings.emojiui_s21_0_honeypot",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   },
   {
@@ -638,25 +638,25 @@
   {
     "id": "emojiui_s21_rankedc9_woodland_ace",
     "name": "localised_strings.emojiui_s21_rankedc9_woodland_ace",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
     "id": "emojiui_s21_rankedc9_woodland_gold",
     "name": "localised_strings.emojiui_s21_rankedc9_woodland_gold",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
     "id": "emojiui_s21_rankedc9_woodland_star",
     "name": "localised_strings.emojiui_s21_rankedc9_woodland_star",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {
     "id": "emojiui_s21_rankedc9_woodland_superstar",
     "name": "localised_strings.emojiui_s21_rankedc9_woodland_superstar",
-    "rarity": "rarities.common",
+    "rarity": "rarities.legendary",
     "platform_id": "any"
   },
   {

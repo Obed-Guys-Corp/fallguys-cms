@@ -836,7 +836,7 @@
   {
     "id": "emote_s11_5_sleeping",
     "name": "localised_strings.emote_s11_5_sleeping",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "id": "emote_s20_turningcrank",
     "name": "localised_strings.emote_s20_turningcrank",
-    "rarity": "rarities.common",
+    "rarity": "rarities.event",
     "platform_id": "any"
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "id": "emote_s21_1_annoyingbee",
     "name": "localised_strings.emote_s21_1_annoyingbee",
-    "rarity": "rarities.common",
+    "rarity": "rarities.rare",
     "platform_id": "any"
   },
   {

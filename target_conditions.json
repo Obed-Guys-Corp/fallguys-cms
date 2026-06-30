@@ -95,6 +95,17 @@
     }
   },
   {
+    "id": "anniversary_fp26",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-08-01T12:00:00",
+        "end": "2026-09-01T11:59:59"
+      }
+    }
+  },
+  {
     "id": "baad_wolf",
     "parameters": {
       "type": "date_time",
@@ -122,8 +133,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2025-11-25T12:00:00",
-        "end": "2025-12-02T11:59:59"
+        "start": "2026-07-14T12:00:00",
+        "end": "2026-07-21T11:59:59"
       }
     }
   },
@@ -133,8 +144,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-02-10T12:00:00",
-        "end": "2026-02-17T11:59:59"
+        "start": "2026-07-28T12:00:00",
+        "end": "2026-08-04T11:59:59"
       }
     }
   },
@@ -144,8 +155,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-01-27T12:00:00",
-        "end": "2026-02-03T11:59:59"
+        "start": "2026-08-11T12:00:00",
+        "end": "2026-08-18T11:59:59"
       }
     }
   },
@@ -9836,6 +9847,17 @@
     }
   },
   {
+    "id": "fp26_active_dates",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-07-01T12:00:00",
+        "end": "2026-09-01T11:59:59"
+      }
+    }
+  },
+  {
     "id": "fp26_blackbird",
     "parameters": {
       "type": "date_time",
@@ -9942,6 +9964,17 @@
         "operator": "between",
         "start": "2026-07-28T10:00:00",
         "end": "2026-08-04T10:00:00"
+      }
+    }
+  },
+  {
+    "id": "fp26_kudos_ongoing_master",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-07-01T12:00:00",
+        "end": "2026-11-01T11:59:59"
       }
     }
   },
@@ -14442,6 +14475,17 @@
     }
   },
   {
+    "id": "hex_a_thon_weeklies",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-07-21T12:00:00",
+        "end": "2026-07-28T11:59:59"
+      }
+    }
+  },
+  {
     "id": "hoverboarding_time_weekly",
     "parameters": {
       "type": "date_time",
@@ -16474,8 +16518,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2025-12-30T12:00:00",
-        "end": "2026-01-06T11:59:59"
+        "start": "2026-07-07T12:00:00",
+        "end": "2026-07-14T11:59:59"
       }
     }
   },
@@ -21489,8 +21533,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-03-31T12:00:00",
-        "end": "2026-04-07T11:59:59"
+        "start": "2026-08-04T12:00:00",
+        "end": "2026-08-11T11:59:59"
       }
     }
   },
@@ -21579,8 +21623,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-01-20T12:00:00",
-        "end": "2026-01-27T11:59:59"
+        "start": "2026-08-25T12:00:00",
+        "end": "2026-09-01T11:59:59"
       }
     }
   },
@@ -23302,6 +23346,22 @@
     }
   },
   {
+    "id": "target_famepass_fp26_notowned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "season_passes",
+          "reference": "season_passes.famepass_26"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "parameters": {
       "type": "item_quantity",
@@ -23746,6 +23806,21 @@
     }
   },
   {
+    "id": "target_fp26_pass_owned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "season_passes",
+          "reference": "season_passes.famepass_26"
+        },
+        "quantity": {
+          "operator": "more_than"
+        }
+      }
+    }
+  },
+  {
     "id": "target_kudos_solos_chill",
     "parameters": {
       "type": "date_time",
@@ -23995,6 +24070,22 @@
     }
   },
   {
+    "id": "target_s21_bumblebee_03_not_owned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "costumes_upper",
+          "reference": "costumes_upper.top_s21_bumblebee_03"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "target_s21_hermesstatue_03_not_owned",
     "parameters": {
       "type": "item_quantity",
@@ -24229,8 +24320,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-02-03T12:00:00",
-        "end": "2026-02-10T11:59:59"
+        "start": "2026-08-18T12:00:00",
+        "end": "2026-08-25T11:59:59"
       }
     }
   },

@@ -2954,7 +2954,7 @@
   {
     "id": "bottom_s10_6_chameleon_02",
     "name": "localised_strings.costume_s10_6_chameleon_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -3680,7 +3680,7 @@
   {
     "id": "bottom_s10_8_mushroomguy_02",
     "name": "localised_strings.costume_s10_8_mushroomguy_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -3704,7 +3704,7 @@
   {
     "id": "bottom_s10_8_pickle_03",
     "name": "localised_strings.costume_s10_8_pickle_03",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -5600,13 +5600,13 @@
   {
     "id": "bottom_s11_3_idolrevisitone_02",
     "name": "localised_strings.costume_s11_3_idolrevisitone_02",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
     "id": "bottom_s11_3_idolrevisitone_03",
     "name": "localised_strings.costume_s11_3_idolrevisitone_03",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
@@ -7148,7 +7148,7 @@
   {
     "id": "bottom_s19_icetea_02",
     "name": "localised_strings.costume_s19_icetea_02",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -7730,13 +7730,13 @@
   {
     "id": "bottom_s21_bear_01",
     "name": "localised_strings.costume_s21_bear_01",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_bear_02",
     "name": "localised_strings.costume_s21_bear_02",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
@@ -7772,7 +7772,7 @@
   {
     "id": "bottom_s21_bumblebee_01",
     "name": "localised_strings.costume_s21_bumblebee_01",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7784,7 +7784,7 @@
   {
     "id": "bottom_s21_bumblebee_03",
     "name": "localised_strings.costume_s21_bumblebee_03",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -8048,13 +8048,13 @@
   {
     "id": "bottom_s21_honeypot_02",
     "name": "localised_strings.costume_s21_honeypot_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_honeypot_03",
     "name": "localised_strings.costume_s21_honeypot_03",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -8360,7 +8360,7 @@
   {
     "id": "bottom_s21_robobear_01",
     "name": "localised_strings.costume_s21_robobear_01",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8372,7 +8372,7 @@
   {
     "id": "bottom_s21_robobear_03",
     "name": "localised_strings.costume_s21_robobear_03",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8546,7 +8546,7 @@
   {
     "id": "bottom_s21_sportsrevisitone_01",
     "name": "localised_strings.costume_s21_sportsrevisitone_01",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8624,7 +8624,7 @@
   {
     "id": "bottom_s21_treeguy_01",
     "name": "localised_strings.costume_s21_treeguy_01",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -8636,7 +8636,7 @@
   {
     "id": "bottom_s21_treeguy_03",
     "name": "localised_strings.costume_s21_treeguy_03",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {

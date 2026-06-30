@@ -1126,6 +1126,25 @@
     ]
   },
   {
+    "id": "fp26_anniversary_master_challenges",
+    "challenge_pool_ids": [
+      "fp26_anniversary_master_challenges"
+    ],
+    "challenge_list_ui_id": "challenge_list_ui.fp20_anniversary_master_challenges",
+    "refresh_interval_config": {
+      "type": "indefinite"
+    },
+    "rarity_distribution": [
+      {
+        "required_number": 5,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "special"
+      }
+    ]
+  },
+  {
     "id": "greatest_squads_challenges",
     "challenge_pool_ids": [
       "greatest_squads_challenges_pool"
@@ -1155,6 +1174,46 @@
           "type": "none"
         },
         "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "id": "hex_a_thon_challenges",
+    "challenge_pool_ids": [
+      "hex_a_thon_challenges_pool"
+    ],
+    "challenge_list_ui_id": "challenge_list_ui.common_weekly",
+    "refresh_interval_config": {
+      "type": "indefinite"
+    },
+    "rarity_distribution": [
+      {
+        "required_number": 1,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "common"
+      },
+      {
+        "required_number": 1,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "uncommon"
+      },
+      {
+        "required_number": 1,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "rare"
+      },
+      {
+        "required_number": 3,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "special"
       }
     ]
   },

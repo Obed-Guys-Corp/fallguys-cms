@@ -28298,6 +28298,54 @@
     "player_action_id": "win_gs_ltm"
   },
   {
+    "id": "win_hex_a_thon_01",
+    "target": {
+      "type": "aggregate",
+      "value": 1
+    },
+    "description": "localised_strings.challenge_desc_015_singular",
+    "description_parameters": [
+      {
+        "type": "localised",
+        "localised_value": "localised_strings.show_name_event_walnut"
+      }
+    ],
+    "challenge_tags": [],
+    "player_action_id": "win_hex_a_thon"
+  },
+  {
+    "id": "win_hex_a_thon_02",
+    "target": {
+      "type": "aggregate",
+      "value": 2
+    },
+    "description": "localised_strings.challenge_desc_015_singular",
+    "description_parameters": [
+      {
+        "type": "localised",
+        "localised_value": "localised_strings.show_name_event_walnut"
+      }
+    ],
+    "challenge_tags": [],
+    "player_action_id": "win_hex_a_thon"
+  },
+  {
+    "id": "win_hex_a_thon_03",
+    "target": {
+      "type": "aggregate",
+      "value": 3
+    },
+    "description": "localised_strings.challenge_desc_015_singular",
+    "description_parameters": [
+      {
+        "type": "localised",
+        "localised_value": "localised_strings.show_name_event_walnut"
+      }
+    ],
+    "challenge_tags": [],
+    "player_action_id": "win_hex_a_thon"
+  },
+  {
     "id": "win_hexathon",
     "target": {
       "type": "aggregate",

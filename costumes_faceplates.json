@@ -158,7 +158,7 @@
   {
     "id": "ch_fallguys_faceolive",
     "name": "localised_strings.ch_fallguys_faceolive",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": "ch_fallguys_facepinkparia",
     "name": "localised_strings.ch_fallguys_facepinkparia",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {

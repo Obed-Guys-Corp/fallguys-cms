@@ -39,16 +39,16 @@
     "total": 1
   },
   "challenge_list_schedules": {
-    "total": 138
+    "total": 140
   },
   "challenge_list_ui": {
     "total": 59
   },
   "challenge_lists": {
-    "total": 136
+    "total": 138
   },
   "challenge_pools": {
-    "total": 119
+    "total": 121
   },
   "challenge_rarity": {
     "total": 48
@@ -60,7 +60,7 @@
     "total": 16
   },
   "challenges": {
-    "total": 554
+    "total": 560
   },
   "cm_editor_values": {
     "total": 6
@@ -99,7 +99,7 @@
     "total": 354
   },
   "cosmetics_nicknames": {
-    "total": 408
+    "total": 412
   },
   "cosmetics_phrases": {
     "total": 55
@@ -156,7 +156,7 @@
     "total": 39
   },
   "customisable_image": {
-    "total": 536
+    "total": 539
   },
   "customiser_first_items": {
     "total": 4
@@ -168,7 +168,7 @@
     "total": 81
   },
   "dlc_images": {
-    "total": 2680
+    "total": 2695
   },
   "dlc_levels": {
     "total": 450
@@ -237,7 +237,7 @@
     "total": 5
   },
   "game_rules": {
-    "total": 2458
+    "total": 2461
   },
   "game_server_results_logging": {
     "total": 1
@@ -246,7 +246,7 @@
     "total": 4
   },
   "goals": {
-    "total": 1550
+    "total": 1553
   },
   "hard_currencies": {
     "total": 1
@@ -276,13 +276,13 @@
     "total": 99
   },
   "levels_episode": {
-    "total": 239
+    "total": 240
   },
   "levels_round": {
     "total": 2907
   },
   "levels_roundpool": {
-    "total": 261
+    "total": 263
   },
   "levels_roundpool_collections": {
     "total": 49
@@ -306,7 +306,7 @@
     "total": 555
   },
   "live_events": {
-    "total": 91
+    "total": 92
   },
   "lives_systems": {
     "total": 2
@@ -321,7 +321,7 @@
     "total": 1
   },
   "localised_strings": {
-    "total": 12909
+    "total": 12921
   },
   "loot_table_item_collections": {
     "total": 0
@@ -345,13 +345,13 @@
     "total": 5
   },
   "matchmaking_gates": {
-    "total": 114
+    "total": 115
   },
   "matchmaking_schedules": {
     "total": 12
   },
   "newsfeed": {
-    "total": 314
+    "total": 319
   },
   "nicknames": {
     "total": 2
@@ -372,7 +372,7 @@
     "total": 20
   },
   "player_actions": {
-    "total": 1007
+    "total": 1008
   },
   "player_base_cosmetics": {
     "total": 32
@@ -435,22 +435,22 @@
     "total": 11
   },
   "rank_lists": {
-    "total": 7
+    "total": 8
   },
   "rank_scorings": {
-    "total": 31
+    "total": 35
   },
   "ranking_cycle_chainkeys": {
-    "total": 7
+    "total": 8
   },
   "ranking_cycle_instances": {
-    "total": 14
+    "total": 16
   },
   "ranking_cycles": {
-    "total": 14
+    "total": 16
   },
   "ranks": {
-    "total": 62
+    "total": 66
   },
   "rarities": {
     "total": 11
@@ -468,10 +468,10 @@
     "total": 0
   },
   "rewards": {
-    "total": 6790
+    "total": 6795
   },
   "schedule_items": {
-    "total": 335
+    "total": 348
   },
   "season_pass_confirmation_popup": {
     "total": 2
@@ -483,16 +483,16 @@
     "total": 2
   },
   "season_pass_upgrade_button": {
-    "total": 29
-  },
-  "season_pass_upsell_popup": {
     "total": 30
   },
-  "season_passes": {
+  "season_pass_upsell_popup": {
     "total": 31
   },
+  "season_passes": {
+    "total": 32
+  },
   "seasons": {
-    "total": 35
+    "total": 36
   },
   "settings_analytics": {
     "total": 1
@@ -519,7 +519,7 @@
     "total": 4
   },
   "settings_economy_boost_schedules": {
-    "total": 52
+    "total": 53
   },
   "settings_environment": {
     "total": 12
@@ -594,7 +594,7 @@
     "total": 22
   },
   "shows": {
-    "total": 401
+    "total": 402
   },
   "shows_fallback": {
     "total": 1
@@ -642,25 +642,25 @@
     "total": 12
   },
   "sym_store_bundle_slots": {
-    "total": 836
+    "total": 843
   },
   "sym_store_bundles": {
-    "total": 1951
+    "total": 1958
   },
   "sym_store_sections": {
-    "total": 263
+    "total": 266
   },
   "sym_storefronts": {
-    "total": 45
+    "total": 46
   },
   "sym_stores": {
     "total": 2
   },
   "target_conditions": {
-    "total": 2183
+    "total": 2190
   },
   "targets": {
-    "total": 2341
+    "total": 2348
   },
   "targets_targeted_items": {
     "total": 0
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "8ef7be84811aa0cf507293bcaa9445076c338508",
+  "_content_version": "c4ba07d436645693795daa3bf75659c9dd2a8338",
   "_segments": [
     "high_res"
   ]

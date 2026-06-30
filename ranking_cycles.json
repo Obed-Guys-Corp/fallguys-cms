@@ -1,5 +1,10 @@
 [
   {
+    "id": "ranked_button_bashers_royale_cycle_1",
+    "ranking_cycle_name": "localised_strings.ranked_button_bashers_royale_cycle_1",
+    "rank_list": "ranked_button_bashers_points"
+  },
+  {
     "id": "ranking_cycle_1_base",
     "ranking_cycle_name": "localised_strings.ranked_knockout_cycle_1",
     "rank_list": "ranked_mode_points"
@@ -37,6 +42,11 @@
   {
     "id": "ranking_cycle_8_base",
     "ranking_cycle_name": "localised_strings.ranked_knockout_cycle_8",
+    "rank_list": "ranked_mode_points"
+  },
+  {
+    "id": "ranking_cycle_9_base",
+    "ranking_cycle_name": "localised_strings.ranked_knockout_cycle_9",
     "rank_list": "ranked_mode_points"
   },
   {
