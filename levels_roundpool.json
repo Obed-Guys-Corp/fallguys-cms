@@ -6625,7 +6625,6 @@
     "config": {
       "type": "legacy"
     },
-    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_door_dash_anniversary",
@@ -6888,13 +6887,6 @@
       },
       {
         "round": "levels_round.round_kraken_attack_anniversary",
-        "can_only_be_on_these_stages": [
-          10
-        ],
-        "cannot_be_on_these_stages": []
-      },
-      {
-        "round": "levels_round.round_blastball_arenasurvival_anniversary",
         "can_only_be_on_these_stages": [
           10
         ],
@@ -7166,7 +7158,8 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ]
+    ],
+    "discovery_queries": []
   },
   {
     "id": "roundpool_blast_ball_banger_8_2",

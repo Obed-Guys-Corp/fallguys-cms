@@ -4837,7 +4837,7 @@
     "private_lobby_size": {
       "type": "override",
       "min_players": 8,
-      "max_players": 40
+      "max_players": 24
     },
     "show_type": {
       "showtype_switch": "squad",
@@ -6640,7 +6640,7 @@
     },
     "private_lobby_size": {
       "type": "override",
-      "min_players": 18,
+      "min_players": 2,
       "max_players": 20
     },
     "show_type": {
@@ -7214,7 +7214,7 @@
     },
     "private_lobby_size": {
       "type": "override",
-      "min_players": 21,
+      "min_players": 5,
       "max_players": 32
     },
     "show_type": {
@@ -9540,7 +9540,7 @@
     },
     "private_lobby_size": {
       "type": "override",
-      "min_players": 18,
+      "min_players": 4,
       "max_players": 20
     },
     "show_type": {
@@ -9608,7 +9608,7 @@
     },
     "private_lobby_size": {
       "type": "override",
-      "min_players": 16,
+      "min_players": 8,
       "max_players": 20
     },
     "show_type": {
@@ -9642,7 +9642,7 @@
     },
     "private_lobby_size": {
       "type": "override",
-      "min_players": 16,
+      "min_players": 8,
       "max_players": 20
     },
     "show_type": {
@@ -11181,7 +11181,7 @@
     },
     "private_lobby_size": {
       "type": "override",
-      "min_players": 17,
+      "min_players": 2,
       "max_players": 20
     },
     "show_type": {
