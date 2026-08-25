@@ -928,6 +928,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.knockout_dizzyheights_opener",
@@ -1448,6 +1449,13 @@
         "cannot_be_on_these_stages": []
       },
       {
+        "round": "levels_round.knockout_blastball_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
         "round": "levels_round.knockout_fallmountain_final",
         "can_only_be_on_these_stages": [
           4
@@ -1690,8 +1698,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "main_show_template_large",
@@ -5351,6 +5358,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.ranked_lilyleapers_opener",
@@ -5545,6 +5553,13 @@
         "cannot_be_on_these_stages": []
       },
       {
+        "round": "levels_round.ranked_blastball_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
         "round": "levels_round.ranked_cycleoslime_final",
         "can_only_be_on_these_stages": [
           4
@@ -5565,8 +5580,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "ranked_show_cycle_9_roundpool",
@@ -5801,7 +5815,15 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
+      {
+        "round": "levels_round.reversed_knockout_blastball_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
       {
         "round": "levels_round.reversed_knockout_fallmountain_opener",
         "can_only_be_on_these_stages": [
@@ -6537,8 +6559,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_1v1_volleyfall_solos",
@@ -6625,6 +6646,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_door_dash_anniversary",
@@ -6887,6 +6909,13 @@
       },
       {
         "round": "levels_round.round_kraken_attack_anniversary",
+        "can_only_be_on_these_stages": [
+          10
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_anniversary",
         "can_only_be_on_these_stages": [
           10
         ],
@@ -7158,8 +7187,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_blast_ball_banger_8_2",
@@ -7224,6 +7252,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_gauntlet_01_duos",
@@ -7390,6 +7419,13 @@
       },
       {
         "round": "levels_round.round_thin_ice_duos",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_final_duos",
         "can_only_be_on_these_stages": [
           4
         ],
@@ -7855,14 +7891,14 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_classic_squads_show_s11",
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_biggestfan_squads",
@@ -8013,6 +8049,13 @@
       },
       {
         "round": "levels_round.round_fall_ball_squads",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_final_squads",
         "can_only_be_on_these_stages": [
           4
         ],
@@ -8472,8 +8515,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_collectable_test_batch1_model1",
@@ -9598,6 +9640,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_door_dash_dar_ltm",
@@ -9700,6 +9743,13 @@
       },
       {
         "round": "levels_round.round_hexaring_dar",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_dar",
         "can_only_be_on_these_stages": [
           4
         ],
@@ -9869,8 +9919,7 @@
         ],
         "can_only_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_deterministic_flow_survival",
@@ -11240,6 +11289,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.ranked_xtreme_solos_gauntlet_03",
@@ -11310,6 +11360,13 @@
           4
         ],
         "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_xtreme_solos_blastball_arenasurvival",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
       },
       {
         "round": "levels_round.ranked_xtreme_solos_hexaring",
@@ -11418,14 +11475,14 @@
         ],
         "can_only_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_elimination_gauntlets_s10",
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_gauntlet_03_event_elimination",
@@ -11496,6 +11553,13 @@
           4
         ],
         "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_elimination",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
       },
       {
         "round": "levels_round.round_hexaring_elimination",
@@ -11596,14 +11660,14 @@
         ],
         "can_only_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_elimination_gauntlets_squad_s10",
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_gauntlet_03_event_elimination_squads",
@@ -11660,6 +11724,13 @@
           4
         ],
         "can_only_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_elimination_squads",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
       },
       {
         "round": "levels_round.round_hexaring_elimination_squads",
@@ -11782,14 +11853,14 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_elimination_squad_ranked",
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.ranked_xtreme_squads_biggestfan",
@@ -11890,6 +11961,13 @@
         "can_only_be_on_these_stages": []
       },
       {
+        "round": "levels_round.ranked_xtreme_squads_blastball_arenasurvival",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
         "round": "levels_round.ranked_xtreme_squads_floor_fall",
         "can_only_be_on_these_stages": [
           4
@@ -11968,8 +12046,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_end_of_season_s2",
@@ -13310,7 +13387,16 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
+      {
+        "round": "levels_round.blastball_only_finals_normal_ranked",
+        "can_only_be_on_these_stages": [
+          1,
+          2
+        ],
+        "cannot_be_on_these_stages": []
+      },
       {
         "round": "levels_round.floor_fall_only_finals_normal_ranked",
         "can_only_be_on_these_stages": [
@@ -13356,6 +13442,13 @@
         "can_only_be_on_these_stages": [
           1,
           2
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.blastball_only_finals_final_ranked",
+        "can_only_be_on_these_stages": [
+          5
         ],
         "cannot_be_on_these_stages": []
       },
@@ -13586,8 +13679,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_only_finals_s9_vaulted",
@@ -14188,6 +14280,10 @@
   },
   {
     "id": "roundpool_event_only_fp1_fall_ball",
+    "config": {
+      "type": "legacy"
+    },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_fall_ball_cup_only_01",
@@ -14255,6 +14351,11 @@
         "can_only_be_on_these_stages": []
       },
       {
+        "round": "levels_round.round_blastball_arenasurvival_only_fall_ball",
+        "can_only_be_on_these_stages": [],
+        "cannot_be_on_these_stages": []
+      },
+      {
         "round": "levels_round.round_hexaring_only_fall_ball",
         "can_only_be_on_these_stages": [],
         "cannot_be_on_these_stages": []
@@ -14264,11 +14365,7 @@
         "can_only_be_on_these_stages": [],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "config": {
-      "type": "legacy"
-    },
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_only_hexaring",
@@ -15111,6 +15208,10 @@
   },
   {
     "id": "roundpool_event_only_slime_climb_2",
+    "config": {
+      "type": "legacy"
+    },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_slimeclimb_2_event_only_01",
@@ -15183,6 +15284,14 @@
         "can_only_be_on_these_stages": []
       },
       {
+        "round": "levels_round.round_blastball_sc2",
+        "cannot_be_on_these_stages": [
+          1,
+          2
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
         "round": "levels_round.round_krakenslam_sc2",
         "cannot_be_on_these_stages": [
           1,
@@ -15206,11 +15315,7 @@
         ],
         "can_only_be_on_these_stages": []
       }
-    ],
-    "config": {
-      "type": "legacy"
-    },
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_only_slime_climb_2_no_thin_ice",
@@ -15276,6 +15381,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_slide_chute_dar_squads",
@@ -15307,6 +15413,13 @@
       },
       {
         "round": "levels_round.round_hexsnake_dar_squads",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_final_dar_squads",
         "can_only_be_on_these_stages": [
           4
         ],
@@ -15540,8 +15653,7 @@
         ],
         "can_only_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_event_only_survival",
@@ -18674,6 +18786,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_gauntlet_01_noelim",
@@ -18823,6 +18936,13 @@
       },
       {
         "round": "levels_round.round_thin_ice_noelim",
+        "can_only_be_on_these_stages": [
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_noelim",
         "can_only_be_on_these_stages": [
           3
         ],
@@ -18981,8 +19101,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_only_roll_on",
@@ -20626,6 +20745,7 @@
     "config": {
       "type": "legacy"
     },
+    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_gauntlet_01_solos",
@@ -20806,6 +20926,13 @@
       },
       {
         "round": "levels_round.round_thin_ice_mini_solos",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.round_blastball_arenasurvival_solos",
         "can_only_be_on_these_stages": [
           4
         ],
@@ -21111,6 +21238,13 @@
         "can_only_be_on_these_stages": []
       },
       {
+        "round": "levels_round.round_blastball_arenasurvival_solos_2",
+        "cannot_be_on_these_stages": [
+          4
+        ],
+        "can_only_be_on_these_stages": []
+      },
+      {
         "round": "levels_round.round_hexaring_solos_2",
         "cannot_be_on_these_stages": [
           4
@@ -21167,8 +21301,7 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ],
-    "discovery_queries": []
+    ]
   },
   {
     "id": "roundpool_solo_show_s10_mid",

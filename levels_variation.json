@@ -1038,13 +1038,17 @@
           },
           {
             "key": "Pendulums",
-            "weighting": 25,
+            "weighting": 22,
             "difficulty": "intermediate"
           },
           {
             "key": "SidewayConveyors",
-            "weighting": 25,
+            "weighting": 22,
             "difficulty": "difficult"
+          },
+          {
+            "key": "Pelican",
+            "weighting": 6
           }
         ]
       },
@@ -1110,19 +1114,6 @@
             "key": "Hammers",
             "weighting": 25,
             "difficulty": "intermediate"
-          }
-        ]
-      },
-      {
-        "key": "Pelican",
-        "weightings": [
-          {
-            "key": "On",
-            "weighting": 10
-          },
-          {
-            "key": "Off",
-            "weighting": 90
           }
         ]
       }
@@ -1401,18 +1392,6 @@
             "key": "Hammers",
             "weighting": 25,
             "difficulty": "intermediate"
-          }
-        ]
-      },
-      {
-        "key": "Pelican",
-        "weightings": [
-          {
-            "key": "On"
-          },
-          {
-            "key": "Off",
-            "weighting": 1
           }
         ]
       }

@@ -4292,8 +4292,7 @@
         "title": "localised_strings.newsfeed_pimlico_promo_title",
         "message": "localised_strings.newsfeed_pimlico_promo_desc",
         "deeplink_data": {
-          "deeplink_type": "web",
-          "web_url": "http://fortnite.com/news/crown-jam-a-limited-time-fortnite-mode-from-the-fall-guys-world"
+          "deeplink_type": null
         },
         "ends_at": "localised_strings.newsfeed_date",
         "ends_at_description": [
@@ -5482,8 +5481,7 @@
         "title": "localised_strings.newsfeed_pimlico_launch_title",
         "message": "localised_strings.newsfeed_pimlico_launch_desc",
         "deeplink_data": {
-          "deeplink_type": "web",
-          "web_url": "http://fortnite.com/news/crown-jam-a-limited-time-fortnite-mode-from-the-fall-guys-world"
+          "deeplink_type": null
         },
         "starts_at": "localised_strings.newsfeed_date",
         "starts_at_description": [

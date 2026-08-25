@@ -40,6 +40,12 @@
     "platforms_whitelist": []
   },
   {
+    "id": "age_policy_enabled",
+    "value": false,
+    "platforms_whitelist": [],
+    "target_ids": []
+  },
+  {
     "id": "age_rating_display_duration",
     "value": 4,
     "platforms_whitelist": [],
@@ -1253,6 +1259,14 @@
     "target_ids": []
   },
   {
+    "id": "plobby_ready_settle_seconds",
+    "value": 1,
+    "target_ids": [
+      "after_prime_global_launch"
+    ],
+    "platforms_whitelist": []
+  },
+  {
     "id": "powerup_enable_exploding_rhino",
     "value": true,
     "platforms_whitelist": [],
@@ -1700,6 +1714,14 @@
     "value": 100,
     "platforms_whitelist": [],
     "target_ids": []
+  },
+  {
+    "id": "tmp_sanitisation_max_name_length",
+    "value": -1,
+    "target_ids": [
+      "after_prime_global_launch"
+    ],
+    "platforms_whitelist": []
   },
   {
     "id": "toms_navmesh_tile_size",

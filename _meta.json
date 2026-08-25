@@ -534,7 +534,7 @@
     "total": 1
   },
   "settings_global": {
-    "total": 269
+    "total": 272
   },
   "settings_load_manager": {
     "total": 1
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "a4eb69c1c08ce1e5e8774f751c8149228dd8d3d6",
+  "_content_version": "fd2b508c976c963b77439ea5dca71381f0ea200b",
   "_segments": [
     "high_res"
   ]
