@@ -7898,7 +7898,6 @@
     "config": {
       "type": "legacy"
     },
-    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_biggestfan_squads",
@@ -8263,13 +8262,6 @@
         "can_only_be_on_these_stages": []
       },
       {
-        "round": "levels_round.round_tiptoefinale",
-        "can_only_be_on_these_stages": [
-          4
-        ],
-        "cannot_be_on_these_stages": []
-      },
-      {
         "round": "levels_round.round_lava_squads",
         "cannot_be_on_these_stages": [
           1,
@@ -8515,7 +8507,8 @@
         ],
         "cannot_be_on_these_stages": []
       }
-    ]
+    ],
+    "discovery_queries": []
   },
   {
     "id": "roundpool_collectable_test_batch1_model1",
@@ -15381,7 +15374,6 @@
     "config": {
       "type": "legacy"
     },
-    "discovery_queries": [],
     "stages": [
       {
         "round": "levels_round.round_slide_chute_dar_squads",
@@ -15619,13 +15611,6 @@
         "can_only_be_on_these_stages": []
       },
       {
-        "round": "levels_round.round_tiptoefinale_dar_squads",
-        "can_only_be_on_these_stages": [
-          4
-        ],
-        "cannot_be_on_these_stages": []
-      },
-      {
         "round": "levels_round.round_thin_ice_dar_squads",
         "cannot_be_on_these_stages": [
           4
@@ -15653,7 +15638,8 @@
         ],
         "can_only_be_on_these_stages": []
       }
-    ]
+    ],
+    "discovery_queries": []
   },
   {
     "id": "roundpool_event_only_survival",
@@ -19188,14 +19174,6 @@
         "round": "levels_round.round_starlink_almond",
         "cannot_be_on_these_stages": [
           3
-        ],
-        "can_only_be_on_these_stages": []
-      },
-      {
-        "round": "levels_round.round_tiptoefinale_almond",
-        "cannot_be_on_these_stages": [
-          1,
-          2
         ],
         "can_only_be_on_these_stages": []
       },
