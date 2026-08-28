@@ -448,6 +448,10 @@
     "custom_image": "bg_bundle_magmabean_2x2"
   },
   {
+    "id": "bg_bundle_newtierskip_fp27",
+    "custom_image": "bg_bundle_newtierskip_fp27"
+  },
+  {
     "id": "bg_bundle_s11_18_chaffinch_3x2",
     "custom_image": "bg_bundle_s11_18_chaffinch_3x2"
   },
@@ -502,6 +506,10 @@
   {
     "id": "bg_bundle_s20_skua_3x2",
     "custom_image": "bg_bundle_s20_skua_3x2"
+  },
+  {
+    "id": "bg_bundle_s21_1_hauntedhouse_02",
+    "custom_image": "bg_bundle_s21_1_hauntedhouse_02"
   },
   {
     "id": "bg_bundle_s21_bumblebee_03",
@@ -562,6 +570,10 @@
   {
     "id": "bg_bundle_seasonpass_storebundle_background_fp26",
     "custom_image": "bg_bundle_seasonpass_storebundle_background_fp26"
+  },
+  {
+    "id": "bg_bundle_seasonpass_storebundle_background_fp27",
+    "custom_image": "bg_bundle_seasonpass_storebundle_background_fp27"
   },
   {
     "id": "bg_bundle_seasonpass_storebundle_fp15_bg",

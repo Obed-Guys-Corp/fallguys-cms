@@ -6137,6 +6137,30 @@
     "reward_id": "fame_6000"
   },
   {
+    "id": "win_ranked_knockout_2026_halloween_03",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 80,
+    "goal_id": "win_ranked_knockout_april_fools_03",
+    "reward_id": "pattern_s21_bats"
+  },
+  {
+    "id": "win_ranked_knockout_2026_halloween_05",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 60,
+    "goal_id": "win_ranked_knockout_april_fools_05",
+    "reward_id": "top_s21_cursedwitchhat_03"
+  },
+  {
     "id": "win_ranked_knockout_april_fools_03",
     "active": true,
     "rarity_id": "challenge_rarity.special",
@@ -6387,6 +6411,18 @@
     "priority": 80,
     "goal_id": "win_snowday_stumble_01",
     "reward_id": "fame_6000"
+  },
+  {
+    "id": "win_solos_2026_halloween_05",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 70,
+    "goal_id": "win_solos_april_fools_05",
+    "reward_id": "bottom_s21_cursedwitchhat_03"
   },
   {
     "id": "win_solos_april_fools_03",

@@ -9929,6 +9929,13 @@
     "conditions": []
   },
   {
+    "id": "fp27_active_dates",
+    "condition_ids": [
+      "fp27_active_dates"
+    ],
+    "conditions": []
+  },
+  {
     "id": "fp27_blackbird",
     "condition_ids": [
       "fp27_blackbird"
@@ -12263,6 +12270,13 @@
     "conditions": []
   },
   {
+    "id": "halloween_2026",
+    "condition_ids": [
+      "halloween_2026"
+    ],
+    "conditions": []
+  },
+  {
     "id": "has_purchased_rmt_arcadeclassics",
     "condition_ids": [
       "has_purchased_rmt_arcadeclassics",
@@ -12488,6 +12502,34 @@
     "id": "le_fp26_kudos_celebration",
     "condition_ids": [
       "le_fp26_kudos_celebration"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "le_fp27_crown_shard_scramble",
+    "condition_ids": [
+      "le_fp27_crown_shard_scramble"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "le_fp27_kudos_celebration",
+    "condition_ids": [
+      "le_fp27_kudos_celebration"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "le_fp28_crown_shard_scramble",
+    "condition_ids": [
+      "le_fp28_crown_shard_scramble"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "le_fp28_kudos_celebration",
+    "condition_ids": [
+      "le_fp28_kudos_celebration"
     ],
     "conditions": []
   },
@@ -13382,6 +13424,13 @@
     "condition_ids": [
       "newsfeed_pimlico_launch",
       "target_country_availability"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "no_elimimnation_show_weekly",
+    "condition_ids": [
+      "no_elimimnation_show_weekly"
     ],
     "conditions": []
   },
@@ -17519,6 +17568,13 @@
     "conditions": []
   },
   {
+    "id": "target_famepass_fp27_notowned",
+    "condition_ids": [
+      "target_famepass_fp27_notowned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "condition_ids": [
       "target_famepass_fp4_notowned"
@@ -17763,6 +17819,14 @@
     "conditions": []
   },
   {
+    "id": "target_fp27_pass_owned_dates",
+    "condition_ids": [
+      "fp27_active_dates",
+      "target_fp27_pass_owned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_fp4_pass_owned_dates",
     "condition_ids": [
       "target_famepass_fp4_owned",
@@ -17933,6 +17997,14 @@
     "condition_ids": [
       "target_s20_labrat_02_not_owned",
       "fp21_active_dates"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "target_s21_1_hauntedhouse_02_not_owned",
+    "condition_ids": [
+      "target_s21_1_hauntedhouse_02_not_owned",
+      "fp27_active_dates"
     ],
     "conditions": []
   },

@@ -870,6 +870,50 @@
     "storefront": "storefront_famepass_26"
   },
   {
+    "id": "famepass_27",
+    "order_preference": 10,
+    "section_height": 2,
+    "bundle_slots": [
+      {
+        "layout": {
+          "tile_width": 3,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundleslot_famepass_27"
+      }
+    ],
+    "target_ids": [
+      "fp27_active_dates"
+    ],
+    "storefront": "storefront_famepass_27"
+  },
+  {
+    "id": "famepass_27_tier_skip_section",
+    "order_preference": 250,
+    "section_height": 2,
+    "bundle_slots": [
+      {
+        "layout": {
+          "tile_width": 2,
+          "tile_height": 2
+        },
+        "bundle_slot": "fp27_tier_skip_bundle"
+      },
+      {
+        "layout": {
+          "tile_width": 2,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_s21_1_hauntedhouse_02"
+      }
+    ],
+    "target_ids": [
+      "target_fp27_pass_owned_dates"
+    ],
+    "name": "sym_storesection_title_tierskip",
+    "storefront": "storefront_famepass_27"
+  },
+  {
     "id": "famepass_4_tier_skip_section",
     "order_preference": 250,
     "section_height": 1,

@@ -3751,6 +3751,236 @@
     ]
   },
   {
+    "id": "ranked_show_cycle_10_roundpool",
+    "config": {
+      "type": "legacy"
+    },
+    "stages": [
+      {
+        "round": "levels_round.ranked_rooftoprangers_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_shortcircuit_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_roll_on_opener_latest",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_treetoptumble_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_whirlygig_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_knightfever_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_freezy_peak",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_spacebounders_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_aerialtableau_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_mindthegap_opener",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_seaside_sprint",
+        "can_only_be_on_these_stages": [
+          1
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_hyperdriveheroes_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_blastlantis_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_hoopchute_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_jumpclub_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_lilyleapers_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_topofthetrash_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_volleyfall_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_spookyslingers_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_slimeclimb_filler",
+        "can_only_be_on_these_stages": [
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_spacerace_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_stompin_ground",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_high_tide_filler",
+        "can_only_be_on_these_stages": [
+          2,
+          3
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_losttemple_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_thin_ice_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_hopadrome_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_trickortrapeze_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_hexaring_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_mellowcakes_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      },
+      {
+        "round": "levels_round.ranked_pier_pressure_final",
+        "can_only_be_on_these_stages": [
+          4
+        ],
+        "cannot_be_on_these_stages": []
+      }
+    ],
+    "discovery_queries": []
+  },
+  {
     "id": "ranked_show_cycle_1_roundpool",
     "config": {
       "type": "legacy"

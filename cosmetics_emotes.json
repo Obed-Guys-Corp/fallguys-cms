@@ -764,7 +764,7 @@
   {
     "id": "emote_s11_4_evillaugh",
     "name": "localised_strings.emote_s11_4_evillaugh",
-    "rarity": "rarities.common",
+    "rarity": "rarities.rare",
     "platform_id": "any"
   },
   {
@@ -992,7 +992,7 @@
   {
     "id": "emote_s20_goonwithoutme",
     "name": "localised_strings.emote_s20_goonwithoutme",
-    "rarity": "rarities.common",
+    "rarity": "rarities.event",
     "platform_id": "any"
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "id": "emote_s21_1_monsterscare",
     "name": "localised_strings.emote_s21_1_monsterscare",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   },
   {

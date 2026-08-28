@@ -98,7 +98,7 @@
   {
     "id": "ch_fallguys_faceboringdullard",
     "name": "localised_strings.ch_fallguys_faceboringdullard",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -446,7 +446,7 @@
   {
     "id": "ch_fallguys_facevoidspectre",
     "name": "localised_strings.ch_fallguys_facevoidspectre",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {

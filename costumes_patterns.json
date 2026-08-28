@@ -1760,13 +1760,13 @@
   {
     "id": "pattern_s21_bats",
     "name": "localised_strings.pattern_s21_bats",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
     "id": "pattern_s21_biker",
     "name": "localised_strings.pattern_s21_biker",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "id": "pattern_s21_lifelemons",
     "name": "localised_strings.pattern_s21_lifelemons",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -1874,7 +1874,7 @@
   {
     "id": "pattern_s21_qrguy",
     "name": "localised_strings.pattern_s21_qrguy",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {

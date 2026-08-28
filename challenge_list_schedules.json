@@ -14,6 +14,13 @@
     "challenge_list_id": "weekly_pool_almond"
   },
   {
+    "id": "almond_weekly",
+    "target_ids": [
+      "almond_weeklies"
+    ],
+    "challenge_list_id": "weekly_pool_almond"
+  },
+  {
     "id": "beasty_guys_ltm_challenges",
     "target_ids": [
       "beasty_guys_weeklies"
@@ -301,6 +308,13 @@
     "challenge_list_id": "jump_around_weekly"
   },
   {
+    "id": "master_challenges_2026_halloween",
+    "target_ids": [
+      "after_prime_global_launch"
+    ],
+    "challenge_list_id": "master_challenges_2026_halloween"
+  },
+  {
     "id": "master_challenges_april_fools_evg",
     "target_ids": [
       "after_prime_global_launch"
@@ -317,7 +331,7 @@
   {
     "id": "master_challenges_fp21_halloween",
     "target_ids": [
-      "after_prime_global_launch"
+      "halloween_2026"
     ],
     "challenge_list_id": "master_challenges_fp21_halloween"
   },
@@ -348,6 +362,13 @@
       "nature_ltm_weekly"
     ],
     "challenge_list_id": "nature_ltm_weekly"
+  },
+  {
+    "id": "no_elimimnation_show_challenges",
+    "target_ids": [
+      "no_elimimnation_show_weekly"
+    ],
+    "challenge_list_id": "no_elimimnation_show_challenges"
   },
   {
     "id": "noelim_explore_challenges",

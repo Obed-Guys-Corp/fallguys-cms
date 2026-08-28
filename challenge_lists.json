@@ -1364,6 +1364,25 @@
     ]
   },
   {
+    "id": "master_challenges_2026_halloween",
+    "challenge_pool_ids": [
+      "master_challenges_2026_halloween"
+    ],
+    "challenge_list_ui_id": "challenge_list_ui.master_challenges_fp21_halloween",
+    "refresh_interval_config": {
+      "type": "indefinite"
+    },
+    "rarity_distribution": [
+      {
+        "required_number": 5,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "special"
+      }
+    ]
+  },
+  {
     "id": "master_challenges_april_fools_evg",
     "challenge_pool_ids": [
       "master_challenges_pool_april_fools"
@@ -1495,6 +1514,46 @@
     "id": "nature_ltm_weekly",
     "challenge_pool_ids": [
       "nature_ltm_weekly"
+    ],
+    "challenge_list_ui_id": "challenge_list_ui.common_weekly",
+    "refresh_interval_config": {
+      "type": "indefinite"
+    },
+    "rarity_distribution": [
+      {
+        "required_number": 1,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "common"
+      },
+      {
+        "required_number": 1,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "uncommon"
+      },
+      {
+        "required_number": 1,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "rare"
+      },
+      {
+        "required_number": 3,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "special"
+      }
+    ]
+  },
+  {
+    "id": "no_elimimnation_show_challenges",
+    "challenge_pool_ids": [
+      "no_elimimnation_show_challenges"
     ],
     "challenge_list_ui_id": "challenge_list_ui.common_weekly",
     "refresh_interval_config": {

@@ -402,6 +402,12 @@
     "platform_id": "any"
   },
   {
+    "id": "nickname_27_0_01",
+    "name": "localised_strings.nickname_27_0_01",
+    "rarity": "common",
+    "platform_id": "any"
+  },
+  {
     "id": "nickname_anniversary_fp12",
     "name": "localised_strings.nickname_anniversary_fp12",
     "rarity": "event",
@@ -1646,6 +1652,24 @@
   {
     "id": "nickname_s26_mrc1_silver",
     "name": "localised_strings.nickname_s26_mrc1_silver",
+    "rarity": "event",
+    "platform_id": "any"
+  },
+  {
+    "id": "nickname_s27_mrc2_bronze",
+    "name": "localised_strings.nickname_s27_mrc2_bronze",
+    "rarity": "event",
+    "platform_id": "any"
+  },
+  {
+    "id": "nickname_s27_mrc2_gold",
+    "name": "localised_strings.nickname_s27_mrc2_gold",
+    "rarity": "event",
+    "platform_id": "any"
+  },
+  {
+    "id": "nickname_s27_mrc2_silver",
+    "name": "localised_strings.nickname_s27_mrc2_silver",
     "rarity": "event",
     "platform_id": "any"
   },

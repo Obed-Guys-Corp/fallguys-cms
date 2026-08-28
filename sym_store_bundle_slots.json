@@ -4837,6 +4837,18 @@
     ]
   },
   {
+    "id": "bundle_s21_1_hauntedhouse_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s21_1_hauntedhouse_02"
+      }
+    ],
+    "target_ids": [
+      "target_s21_1_hauntedhouse_02_not_owned"
+    ]
+  },
+  {
     "id": "bundle_s21_bumblebee_03",
     "bundle": [
       {
@@ -5941,6 +5953,18 @@
     ]
   },
   {
+    "id": "bundleslot_famepass_27",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_famepass_27"
+      }
+    ],
+    "target_ids": [
+      "target_famepass_fp27_notowned"
+    ]
+  },
+  {
     "id": "bundleslot_single_costumeset_1x2_cuphead",
     "bundle": [
       {
@@ -6498,6 +6522,18 @@
       {
         "weight": 1,
         "bundle_id": "fp26_tier_skip_bundle"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp27_tier_skip_bundle",
+    "bundle": [
+      {
+        "weight": 1,
+        "bundle_id": "fp27_tier_skip_bundle"
       }
     ],
     "target_ids": [

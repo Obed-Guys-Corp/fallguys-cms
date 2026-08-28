@@ -1856,9 +1856,9 @@
   },
   {
     "id": "fp21_halloween",
-    "starts_at": "2025-10-01T12:00:00",
-    "ends_at": "2025-11-01T11:59:59",
-    "priority": 70,
+    "starts_at": "2026-10-01T12:00:00",
+    "ends_at": "2026-11-01T11:59:59",
+    "priority": 90,
     "pages": [
       {
         "header": "localised_strings.newsfeed_title_available_now",
@@ -2775,6 +2775,233 @@
         ],
         "starts_at_description": [],
         "image": "bg_newsfeed_mastery_ranked_mrc"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp27_crownshard_scramble",
+    "starts_at": "2026-09-16T12:00:00",
+    "ends_at": "2026-10-01T11:59:59",
+    "priority": 50,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_available_now",
+        "title": "localised_strings.newsfeed_ss2_hazlenut_title",
+        "message": "localised_strings.le_crownshard_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
+        "ends_at": "localised_strings.newsfeed_date",
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_thirtieth"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_september"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "bg_newsfeed_crownshard_scramble"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp27_kudos_celebration",
+    "starts_at": "2026-09-01T12:00:00",
+    "ends_at": "2026-09-16T11:59:59",
+    "priority": 50,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_available_now",
+        "title": "localised_strings.newsfeed_pretzel_event_now_title",
+        "message": "localised_strings.newsfeed_kudos_celebration_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
+        "ends_at": "localised_strings.newsfeed_date",
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_fifteenth"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_september"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "newsfeed_ui_kudos_carnival_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp27_last_chance_newsfeed",
+    "starts_at": "2026-10-25T12:00:00",
+    "ends_at": "2026-11-01T11:59:59",
+    "priority": 90,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_last_chance",
+        "title": "localised_strings.fp_title_27",
+        "message": "localised_strings.newsfeed_famepass_27_lastchance_desc",
+        "deeplink_data": {
+          "deeplink_type": "season_pass",
+          "season_pass_page": "upsell"
+        },
+        "ends_at": "localised_strings.newsfeed_date",
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_thirtyfirst"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_october"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "bg_newsfeed_fp27_famepass"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp27_live_newsfeed",
+    "starts_at": "2026-09-01T12:00:00",
+    "ends_at": "2026-09-08T11:59:59",
+    "priority": 98,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_header_new_famepass",
+        "title": "localised_strings.fp_title_27",
+        "message": "localised_strings.newsfeed_famepass_27_available_desc",
+        "deeplink_data": {
+          "deeplink_type": "season_pass",
+          "season_pass_page": "upsell"
+        },
+        "ends_at": "localised_strings.newsfeed_date",
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_thirtyfirst"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_october"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "bg_newsfeed_fp27_famepass"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp27_xtreme_solos_mrc2_live",
+    "starts_at": "2026-09-01T12:00:00",
+    "ends_at": "2026-10-01T11:59:59",
+    "priority": 80,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_available_now",
+        "title": "localised_strings.ranked_xtreme_solos_cycle_2",
+        "message": "localised_strings.newsfeed_mrc_desc",
+        "ends_at": "localised_strings.newsfeed_date",
+        "deeplink_data": {
+          "deeplink_type": "show_selector_main",
+          "show_selector_id": "xtreme_solos_template_ranked"
+        },
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_thirtieth"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_september"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "bg_newsfeed_mastery_ranked_mrc"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp28_crownshard_scramble",
+    "starts_at": "2026-11-16T12:00:00",
+    "ends_at": "2026-12-01T11:59:59",
+    "priority": 50,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_available_now",
+        "title": "localised_strings.newsfeed_ss2_hazlenut_title",
+        "message": "localised_strings.le_crownshard_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
+        "ends_at": "localised_strings.newsfeed_date",
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_thirtieth"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_november"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "bg_newsfeed_crownshard_scramble"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp28_kudos_celebration",
+    "starts_at": "2026-11-01T12:00:00",
+    "ends_at": "2026-11-16T11:59:59",
+    "priority": 50,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_available_now",
+        "title": "localised_strings.newsfeed_pretzel_event_now_title",
+        "message": "localised_strings.newsfeed_kudos_celebration_desc",
+        "deeplink_data": {
+          "deeplink_type": "live_event"
+        },
+        "ends_at": "localised_strings.newsfeed_date",
+        "ends_at_description": [
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.newsfeed_fifteenth"
+          },
+          {
+            "type": "localised",
+            "localised_value": "localised_strings.month_november"
+          }
+        ],
+        "starts_at_description": [],
+        "image": "newsfeed_ui_kudos_carnival_02"
       }
     ],
     "target_ids": [
@@ -6714,6 +6941,52 @@
         "starts_at_description": [],
         "ends_at_description": [],
         "image": "newsfeed_ui_generic_technical"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "ranked_cycle_10_endingsoon",
+    "starts_at": "2026-10-18T12:00:00",
+    "ends_at": "2026-11-01T11:59:59",
+    "priority": 85,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_last_chance",
+        "title": "localised_strings.ranked_show_knockout",
+        "message": "localised_strings.newsfeed_ranked_lastchance_desc",
+        "deeplink_data": {
+          "deeplink_type": "show_selector_main",
+          "show_selector_id": "ranked_show_knockout"
+        },
+        "starts_at_description": [],
+        "ends_at_description": [],
+        "image": "bg_newsfeed_rankedko_newsfeed"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "ranked_cycle_10_live",
+    "starts_at": "2026-09-01T12:00:00",
+    "ends_at": "2026-09-15T11:59:59",
+    "priority": 85,
+    "pages": [
+      {
+        "header": "localised_strings.newsfeed_title_available_now",
+        "title": "localised_strings.ranked_knockout_cycle_10",
+        "message": "localised_strings.newsfeed_ranked_launch_desc",
+        "deeplink_data": {
+          "deeplink_type": "show_selector_main",
+          "show_selector_id": "ranked_show_knockout"
+        },
+        "starts_at_description": [],
+        "ends_at_description": [],
+        "image": "bg_newsfeed_rankedko_newsfeed"
       }
     ],
     "target_ids": [

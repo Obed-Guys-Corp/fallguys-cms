@@ -3289,6 +3289,346 @@
     "reward_icon_image": "ui-icon-generic-token"
   },
   {
+    "id": "le_fp27_crown_shard_scramble",
+    "title": "localised_strings.newsfeed_ss2_hazlenut_title",
+    "description": "localised_strings.le_crownshard_desc",
+    "target_ids": [
+      "le_fp27_crown_shard_scramble"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_1"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_2"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_3"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_4"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_5"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_win_ranked"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 100,
+        "reward_id": "crown_shard_30"
+      },
+      {
+        "xp_required": 200,
+        "reward_id": "crown_shard_45"
+      },
+      {
+        "xp_required": 300,
+        "reward_id": "crowns_bonus_001"
+      },
+      {
+        "xp_required": 400,
+        "reward_id": "crowns_bonus_003"
+      },
+      {
+        "xp_required": 600,
+        "reward_id": "crowns_bonus_005"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui_liveevent_crownshardscramble",
+    "background_image": "gb_liveevent_crownshardscramble",
+    "promotional_image": "promo_liveevent_crownshardscramble",
+    "reward_icon_image": "ui-icon-generic-token"
+  },
+  {
+    "id": "le_fp27_kudos_celebration",
+    "title": "localised_strings.newsfeed_pretzel_event_now_title",
+    "description": "localised_strings.le_kudos_celebration_desc",
+    "target_ids": [
+      "le_fp27_kudos_celebration"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_1"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_2"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_3"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_4"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_5"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_win_ranked"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 100,
+        "reward_id": "kudos_bonus_400"
+      },
+      {
+        "xp_required": 200,
+        "reward_id": "kudos_bonus_450"
+      },
+      {
+        "xp_required": 300,
+        "reward_id": "kudos_bonus_600"
+      },
+      {
+        "xp_required": 400,
+        "reward_id": "kudos_bonus_850"
+      },
+      {
+        "xp_required": 600,
+        "reward_id": "kudos_bonus_1200"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui_liveevent_kudos_celebration",
+    "background_image": "gb_liveevent_kudos_celebration",
+    "promotional_image": "promo_liveevent_kudos_celebration",
+    "reward_icon_image": "ui-icon-generic-token"
+  },
+  {
+    "id": "le_fp28_crown_shard_scramble",
+    "title": "localised_strings.newsfeed_ss2_hazlenut_title",
+    "description": "localised_strings.le_crownshard_desc",
+    "target_ids": [
+      "le_fp28_crown_shard_scramble"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_1"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_2"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_3"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_4"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_play_5"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_crown_shard_scramble_win_ranked"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 100,
+        "reward_id": "crown_shard_30"
+      },
+      {
+        "xp_required": 200,
+        "reward_id": "crown_shard_45"
+      },
+      {
+        "xp_required": 300,
+        "reward_id": "crowns_bonus_001"
+      },
+      {
+        "xp_required": 400,
+        "reward_id": "crowns_bonus_003"
+      },
+      {
+        "xp_required": 600,
+        "reward_id": "crowns_bonus_005"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui_liveevent_crownshardscramble",
+    "background_image": "gb_liveevent_crownshardscramble",
+    "promotional_image": "promo_liveevent_crownshardscramble",
+    "reward_icon_image": "ui-icon-generic-token"
+  },
+  {
+    "id": "le_fp28_kudos_celebration",
+    "title": "localised_strings.newsfeed_pretzel_event_now_title",
+    "description": "localised_strings.le_kudos_celebration_desc",
+    "target_ids": [
+      "le_fp28_kudos_celebration"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_1"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_2"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_3"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_4"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_play_5"
+      },
+      {
+        "xp_awarded": 200,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "le_kudos_celebration_win_ranked"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 100,
+        "reward_id": "kudos_bonus_400"
+      },
+      {
+        "xp_required": 200,
+        "reward_id": "kudos_bonus_450"
+      },
+      {
+        "xp_required": 300,
+        "reward_id": "kudos_bonus_600"
+      },
+      {
+        "xp_required": 400,
+        "reward_id": "kudos_bonus_850"
+      },
+      {
+        "xp_required": 600,
+        "reward_id": "kudos_bonus_1200"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui_liveevent_kudos_celebration",
+    "background_image": "gb_liveevent_kudos_celebration",
+    "promotional_image": "promo_liveevent_kudos_celebration",
+    "reward_icon_image": "ui-icon-generic-token"
+  },
+  {
     "id": "le_fp7_seasonsyeetings",
     "title": "localised_strings.le_social_title_winter",
     "description": "localised_strings.le_social_desc_winter",
@@ -3734,6 +4074,123 @@
     "background_image": "ui-liveevents-placeholder-bg",
     "promotional_image": "ui-liveevents-placeholder-costume",
     "reward_icon_image": "ui-liveevents-placeholder-token"
+  },
+  {
+    "id": "le_halloween_2026",
+    "title": "localised_strings.le_fp21_halloween_title",
+    "description": "localised_strings.le_fp14_halloween_desc",
+    "target_ids": [
+      "halloween_2026"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_01"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_02"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_03"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_04"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_05"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_06"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_07"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_08"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_09"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "event_fp21_halloween_10"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 100,
+        "reward_id": "kudos_bonus_2000"
+      },
+      {
+        "xp_required": 300,
+        "reward_id": "crown_shard_20"
+      },
+      {
+        "xp_required": 500,
+        "reward_id": "nameplateui_s21_cursedwitchhat"
+      },
+      {
+        "xp_required": 700,
+        "reward_id": "bottom_s21_cursedwitchhat_01"
+      },
+      {
+        "xp_required": 900,
+        "reward_id": "top_s21_cursedwitchhat_01"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui-liveevents-s10-willow-tooltip",
+    "background_image": "ui-liveevents-s10-willow-bg",
+    "promotional_image": "ui-liveevents-s10-willow-costume",
+    "reward_icon_image": "ui-icon-token-s10-willow"
   },
   {
     "id": "le_kudos_celebration",

@@ -67,8 +67,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-03-17T12:00:00",
-        "end": "2026-03-24T11:59:59"
+        "start": "2026-09-22T12:00:00",
+        "end": "2026-09-29T11:59:59"
       }
     }
   },
@@ -273,8 +273,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-05-12T12:00:00",
-        "end": "2026-05-19T11:59:59"
+        "start": "2026-09-15T12:00:00",
+        "end": "2026-09-22T11:59:59"
       }
     }
   },
@@ -1670,8 +1670,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-06-30T12:00:00",
-        "end": "2026-07-07T11:59:59"
+        "start": "2026-10-20T12:00:00",
+        "end": "2026-10-27T11:59:59"
       }
     }
   },
@@ -10111,6 +10111,17 @@
     }
   },
   {
+    "id": "fp27_active_dates",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-09-01T12:00:00",
+        "end": "2026-11-01T11:59:59"
+      }
+    }
+  },
+  {
     "id": "fp27_blackbird",
     "parameters": {
       "type": "date_time",
@@ -13805,6 +13816,17 @@
     }
   },
   {
+    "id": "halloween_2026",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-10-01T12:00:00",
+        "end": "2026-11-01T11:59:59"
+      }
+    }
+  },
+  {
     "id": "has_not_purchased_japan_discount_bundle",
     "parameters": {
       "type": "purchase_history",
@@ -15924,8 +15946,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-06-16T12:00:00",
-        "end": "2026-06-23T11:59:59"
+        "start": "2026-09-29T12:00:00",
+        "end": "2026-10-06T11:59:59"
       }
     }
   },
@@ -16036,6 +16058,50 @@
         "operator": "between",
         "start": "2026-07-01T12:00:00",
         "end": "2026-07-16T11:59:59"
+      }
+    }
+  },
+  {
+    "id": "le_fp27_crown_shard_scramble",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-09-16T12:00:00",
+        "end": "2026-10-01T11:59:59"
+      }
+    }
+  },
+  {
+    "id": "le_fp27_kudos_celebration",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-09-01T12:00:00",
+        "end": "2026-09-16T11:59:59"
+      }
+    }
+  },
+  {
+    "id": "le_fp28_crown_shard_scramble",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-11-16T12:00:00",
+        "end": "2026-12-01T11:59:59"
+      }
+    }
+  },
+  {
+    "id": "le_fp28_kudos_celebration",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-11-01T12:00:00",
+        "end": "2026-11-16T11:59:59"
       }
     }
   },
@@ -16279,6 +16345,17 @@
         "operator": "between",
         "start": "2026-01-21T14:30:00",
         "end": "2026-02-09T14:29:59"
+      }
+    }
+  },
+  {
+    "id": "no_elimimnation_show_weekly",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-10-13T12:00:00",
+        "end": "2026-10-20T11:59:59"
       }
     }
   },
@@ -20649,8 +20726,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-04-14T12:00:00",
-        "end": "2026-04-21T11:59:59"
+        "start": "2026-09-01T12:00:00",
+        "end": "2026-09-08T11:59:59"
       }
     }
   },
@@ -23362,6 +23439,22 @@
     }
   },
   {
+    "id": "target_famepass_fp27_notowned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "season_passes",
+          "reference": "season_passes.famepass_27"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "parameters": {
       "type": "item_quantity",
@@ -23821,6 +23914,21 @@
     }
   },
   {
+    "id": "target_fp27_pass_owned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "season_passes",
+          "reference": "season_passes.famepass_27"
+        },
+        "quantity": {
+          "operator": "more_than"
+        }
+      }
+    }
+  },
+  {
     "id": "target_kudos_solos_chill",
     "parameters": {
       "type": "date_time",
@@ -24061,6 +24169,22 @@
         "item": {
           "type": "costumes_upper",
           "reference": "costumes_upper.top_s20_labrat_02"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "target_s21_1_hauntedhouse_02_not_owned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "costumes_upper",
+          "reference": "costumes_upper.top_s21_1_hauntedhouse_02"
         },
         "quantity": {
           "operator": "less_than",
@@ -24331,8 +24455,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-06-09T12:00:00",
-        "end": "2026-06-16T11:59:59"
+        "start": "2026-10-06T12:00:00",
+        "end": "2026-10-13T11:59:59"
       }
     }
   },
@@ -24364,8 +24488,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-04-21T12:00:00",
-        "end": "2026-04-28T11:59:59"
+        "start": "2026-09-08T12:00:00",
+        "end": "2026-09-15T11:59:59"
       }
     }
   },
@@ -24507,8 +24631,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-04-28T12:00:00",
-        "end": "2026-05-05T11:59:59"
+        "start": "2026-10-27T12:00:00",
+        "end": "2026-11-03T11:59:59"
       }
     }
   },

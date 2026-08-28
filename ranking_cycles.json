@@ -5,6 +5,11 @@
     "rank_list": "ranked_button_bashers_points"
   },
   {
+    "id": "ranking_cycle_10_base",
+    "ranking_cycle_name": "localised_strings.ranked_knockout_cycle_10",
+    "rank_list": "ranked_mode_points"
+  },
+  {
     "id": "ranking_cycle_1_base",
     "ranking_cycle_name": "localised_strings.ranked_knockout_cycle_1",
     "rank_list": "ranked_mode_points"
@@ -72,6 +77,11 @@
   {
     "id": "ranking_xtreme_solos_cycle_1",
     "ranking_cycle_name": "localised_strings.ranked_xtreme_solos_cycle_1",
+    "rank_list": "ranked_xtreme_solos_points"
+  },
+  {
+    "id": "ranking_xtreme_solos_cycle_2",
+    "ranking_cycle_name": "localised_strings.ranked_xtreme_solos_cycle_2",
     "rank_list": "ranked_xtreme_solos_points"
   },
   {

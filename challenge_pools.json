@@ -956,6 +956,16 @@
     ]
   },
   {
+    "id": "master_challenges_2026_halloween",
+    "challenge_ids": [
+      "challenges.win_any_game_fp21_halloween_01",
+      "challenges.win_solos_fp21_halloween_03",
+      "challenges.win_ranked_knockout_2026_halloween_03",
+      "challenges.win_solos_2026_halloween_05",
+      "challenges.win_ranked_knockout_2026_halloween_05"
+    ]
+  },
+  {
     "id": "master_challenges_fp21_halloween",
     "challenge_ids": [
       "challenges.win_any_game_fp21_halloween_01",
@@ -1036,6 +1046,17 @@
       "challenges.play_nature_ltm_03",
       "challenges.play_nature_ltm_05",
       "challenges.win_nature_ltm_01",
+      "challenges.weekly_special_complete_dailies_3_fame",
+      "challenges.weekly_special_complete_dailies_5_fame",
+      "challenges.weekly_special_complete_dailies_7_fame"
+    ]
+  },
+  {
+    "id": "no_elimimnation_show_challenges",
+    "challenge_ids": [
+      "challenges.play_soloschill_01",
+      "challenges.play_soloschill_03",
+      "challenges.win_soloschill_01",
       "challenges.weekly_special_complete_dailies_3_fame",
       "challenges.weekly_special_complete_dailies_5_fame",
       "challenges.weekly_special_complete_dailies_7_fame"

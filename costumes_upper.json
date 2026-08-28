@@ -7826,7 +7826,7 @@
   {
     "id": "top_s21_1_coffin_01",
     "name": "localised_strings.costume_s21_1_coffin_01",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -7838,7 +7838,7 @@
   {
     "id": "top_s21_1_coffin_03",
     "name": "localised_strings.costume_s21_1_coffin_03",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -7880,7 +7880,7 @@
   {
     "id": "top_s21_1_gothrabbit_01",
     "name": "localised_strings.costume_s21_1_gothrabbit_01",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
@@ -7892,19 +7892,19 @@
   {
     "id": "top_s21_1_gothrabbit_03",
     "name": "localised_strings.costume_s21_1_gothrabbit_03",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
     "id": "top_s21_1_hauntedhouse_01",
     "name": "localised_strings.costume_s21_1_hauntedhouse_01",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
     "id": "top_s21_1_hauntedhouse_02",
     "name": "localised_strings.costume_s21_1_hauntedhouse_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7916,13 +7916,13 @@
   {
     "id": "top_s21_1_hauntedtree_01",
     "name": "localised_strings.costume_s21_1_hauntedtree_01",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
     "id": "top_s21_1_hauntedtree_02",
     "name": "localised_strings.costume_s21_1_hauntedtree_02",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -8150,7 +8150,7 @@
   {
     "id": "top_s21_cursedwitchhat_01",
     "name": "localised_strings.costume_s21_cursedwitchhat_01",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
@@ -8162,7 +8162,7 @@
   {
     "id": "top_s21_cursedwitchhat_03",
     "name": "localised_strings.costume_s21_cursedwitchhat_03",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
@@ -8264,13 +8264,13 @@
   {
     "id": "top_s21_drjekyll_01",
     "name": "localised_strings.costume_s21_drjekyll_01",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
     "id": "top_s21_drjekyll_02",
     "name": "localised_strings.costume_s21_drjekyll_02",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -9008,7 +9008,7 @@
   {
     "id": "top_s21_wizardyrevisitone_01",
     "name": "localised_strings.costume_s21_wizardyrevisitone_01",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
