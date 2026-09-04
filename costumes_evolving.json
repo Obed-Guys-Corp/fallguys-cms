@@ -9,6 +9,24 @@
     "timer_switch_ui": 3
   },
   {
+    "id": "drjekyll_01",
+    "lower_costume_normal": "costumes_lower.bottom_s21_drjekyll_01",
+    "upper_costume_normal": "costumes_upper.top_s21_drjekyll_01",
+    "lower_costume_special": "costumes_lower.bottom_s21_mrhyde_01",
+    "upper_costume_special": "costumes_upper.top_s21_mrhyde_01",
+    "percentage_to_switch": 50,
+    "timer_switch_ui": 3
+  },
+  {
+    "id": "drjekyll_02",
+    "lower_costume_normal": "costumes_lower.bottom_s21_drjekyll_02",
+    "upper_costume_normal": "costumes_upper.top_s21_drjekyll_02",
+    "lower_costume_special": "costumes_lower.bottom_s21_mrhyde_02",
+    "upper_costume_special": "costumes_upper.top_s21_mrhyde_02",
+    "percentage_to_switch": 50,
+    "timer_switch_ui": 3
+  },
+  {
     "id": "sparrow_01",
     "lower_costume_normal": "costumes_lower.bottom_event_sparrow_normal_01",
     "upper_costume_normal": "costumes_upper.top_event_sparrow_normal_01",

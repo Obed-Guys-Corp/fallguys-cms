@@ -117,7 +117,7 @@
     "total": 284
   },
   "costumes_evolving": {
-    "total": 5
+    "total": 7
   },
   "costumes_faceplates": {
     "total": 179
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "00dc95d456252684cb001b2e5863428465b4398a",
+  "_content_version": "69ccdebdb7c3bdf4f6be6f8014fd0073eef43993",
   "_segments": [
     "high_res"
   ]
