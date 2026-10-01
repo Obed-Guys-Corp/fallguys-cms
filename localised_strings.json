@@ -30540,6 +30540,10 @@
     "text": "{0} {1}"
   },
   {
+    "id": "newsfeed_desc_iaps_disabled",
+    "text": "In-app purchases are temporarily unavailable on iOS in the EU due to Apple’s new requirements. We're working on restoring them and will share an update as soon as they're back."
+  },
+  {
     "id": "newsfeed_double_fame_season_end_generic_now",
     "text": "Celebrate the final weeks of the season and smash through the Fame Path with double fame, available NOW!"
   },
@@ -32574,6 +32578,10 @@
   {
     "id": "newsfeed_title_get_the_season_pass",
     "text": "Get the Season Pass"
+  },
+  {
+    "id": "newsfeed_title_iaps_disabled",
+    "text": "In-app Purchases Disabled"
   },
   {
     "id": "newsfeed_title_last_chance",

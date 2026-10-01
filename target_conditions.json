@@ -14615,6 +14615,16 @@
     }
   },
   {
+    "id": "is_ios_group",
+    "parameters": {
+      "type": "platform_group",
+      "data": {
+        "operator": "equal_to",
+        "platform_group": "ios"
+      }
+    }
+  },
+  {
     "id": "is_le_f12_aug",
     "parameters": {
       "type": "date_time",
@@ -15639,6 +15649,16 @@
       "data": {
         "operator": "not_equal_to",
         "platform_group": "android"
+      }
+    }
+  },
+  {
+    "id": "is_not_ios_user",
+    "parameters": {
+      "type": "platform_group",
+      "data": {
+        "operator": "not_equal_to",
+        "platform_group": "ios"
       }
     }
   },

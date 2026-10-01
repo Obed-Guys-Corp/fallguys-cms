@@ -4537,6 +4537,13 @@
     "conditions": []
   },
   {
+    "id": "exclude_ios",
+    "condition_ids": [
+      "is_not_ios_user"
+    ],
+    "conditions": []
+  },
+  {
     "id": "exclude_playstation",
     "condition_ids": [
       "is_not_playstation_user"
@@ -12332,6 +12339,13 @@
     "condition_ids": [
       "rmt_extended_dates",
       "has_not_purchased_s10_rmt_arcademachine_01"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "ios_users",
+    "condition_ids": [
+      "is_ios_group"
     ],
     "conditions": []
   },

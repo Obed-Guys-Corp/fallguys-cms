@@ -637,7 +637,7 @@
     "id": "fame_tier_skips_enabled",
     "value": true,
     "target_ids": [
-      "after_prime_global_launch"
+      "exclude_ios"
     ],
     "platforms_whitelist": []
   },
@@ -1640,7 +1640,7 @@
     "id": "store_enabled",
     "value": true,
     "target_ids": [
-      "after_prime_global_launch"
+      "exclude_ios"
     ],
     "platforms_whitelist": []
   },
@@ -1685,7 +1685,7 @@
     "id": "sym_store_enabled",
     "value": true,
     "target_ids": [
-      "after_prime_global_launch"
+      "exclude_ios"
     ],
     "platforms_whitelist": []
   },
