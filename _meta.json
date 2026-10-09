@@ -321,7 +321,7 @@
     "total": 1
   },
   "localised_strings": {
-    "total": 12933
+    "total": 12935
   },
   "loot_table_item_collections": {
     "total": 0
@@ -707,7 +707,7 @@
   "welcome_slides": {
     "total": 2
   },
-  "_content_version": "a411d3faa522f256fbc43e2980805f9dd83d49e5",
+  "_content_version": "b0f7a7234c7dbd501a345aaaa9ebc91e646ce418",
   "_segments": [
     "high_res"
   ]

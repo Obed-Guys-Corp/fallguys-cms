@@ -30184,6 +30184,14 @@
     "text": "NEW"
   },
   {
+    "id": "new_iaps_disabled_desc",
+    "text": "In-app purchases are temporarily unavailable on iOS in the EU due to Apple’s new requirements. We're working on restoring them and will share an update as soon as they're back."
+  },
+  {
+    "id": "new_iaps_disabled_title",
+    "text": "In-app Purchases Disabled"
+  },
+  {
     "id": "new_reward",
     "text": "New reward!"
   },

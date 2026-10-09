@@ -3924,8 +3924,8 @@
     "priority": 100,
     "pages": [
       {
-        "title": "localised_strings.newsfeed_title_iaps_disabled",
-        "message": "localised_strings.newsfeed_desc_iaps_disabled",
+        "title": "localised_strings.new_iaps_disabled_title",
+        "message": "localised_strings.new_iaps_disabled_desc",
         "deeplink_data": {
           "deeplink_type": null
         },
