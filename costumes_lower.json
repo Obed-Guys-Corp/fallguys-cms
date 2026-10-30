@@ -2342,7 +2342,7 @@
   {
     "id": "bottom_s10_3_steampunkbird_03",
     "name": "localised_strings.costume_s10_3_steampunkbird_03",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -2480,7 +2480,7 @@
   {
     "id": "bottom_s10_4_cardboardmecha_02",
     "name": "localised_strings.costume_s10_4_cardboardmecha_02",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
@@ -2828,7 +2828,7 @@
   {
     "id": "bottom_s10_5_sil_xmaswreathbelt_02",
     "name": "localised_strings.bottom_s10_5_sil_xmaswreathbelt_02",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -5150,7 +5150,7 @@
   {
     "id": "bottom_s11_1_lavalamp_02",
     "name": "localised_strings.costume_s11_1_lavalamp_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7544,13 +7544,13 @@
   {
     "id": "bottom_s21_1_frozenguy_01",
     "name": "localised_strings.costume_s21_1_frozenguy_01",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_1_frozenguy_03",
     "name": "localised_strings.costume_s21_1_frozenguy_03",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -7868,7 +7868,7 @@
   {
     "id": "bottom_s21_cuteseal_01",
     "name": "localised_strings.costume_s21_cuteseal_01",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7880,7 +7880,7 @@
   {
     "id": "bottom_s21_cuteseal_03",
     "name": "localised_strings.costume_s21_cuteseal_03",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -7892,13 +7892,13 @@
   {
     "id": "bottom_s21_cyberbean_02",
     "name": "localised_strings.costume_s21_cyberbean_02",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_cyberbean_03",
     "name": "localised_strings.costume_s21_cyberbean_03",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {
@@ -8084,13 +8084,13 @@
   {
     "id": "bottom_s21_kingcatacomb_02",
     "name": "localised_strings.costume_s21_kingcatacomb_02",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_kingcatacomb_03",
     "name": "localised_strings.costume_s21_kingcatacomb_03",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8180,7 +8180,7 @@
   {
     "id": "bottom_s21_orca_01",
     "name": "localised_strings.costume_s21_orca_01",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
@@ -8192,7 +8192,7 @@
   {
     "id": "bottom_s21_orca_03",
     "name": "localised_strings.costume_s21_orca_03",
-    "rarity": "common",
+    "rarity": "epic",
     "platform_id": "any"
   },
   {
@@ -8222,7 +8222,7 @@
   {
     "id": "bottom_s21_penguinrevisitone_01",
     "name": "localised_strings.costume_s21_penguinrevisitone_01",
-    "rarity": "common",
+    "rarity": "legendary",
     "platform_id": "any"
   },
   {
@@ -8510,13 +8510,13 @@
   {
     "id": "bottom_s21_snowbunny_01",
     "name": "localised_strings.costume_s21_snowbunny_01",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
     "id": "bottom_s21_snowbunny_02",
     "name": "localised_strings.costume_s21_snowbunny_02",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {

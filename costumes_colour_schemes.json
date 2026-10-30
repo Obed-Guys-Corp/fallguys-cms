@@ -332,7 +332,7 @@
   {
     "id": "ch_fallguys_colourredbluefoil",
     "name": "localised_strings.ch_fallguys_colourredbluefoil",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -410,7 +410,7 @@
   {
     "id": "ch_fallguys_colourvanillavinyl",
     "name": "localised_strings.ch_fallguys_colourvanillavinyl",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {

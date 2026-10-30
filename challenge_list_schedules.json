@@ -266,6 +266,13 @@
     "challenge_list_id": "fp26_anniversary_master_challenges"
   },
   {
+    "id": "fp28_winter_master_challenges",
+    "target_ids": [
+      "after_prime_global_launch"
+    ],
+    "challenge_list_id": "fp28_winter_master_challenges"
+  },
+  {
     "id": "greatest_squads_challenges",
     "target_ids": [
       "greatest_squads_challenges"

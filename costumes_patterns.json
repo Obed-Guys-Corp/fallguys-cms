@@ -1292,7 +1292,7 @@
   {
     "id": "pattern_s10_7_caricature",
     "name": "localised_strings.pattern_s10_7_caricature",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "id": "pattern_s21_basketfallpro",
     "name": "localised_strings.pattern_s21_basketfallpro",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1826,7 +1826,7 @@
   {
     "id": "pattern_s21_fullsend",
     "name": "localised_strings.pattern_s21_fullsend",
-    "rarity": "common",
+    "rarity": "uncommon",
     "platform_id": "any"
   },
   {
@@ -1862,7 +1862,7 @@
   {
     "id": "pattern_s21_popbang",
     "name": "localised_strings.pattern_s21_popbang",
-    "rarity": "common",
+    "rarity": "rare",
     "platform_id": "any"
   },
   {
@@ -1916,7 +1916,7 @@
   {
     "id": "pattern_s21_techundersuit",
     "name": "localised_strings.pattern_s21_techundersuit",
-    "rarity": "common",
+    "rarity": "event",
     "platform_id": "any"
   },
   {

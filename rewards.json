@@ -46459,6 +46459,19 @@
     }
   },
   {
+    "id": "nickname_28_0_01",
+    "contents": {
+      "type": "direct",
+      "items": [
+        {
+          "group_id": "cosmetics_nicknames",
+          "challenge_ui_detail_colour": "colour.challenges_blue",
+          "item_id": "nickname_28_0_01"
+        }
+      ]
+    }
+  },
+  {
     "id": "nickname_anniversary_fp12",
     "contents": {
       "type": "direct",
@@ -46519,6 +46532,45 @@
           "group_id": "cosmetics_nicknames",
           "challenge_ui_detail_colour": "colour.challenges_blue",
           "item_id": "nickname_fbc_mrc1_silver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nickname_fbc_mrc2_bronze",
+    "contents": {
+      "type": "direct",
+      "items": [
+        {
+          "group_id": "cosmetics_nicknames",
+          "challenge_ui_detail_colour": "colour.challenges_blue",
+          "item_id": "nickname_fbc_mrc2_bronze"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nickname_fbc_mrc2_gold",
+    "contents": {
+      "type": "direct",
+      "items": [
+        {
+          "group_id": "cosmetics_nicknames",
+          "challenge_ui_detail_colour": "colour.challenges_blue",
+          "item_id": "nickname_fbc_mrc2_gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nickname_fbc_mrc2_silver",
+    "contents": {
+      "type": "direct",
+      "items": [
+        {
+          "group_id": "cosmetics_nicknames",
+          "challenge_ui_detail_colour": "colour.challenges_blue",
+          "item_id": "nickname_fbc_mrc2_silver"
         }
       ]
     }
@@ -57640,6 +57692,24 @@
           "group_id": "costumes_lower",
           "challenge_ui_detail_colour": "colour.challenges_gold",
           "item_id": "bottom_s21_longguyrevisitone_01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s21_penguinrevisitone_01",
+    "contents": {
+      "type": "direct",
+      "items": [
+        {
+          "group_id": "costumes_upper",
+          "challenge_ui_detail_colour": "colour.challenges_gold",
+          "item_id": "top_s21_penguinrevisitone_01"
+        },
+        {
+          "group_id": "costumes_lower",
+          "challenge_ui_detail_colour": "colour.challenges_gold",
+          "item_id": "bottom_s21_penguinrevisitone_01"
         }
       ]
     }

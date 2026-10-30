@@ -1145,6 +1145,25 @@
     ]
   },
   {
+    "id": "fp28_winter_master_challenges",
+    "challenge_pool_ids": [
+      "fp28_winter_master_challenges"
+    ],
+    "challenge_list_ui_id": "challenge_list_ui.fp28_winter_master_challenges",
+    "refresh_interval_config": {
+      "type": "indefinite"
+    },
+    "rarity_distribution": [
+      {
+        "required_number": 5,
+        "cooldown_interval_config": {
+          "type": "none"
+        },
+        "rarity": "special"
+      }
+    ]
+  },
+  {
     "id": "greatest_squads_challenges",
     "challenge_pool_ids": [
       "greatest_squads_challenges_pool"

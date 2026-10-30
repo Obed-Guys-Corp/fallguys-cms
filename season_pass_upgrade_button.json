@@ -108,6 +108,12 @@
     "image": "ui_fp_upgrade_keyart_small_fp27"
   },
   {
+    "id": "fp28_upgrade_button",
+    "main_header": "localised_strings.fame_pass_upgrade_your_pass",
+    "sub_header": "localised_strings.more_rewards",
+    "image": "ui_fp_upgrade_seasonpass28_ticketbutton"
+  },
+  {
     "id": "fp4_upgrade_button",
     "main_header": "localised_strings.fame_pass_upgrade_your_pass",
     "sub_header": "localised_strings.more_rewards",

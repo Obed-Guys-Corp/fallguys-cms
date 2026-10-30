@@ -812,6 +812,13 @@
     }
   },
   {
+    "id": "bg_bundle_new_tier_skip_fp28",
+    "dlc_item": {
+      "path": "/5ac28f3a-af52-413e-804a-b8b34e44ee76-high_res.jpg",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "bg_bundle_newtierskip_fp27",
     "dlc_item": {
       "path": "/5ce2aeb7-4483-4c86-b5a2-dea36e6d225f-high_res.jpg",
@@ -997,6 +1004,13 @@
     "id": "bg_bundle_seasonpass25_storebundle",
     "dlc_item": {
       "path": "/3c659ce8-f8c5-4323-a644-27c3a4d872be-high_res.jpg",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "bg_bundle_seasonpass2_storebundle_background",
+    "dlc_item": {
+      "path": "/e4709b38-522d-4aa0-ac11-468ed8b61160-high_res.jpg",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },
@@ -1610,6 +1624,13 @@
     }
   },
   {
+    "id": "bg_gradientvertical_seasonpass_gradient_fp28",
+    "dlc_item": {
+      "path": "/e98b09b3-7447-4c61-991e-dd599e5f8e41-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "bg_newsfeed_11_3_falloween_newsfeed_jpeg",
     "dlc_item": {
       "path": "/0bba1713-5ac0-4b0b-baf0-110608fbdf0a-high_res.jpg",
@@ -1914,6 +1935,13 @@
     "id": "bg_newsfeed_fg_fp25_keyart",
     "dlc_item": {
       "path": "/16f86385-8023-4364-84e5-791f0c03bf4a-high_res.jpg",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "bg_newsfeed_fg_fp28_keyart_newsfeed",
+    "dlc_item": {
+      "path": "/f66e048c-5d15-4a85-8580-15377bfcc53d-high_res.jpg",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },
@@ -14630,6 +14658,13 @@
     }
   },
   {
+    "id": "ui_bundle_new_tier_skip_fp28",
+    "dlc_item": {
+      "path": "/574aeacf-ace6-4d75-9e75-c2a5ebe085ae-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "ui_bundle_newtierskip_fp18",
     "dlc_item": {
       "path": "/dc3c57a0-9b97-4099-aff8-0bd82cda26ba-high_res.png",
@@ -14780,6 +14815,13 @@
     "id": "ui_bundle_s21_macaw_2x2_grabbag",
     "dlc_item": {
       "path": "/c8c230f0-d32a-4e7a-8569-5fddcc59da24-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_bundle_s21_snowbunny_02",
+    "dlc_item": {
+      "path": "/e46e68f9-0a17-48ad-8ca0-fa42c1d9c4ee-high_res.png",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },
@@ -15109,6 +15151,13 @@
     "id": "ui_costumeset_bluebird02",
     "dlc_item": {
       "path": "/21e9e8e2-7b64-4b3a-96d0-539d34ba61c1-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_costumeset_bottom_s10_5_sil_xmaswreathbelt_02",
+    "dlc_item": {
+      "path": "/318ec4d2-6ec6-4d0e-a1be-674fb03d991c-high_res.png",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },
@@ -16884,6 +16933,20 @@
     }
   },
   {
+    "id": "ui_costumeset_s10_3_steampunkbird_03",
+    "dlc_item": {
+      "path": "/503e41ca-13a2-4696-a050-b6f3710d99a7-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_costumeset_s10_4_cardboardmecha_02",
+    "dlc_item": {
+      "path": "/82c1d316-3380-493d-a937-087bcb9fddbe-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "ui_costumeset_s10_6_carrotcourier_02",
     "dlc_item": {
       "path": "/a2c2313b-0e0e-4384-b0ba-09276a7c8124-high_res.png",
@@ -16971,6 +17034,13 @@
     "id": "ui_costumeset_s11_1_fastcheetah_01_2",
     "dlc_item": {
       "path": "/dfe762b0-c104-466b-9643-b0e47cc04222-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_costumeset_s11_1_lavalamp_02",
+    "dlc_item": {
+      "path": "/1de421d3-6510-401d-8744-2717907a0dd3-high_res.png",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },
@@ -17367,6 +17437,13 @@
     }
   },
   {
+    "id": "ui_fp_store_seasonpass28_storebundle",
+    "dlc_item": {
+      "path": "/ed14621d-6b2a-4532-9c33-8f20596411c9-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "ui_fp_store_seasonpass_20",
     "dlc_item": {
       "path": "/780ffd41-9ac1-4de4-b385-b0836670fc50-high_res.png",
@@ -17507,6 +17584,13 @@
     }
   },
   {
+    "id": "ui_fp_upgrade_seasonpass28_ticketbutton",
+    "dlc_item": {
+      "path": "/2c58b890-b174-4f00-b768-d577afe746ef-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "ui_fp_upgrade_seasonpass_20_keyart_small",
     "dlc_item": {
       "path": "/373cafd5-65ba-4fb6-85a5-c43afca2ca1a-high_res.png",
@@ -17608,6 +17692,13 @@
     "id": "ui_fp_upsell_seasonpass24_upsell",
     "dlc_item": {
       "path": "/334ffd9f-2ad9-4ada-be25-7f6e7a91d6cd-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
+    "id": "ui_fp_upsell_seasonpass28",
+    "dlc_item": {
+      "path": "/0c66bec2-0d37-4d02-9df9-e7fae7536c11-high_res.png",
       "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
     }
   },

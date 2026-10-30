@@ -1203,6 +1203,171 @@
     "reward_icon_image": "ui-icon-token-fp7_winter"
   },
   {
+    "id": "fp28_le_winter",
+    "title": "localised_strings.fp16_showcase_title",
+    "description": "localised_strings.le_fp16_winter_desc",
+    "target_ids": [
+      "fp28_le_winter"
+    ],
+    "challenges": [
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "play_snowday_stumble"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "play_explore_5"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "emoticon_snowday_stumble"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": []
+        },
+        "unlock_conditions": [],
+        "goal_id": "emoticon_explore_winter"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": [
+            {
+              "type": "localised",
+              "localised_string": "le_fp22_winter_challenge_title_1"
+            }
+          ],
+          "template": "challenge_unlock_multiple_of_a_type"
+        },
+        "unlock_conditions": [
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_snowday_stumble"
+          },
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_explore_5"
+          }
+        ],
+        "goal_id": "piggyback_snowday_stumble",
+        "goal_title_locked": "le_fp22_winter_challenge_title_3"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": [
+            {
+              "type": "localised",
+              "localised_string": "le_fp22_winter_challenge_title_1"
+            }
+          ],
+          "template": "challenge_unlock_multiple_of_a_type"
+        },
+        "unlock_conditions": [
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_snowday_stumble"
+          },
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_explore_5"
+          }
+        ],
+        "goal_id": "piggyback_explore_3",
+        "goal_title_locked": "le_fp22_winter_challenge_title_3"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": [
+            {
+              "type": "localised",
+              "localised_string": "le_fp22_winter_challenge_title_1"
+            }
+          ],
+          "template": "challenge_unlock_multiple_of_a_type"
+        },
+        "unlock_conditions": [
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_snowday_stumble"
+          },
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_explore_5"
+          }
+        ],
+        "goal_id": "qualify_from_a_round_no_respawn_snowday_stumble",
+        "goal_title_locked": "le_fp22_winter_challenge_title_4"
+      },
+      {
+        "xp_awarded": 100,
+        "goal_description_locked": {
+          "template_parameters": [
+            {
+              "type": "localised",
+              "localised_string": "le_fp22_winter_challenge_title_1"
+            }
+          ],
+          "template": "challenge_unlock_multiple_of_a_type"
+        },
+        "unlock_conditions": [
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_snowday_stumble"
+          },
+          {
+            "unlock_type": "goal",
+            "goal_id": "play_explore_5"
+          }
+        ],
+        "goal_id": "reach_final_round_snowday_stumble",
+        "goal_title_locked": "le_fp22_winter_challenge_title_4"
+      }
+    ],
+    "milestones": [
+      {
+        "xp_required": 100,
+        "reward_id": "kudos_bonus_2000"
+      },
+      {
+        "xp_required": 200,
+        "reward_id": "crown_shard_20"
+      },
+      {
+        "xp_required": 400,
+        "reward_id": "nameplateui_s21_cyberbeanice"
+      },
+      {
+        "xp_required": 600,
+        "reward_id": "bottom_s21_cyberbean_03"
+      },
+      {
+        "xp_required": 800,
+        "reward_id": "top_s21_cyberbean_03"
+      }
+    ],
+    "ui_detail_colour": "colour.challenges_blue",
+    "tool_tip_image": "ui_liveevent_fp22_winter",
+    "background_image": "gb_liveevent_winter2024_background_art",
+    "promotional_image": "promo_liveevent_winterliveeventrender",
+    "reward_icon_image": "ui-icon-token-fp7_winter"
+  },
+  {
     "id": "le_anniversary_26",
     "title": "localised_strings.show_title_anniversary",
     "description": "localised_strings.le_fp20_anniversary_desc",

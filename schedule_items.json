@@ -439,8 +439,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-02-24T12:00:00",
-      "ends_at": "2026-03-03T11:59:59"
+      "starts_at": "2026-11-10T12:00:00",
+      "ends_at": "2026-11-17T11:59:59"
     }
   },
   {
@@ -535,8 +535,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-10-01T12:00:00",
-      "ends_at": "2026-11-01T11:59:59"
+      "starts_at": "2026-12-01T12:00:00",
+      "ends_at": "2027-01-01T11:59:59"
     }
   },
   {
@@ -1051,8 +1051,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-11-01T12:00:00",
-      "ends_at": "2025-12-01T11:59:59"
+      "starts_at": "2026-11-01T12:00:00",
+      "ends_at": "2026-12-01T11:59:59"
     }
   },
   {
@@ -1065,6 +1065,18 @@
       "type": "absolute",
       "starts_at": "2025-11-01T12:00:00",
       "ends_at": "2025-12-01T11:59:59"
+    }
+  },
+  {
+    "id": "fallball_cup_trios_ranked_cycle_2",
+    "item": {
+      "group_id": "ranking_cycle_instances",
+      "item_id": "ranking_fallball_cup_trios_cycle_instance_2"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-11-01T12:00:00",
+      "ends_at": "2026-12-01T11:59:59"
     }
   },
   {
@@ -2172,10 +2184,130 @@
     }
   },
   {
+    "id": "fp28_weekly_challenges_wk1",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "sports_weekly_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-11-03T12:00:00",
+      "ends_at": "2026-11-10T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk2",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "weekly_day_at_the_races_solo"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-11-10T12:00:00",
+      "ends_at": "2026-11-17T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk3",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "weekly_hoverboarding_time"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-11-17T12:00:00",
+      "ends_at": "2026-11-24T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk4",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "roll_call_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-11-24T12:00:00",
+      "ends_at": "2026-12-01T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk5",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "hex_a_thon_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-12-01T12:00:00",
+      "ends_at": "2026-12-08T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk6",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "pegwin_palooza_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-12-08T12:00:00",
+      "ends_at": "2026-12-15T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk7",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "ski_fall_high_scorers_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-12-15T12:00:00",
+      "ends_at": "2026-12-22T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk8",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "solos_chill_weekly_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-12-22T12:00:00",
+      "ends_at": "2026-12-29T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_weekly_challenges_wk9",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "xtreme_squads_weekly_challenges"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-12-29T12:00:00",
+      "ends_at": "2027-01-05T11:59:59"
+    }
+  },
+  {
     "id": "fp28_winter_background",
     "item": {
       "group_id": "main_menu_background",
       "item_id": "winter"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-12-01T12:00:00",
+      "ends_at": "2027-01-01T11:59:59"
+    }
+  },
+  {
+    "id": "fp28_winter_master_challenges",
+    "item": {
+      "group_id": "challenge_list_schedules",
+      "item_id": "fp28_winter_master_challenges"
     },
     "config": {
       "type": "absolute",
@@ -2263,8 +2395,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-07-21T12:00:00",
-      "ends_at": "2026-07-28T11:59:59"
+      "starts_at": "2026-12-01T12:00:00",
+      "ends_at": "2026-12-08T11:59:59"
     }
   },
   {
@@ -2275,8 +2407,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-05-19T12:00:00",
-      "ends_at": "2026-05-26T11:59:59"
+      "starts_at": "2026-11-17T12:00:00",
+      "ends_at": "2026-11-24T11:59:59"
     }
   },
   {
@@ -2599,8 +2731,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-10-13T12:00:00",
-      "ends_at": "2026-10-20T11:59:59"
+      "starts_at": "2026-12-22T12:00:00",
+      "ends_at": "2026-12-29T11:59:59"
     }
   },
   {
@@ -2611,8 +2743,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-04-07T12:00:00",
-      "ends_at": "2026-04-14T11:59:59"
+      "starts_at": "2026-12-08T12:00:00",
+      "ends_at": "2026-12-15T11:59:59"
     }
   },
   {
@@ -2685,6 +2817,18 @@
       "type": "absolute",
       "starts_at": "2026-09-01T12:00:00",
       "ends_at": "2026-11-01T11:59:59"
+    }
+  },
+  {
+    "id": "ranking_cycle_instance_11",
+    "item": {
+      "group_id": "ranking_cycle_instances",
+      "item_id": "ranking_cycle_instance_11"
+    },
+    "config": {
+      "type": "absolute",
+      "starts_at": "2026-11-01T12:00:00",
+      "ends_at": "2027-01-01T11:59:59"
     }
   },
   {
@@ -2803,8 +2947,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-07-07T12:00:00",
-      "ends_at": "2026-07-14T11:59:59"
+      "starts_at": "2026-11-24T12:00:00",
+      "ends_at": "2026-12-01T11:59:59"
     }
   },
   {
@@ -3057,8 +3201,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-05-05T12:00:00",
-      "ends_at": "2026-05-12T11:59:59"
+      "starts_at": "2026-12-01T12:00:00",
+      "ends_at": "2027-01-01T11:59:59"
     }
   },
   {
@@ -3184,8 +3328,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-08-04T12:00:00",
-      "ends_at": "2026-08-11T11:59:59"
+      "starts_at": "2026-12-15T12:00:00",
+      "ends_at": "2026-12-22T11:59:59"
     }
   },
   {
@@ -3220,8 +3364,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2026-06-23T12:00:00",
-      "ends_at": "2026-06-30T11:59:59"
+      "starts_at": "2026-11-03T12:00:00",
+      "ends_at": "2026-11-10T11:59:59"
     }
   },
   {
@@ -4468,8 +4612,8 @@
     },
     "config": {
       "type": "absolute",
-      "starts_at": "2025-12-16T12:00:00",
-      "ends_at": "2025-12-23T11:59:59"
+      "starts_at": "2026-12-29T12:00:00",
+      "ends_at": "2027-01-05T11:59:59"
     }
   },
   {

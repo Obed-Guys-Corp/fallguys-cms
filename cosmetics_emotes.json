@@ -950,7 +950,7 @@
   {
     "id": "emote_s19_huladance",
     "name": "localised_strings.emote_s19_huladance",
-    "rarity": "rarities.common",
+    "rarity": "rarities.event",
     "platform_id": "any"
   },
   {
@@ -1028,13 +1028,13 @@
   {
     "id": "emote_s21_1_clappingseal",
     "name": "localised_strings.emote_s21_1_clappingseal",
-    "rarity": "rarities.common",
+    "rarity": "rarities.rare",
     "platform_id": "any"
   },
   {
     "id": "emote_s21_1_freeze",
     "name": "localised_strings.emote_s21_1_freeze",
-    "rarity": "rarities.common",
+    "rarity": "rarities.uncommon",
     "platform_id": "any"
   },
   {

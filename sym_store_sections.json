@@ -914,6 +914,50 @@
     "storefront": "storefront_famepass_27"
   },
   {
+    "id": "famepass_28",
+    "order_preference": 10,
+    "section_height": 2,
+    "bundle_slots": [
+      {
+        "layout": {
+          "tile_width": 3,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundleslot_famepass_28"
+      }
+    ],
+    "target_ids": [
+      "fp28_active_dates"
+    ],
+    "storefront": "storefront_famepass_28"
+  },
+  {
+    "id": "famepass_28_tier_skip_section",
+    "order_preference": 250,
+    "section_height": 2,
+    "bundle_slots": [
+      {
+        "layout": {
+          "tile_width": 2,
+          "tile_height": 2
+        },
+        "bundle_slot": "fp28_tier_skip_bundle"
+      },
+      {
+        "layout": {
+          "tile_width": 2,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_s21_snowbunny_02"
+      }
+    ],
+    "target_ids": [
+      "target_fp28_pass_owned_dates"
+    ],
+    "name": "sym_storesection_title_tierskip",
+    "storefront": "storefront_famepass_28"
+  },
+  {
     "id": "famepass_4_tier_skip_section",
     "order_preference": 250,
     "section_height": 1,
@@ -3658,6 +3702,39 @@
     ],
     "target_ids": [
       "fp26_kudos_ongoing_master"
+    ],
+    "name": "sym_storesection_title_kudos_mastery",
+    "storefront": "storefront_featured"
+  },
+  {
+    "id": "section_fp28_kudos_master",
+    "order_preference": 997,
+    "section_height": 2,
+    "bundle_slots": [
+      {
+        "layout": {
+          "tile_width": 1,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_s10_4_cardboardmecha_02"
+      },
+      {
+        "layout": {
+          "tile_width": 1,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_s11_1_lavalamp_02"
+      },
+      {
+        "layout": {
+          "tile_width": 1,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_s10_3_steampunkbird_03"
+      }
+    ],
+    "target_ids": [
+      "fp28_kudos_ongoing_master"
     ],
     "name": "sym_storesection_title_kudos_mastery",
     "storefront": "storefront_featured"
@@ -8761,6 +8838,39 @@
     ],
     "target_ids": [
       "winterfreebie2025"
+    ],
+    "name": "storesection_fg_winter_name",
+    "storefront": "storefront_featured"
+  },
+  {
+    "id": "section_winter_freebie2026",
+    "order_preference": 50,
+    "section_height": 2,
+    "bundle_slots": [
+      {
+        "layout": {
+          "tile_width": 1,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_bottom_s10_5_sil_xmaswreathbelt_02"
+      },
+      {
+        "layout": {
+          "tile_width": 1,
+          "tile_height": 2
+        },
+        "bundle_slot": "bundle_pattern_s10_7_caricature"
+      },
+      {
+        "layout": {
+          "tile_width": 1,
+          "tile_height": 2
+        },
+        "bundle_slot": "kudos_winter_2026"
+      }
+    ],
+    "target_ids": [
+      "winterfreebie2026"
     ],
     "name": "storesection_fg_winter_name",
     "storefront": "storefront_featured"

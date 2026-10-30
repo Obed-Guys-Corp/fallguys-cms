@@ -10364,6 +10364,17 @@
     }
   },
   {
+    "id": "fp28_active_dates",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-11-01T12:00:00",
+        "end": "2027-01-01T11:59:59"
+      }
+    }
+  },
+  {
     "id": "fp28_blackbird",
     "parameters": {
       "type": "date_time",
@@ -10470,6 +10481,28 @@
         "operator": "between",
         "start": "2026-11-17T10:00:00",
         "end": "2026-11-24T10:00:00"
+      }
+    }
+  },
+  {
+    "id": "fp28_kudos_ongoing_master",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-11-01T12:00:00",
+        "end": "2027-03-01T11:59:59"
+      }
+    }
+  },
+  {
+    "id": "fp28_le_winter",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-12-01T12:00:00",
+        "end": "2027-01-01T11:59:59"
       }
     }
   },
@@ -14502,8 +14535,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-07-21T12:00:00",
-        "end": "2026-07-28T11:59:59"
+        "start": "2026-12-01T12:00:00",
+        "end": "2026-12-08T11:59:59"
       }
     }
   },
@@ -16397,6 +16430,21 @@
     }
   },
   {
+    "id": "not_owned_bottom_s10_5_sil_xmaswreathbelt_02",
+    "parameters": {
+      "type": "purchase_history",
+      "data": {
+        "bundle": {
+          "id": "bundle_bottom_s10_5_sil_xmaswreathbelt_02"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "not_owned_bundle_emojiui_s11_4_pegwin",
     "parameters": {
       "type": "purchase_history",
@@ -16418,6 +16466,36 @@
       "data": {
         "bundle": {
           "id": "bundle_emojiui_s11_5_cosywinterhat"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "not_owned_bundle_pattern_s10_25",
+    "parameters": {
+      "type": "purchase_history",
+      "data": {
+        "bundle": {
+          "id": "bundle_pattern_s10_25"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "not_owned_bundle_pattern_s10_7_caricature",
+    "parameters": {
+      "type": "purchase_history",
+      "data": {
+        "bundle": {
+          "id": "bundle_pattern_s10_7_caricature"
         },
         "quantity": {
           "operator": "less_than",
@@ -16487,6 +16565,21 @@
     }
   },
   {
+    "id": "not_owned_kudos_winter_2026",
+    "parameters": {
+      "type": "purchase_history",
+      "data": {
+        "bundle": {
+          "id": "kudos_winter_2026"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "one_round_played_ko",
     "parameters": {
       "type": "player_stat",
@@ -16518,8 +16611,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-04-07T12:00:00",
-        "end": "2026-04-14T11:59:59"
+        "start": "2026-12-08T12:00:00",
+        "end": "2026-12-15T11:59:59"
       }
     }
   },
@@ -16615,8 +16708,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-07-07T12:00:00",
-        "end": "2026-07-14T11:59:59"
+        "start": "2026-11-24T12:00:00",
+        "end": "2026-12-01T11:59:59"
       }
     }
   },
@@ -21630,8 +21723,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-08-04T12:00:00",
-        "end": "2026-08-11T11:59:59"
+        "start": "2026-12-15T12:00:00",
+        "end": "2026-12-22T11:59:59"
       }
     }
   },
@@ -21676,8 +21769,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2025-12-23T12:00:00",
-        "end": "2025-12-30T11:59:59"
+        "start": "2026-12-22T12:00:00",
+        "end": "2026-12-29T11:59:59"
       }
     }
   },
@@ -21687,8 +21780,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2025-11-11T12:00:00",
-        "end": "2025-11-18T11:59:59"
+        "start": "2026-11-03T12:00:00",
+        "end": "2026-11-10T11:59:59"
       }
     }
   },
@@ -23475,6 +23568,22 @@
     }
   },
   {
+    "id": "target_famepass_fp28_notowned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "season_passes",
+          "reference": "season_passes.famepass_28"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "parameters": {
       "type": "item_quantity",
@@ -23949,6 +24058,21 @@
     }
   },
   {
+    "id": "target_fp28_pass_owned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "season_passes",
+          "reference": "season_passes.famepass_28"
+        },
+        "quantity": {
+          "operator": "more_than"
+        }
+      }
+    }
+  },
+  {
     "id": "target_kudos_solos_chill",
     "parameters": {
       "type": "date_time",
@@ -24262,6 +24386,22 @@
     }
   },
   {
+    "id": "target_s21_snowbunny_02_not_owned",
+    "parameters": {
+      "type": "item_quantity",
+      "data": {
+        "item": {
+          "type": "costumes_upper",
+          "reference": "costumes_upper.top_s21_snowbunny_02"
+        },
+        "quantity": {
+          "operator": "less_than",
+          "max": 1
+        }
+      }
+    }
+  },
+  {
     "id": "target_season001_pass_not-purchased",
     "parameters": {
       "type": "purchase_history",
@@ -24519,8 +24659,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-02-24T12:00:00",
-        "end": "2026-03-03T11:59:59"
+        "start": "2026-11-10T12:00:00",
+        "end": "2026-11-17T11:59:59"
       }
     }
   },
@@ -24530,8 +24670,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2026-02-17T12:00:00",
-        "end": "2026-02-24T11:59:59"
+        "start": "2026-11-17T12:00:00",
+        "end": "2026-11-24T11:59:59"
       }
     }
   },
@@ -24690,6 +24830,17 @@
     }
   },
   {
+    "id": "winterfreebie2026",
+    "parameters": {
+      "type": "date_time",
+      "data": {
+        "operator": "between",
+        "start": "2026-12-15T10:00:00",
+        "end": "2027-01-05T10:00:00"
+      }
+    }
+  },
+  {
     "id": "xmastree_rework",
     "parameters": {
       "type": "date_time",
@@ -24717,8 +24868,8 @@
       "type": "date_time",
       "data": {
         "operator": "between",
-        "start": "2025-12-16T12:00:00",
-        "end": "2025-12-23T11:59:59"
+        "start": "2026-12-29T12:00:00",
+        "end": "2027-01-05T11:59:59"
       }
     }
   },

@@ -576,6 +576,18 @@
     ]
   },
   {
+    "id": "bundle_bottom_s10_5_sil_xmaswreathbelt_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_bottom_s10_5_sil_xmaswreathbelt_02"
+      }
+    ],
+    "target_ids": [
+      "bundle_bottom_s10_5_sil_xmaswreathbelt_02"
+    ]
+  },
+  {
     "id": "bundle_bottom_s11_4_sil_rollerbot_01",
     "bundle": [
       {
@@ -4165,6 +4177,18 @@
     ]
   },
   {
+    "id": "bundle_pattern_s10_25",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_pattern_s10_25"
+      }
+    ],
+    "target_ids": [
+      "disabled_year_1900"
+    ]
+  },
+  {
     "id": "bundle_pattern_s10_2_tern02",
     "bundle": [
       {
@@ -4186,6 +4210,18 @@
     ],
     "target_ids": [
       "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "bundle_pattern_s10_7_caricature",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_pattern_s10_7_caricature"
+      }
+    ],
+    "target_ids": [
+      "not_owned_bundle_pattern_s10_7_caricature"
     ]
   },
   {
@@ -4501,11 +4537,35 @@
     ]
   },
   {
+    "id": "bundle_s10_3_steampunkbird_03",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s10_3_steampunkbird_03"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
     "id": "bundle_s10_3_zombear_02",
     "bundle": [
       {
         "weight": 100,
         "bundle_id": "bundle_s10_3_zombear_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "bundle_s10_4_cardboardmecha_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s10_4_cardboardmecha_02"
       }
     ],
     "target_ids": [
@@ -4654,6 +4714,18 @@
     ],
     "target_ids": [
       "s10_single_purchase_bundle_fishingpelican_02"
+    ]
+  },
+  {
+    "id": "bundle_s11_1_lavalamp_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s11_1_lavalamp_02"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
     ]
   },
   {
@@ -4882,6 +4954,18 @@
     ],
     "target_ids": [
       "target_s21_skibabybear_03_not_owned"
+    ]
+  },
+  {
+    "id": "bundle_s21_snowbunny_02",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_s21_snowbunny_02"
+      }
+    ],
+    "target_ids": [
+      "target_s21_snowbunny_02_not_owned"
     ]
   },
   {
@@ -5965,6 +6049,18 @@
     ]
   },
   {
+    "id": "bundleslot_famepass_28",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "bundle_famepass_28"
+      }
+    ],
+    "target_ids": [
+      "target_famepass_fp28_notowned"
+    ]
+  },
+  {
     "id": "bundleslot_single_costumeset_1x2_cuphead",
     "bundle": [
       {
@@ -6534,6 +6630,18 @@
       {
         "weight": 1,
         "bundle_id": "fp27_tier_skip_bundle"
+      }
+    ],
+    "target_ids": [
+      "after_prime_global_launch"
+    ]
+  },
+  {
+    "id": "fp28_tier_skip_bundle",
+    "bundle": [
+      {
+        "weight": 1,
+        "bundle_id": "fp28_tier_skip_bundle"
       }
     ],
     "target_ids": [
@@ -7990,6 +8098,18 @@
     ],
     "target_ids": [
       "kudos_winter_2025"
+    ]
+  },
+  {
+    "id": "kudos_winter_2026",
+    "bundle": [
+      {
+        "weight": 100,
+        "bundle_id": "kudos_winter_2026"
+      }
+    ],
+    "target_ids": [
+      "kudos_winter_2026"
     ]
   },
   {

@@ -584,6 +584,42 @@
     "reward_id": "bottom_s11_3_idolrevisitone_03"
   },
   {
+    "id": "fp28_winter_master_win_ranked",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 80,
+    "goal_id": "win_ranked_knockout_3",
+    "reward_id": "pattern_s21_techundersuit"
+  },
+  {
+    "id": "fp28_winter_master_win_ranked_02",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 60,
+    "goal_id": "win_ranked_knockout_5",
+    "reward_id": "top_s21_cyberbean_02"
+  },
+  {
+    "id": "fp28_winter_master_win_squads_02",
+    "active": true,
+    "rarity_id": "challenge_rarity.special",
+    "crown_ranks": {
+      "minimum_level": 1,
+      "maximum_level": 1000
+    },
+    "priority": 70,
+    "goal_id": "win_squads_5",
+    "reward_id": "bottom_s21_cyberbean_02"
+  },
+  {
     "id": "grab_thief_as_seeker",
     "active": true,
     "rarity_id": "challenge_rarity.uncommon",

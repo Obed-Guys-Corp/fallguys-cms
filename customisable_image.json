@@ -448,6 +448,10 @@
     "custom_image": "bg_bundle_magmabean_2x2"
   },
   {
+    "id": "bg_bundle_new_tier_skip_fp28",
+    "custom_image": "bg_bundle_new_tier_skip_fp28"
+  },
+  {
     "id": "bg_bundle_newtierskip_fp27",
     "custom_image": "bg_bundle_newtierskip_fp27"
   },
@@ -554,6 +558,10 @@
   {
     "id": "bg_bundle_seasonpass25_storebundle",
     "custom_image": "bg_bundle_seasonpass25_storebundle"
+  },
+  {
+    "id": "bg_bundle_seasonpass2_storebundle_background",
+    "custom_image": "bg_bundle_seasonpass2_storebundle_background"
   },
   {
     "id": "bg_bundle_seasonpass_20",

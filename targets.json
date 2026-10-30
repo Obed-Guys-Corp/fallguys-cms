@@ -213,6 +213,14 @@
     "conditions": []
   },
   {
+    "id": "bundle_bottom_s10_5_sil_xmaswreathbelt_02",
+    "condition_ids": [
+      "winterfreebie2026",
+      "not_owned_bottom_s10_5_sil_xmaswreathbelt_02"
+    ],
+    "conditions": []
+  },
+  {
     "id": "bundle_emojiui_s11_4_pegwin",
     "condition_ids": [
       "winterfreebie2025",
@@ -10090,6 +10098,13 @@
     "conditions": []
   },
   {
+    "id": "fp28_active_dates",
+    "condition_ids": [
+      "fp28_active_dates"
+    ],
+    "conditions": []
+  },
+  {
     "id": "fp28_blackbird",
     "condition_ids": [
       "fp28_blackbird"
@@ -10156,6 +10171,20 @@
     "id": "fp28_kingfisher",
     "condition_ids": [
       "fp28_kingfisher"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "fp28_kudos_ongoing_master",
+    "condition_ids": [
+      "fp28_kudos_ongoing_master"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "fp28_le_winter",
+    "condition_ids": [
+      "fp28_le_winter"
     ],
     "conditions": []
   },
@@ -12450,6 +12479,14 @@
     "conditions": []
   },
   {
+    "id": "kudos_winter_2026",
+    "condition_ids": [
+      "winterfreebie2026",
+      "not_owned_kudos_winter_2026"
+    ],
+    "conditions": []
+  },
+  {
     "id": "le_chickpea",
     "condition_ids": [
       "is_mobile_user"
@@ -13452,6 +13489,22 @@
     "id": "not_mobile_group",
     "condition_ids": [
       "is_not_mobile_group"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "not_owned_bundle_pattern_s10_25",
+    "condition_ids": [
+      "winterfreebie2026",
+      "not_owned_bundle_pattern_s10_25"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "not_owned_bundle_pattern_s10_7_caricature",
+    "condition_ids": [
+      "winterfreebie2026",
+      "not_owned_bundle_pattern_s10_7_caricature"
     ],
     "conditions": []
   },
@@ -17589,6 +17642,13 @@
     "conditions": []
   },
   {
+    "id": "target_famepass_fp28_notowned",
+    "condition_ids": [
+      "target_famepass_fp28_notowned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_famepass_fp4_notowned",
     "condition_ids": [
       "target_famepass_fp4_notowned"
@@ -17841,6 +17901,14 @@
     "conditions": []
   },
   {
+    "id": "target_fp28_pass_owned_dates",
+    "condition_ids": [
+      "fp28_active_dates",
+      "target_fp28_pass_owned"
+    ],
+    "conditions": []
+  },
+  {
     "id": "target_fp4_pass_owned_dates",
     "condition_ids": [
       "target_famepass_fp4_owned",
@@ -18043,6 +18111,14 @@
     "condition_ids": [
       "target_s21_skibabybear_03_not_owned",
       "fp22_active_dates"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "target_s21_snowbunny_02_not_owned",
+    "condition_ids": [
+      "target_s21_snowbunny_02_not_owned",
+      "fp28_active_dates"
     ],
     "conditions": []
   },
@@ -18602,6 +18678,13 @@
     "id": "winterfreebie2025",
     "condition_ids": [
       "winterfreebie2025"
+    ],
+    "conditions": []
+  },
+  {
+    "id": "winterfreebie2026",
+    "condition_ids": [
+      "winterfreebie2026"
     ],
     "conditions": []
   },

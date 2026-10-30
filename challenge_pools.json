@@ -897,6 +897,16 @@
     ]
   },
   {
+    "id": "fp28_winter_master_challenges",
+    "challenge_ids": [
+      "challenges.fp22_winter_master_win_any",
+      "challenges.fp22_winter_master_win_squads",
+      "challenges.fp28_winter_master_win_ranked",
+      "challenges.fp28_winter_master_win_squads_02",
+      "challenges.fp28_winter_master_win_ranked_02"
+    ]
+  },
+  {
     "id": "greatest_squads_challenges_pool",
     "challenge_ids": [
       "challenges.play_gs_ltm_03",
