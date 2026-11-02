@@ -15036,6 +15036,13 @@
     }
   },
   {
+    "id": "ui_bundle_tierskip_empty_eg",
+    "dlc_item": {
+      "path": "/21db0fce-38f7-46a7-a65d-1b498b8a4854-high_res.png",
+      "base": "https://dlc-images-prod.fallguys-dev-tools.oncatapult.com/gamefuel-dlc-images"
+    }
+  },
+  {
     "id": "ui_bundle_tierskip_fp19",
     "dlc_item": {
       "path": "/896e75da-6c16-4a2a-815f-c8ddd5052665-high_res.png",
